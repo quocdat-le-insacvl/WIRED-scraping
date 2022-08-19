@@ -1,0 +1,1645 @@
+# Inside China's Vast New Experiment in Social Ranking
+
+
+
+In 2015, when Lazarus Liu moved home to China after studying logistics in the United Kingdom for three years, he quickly noticed that something had changed: Everyone paid for everything with their phones.
+
+Vào năm 2015, khi Lazarus Liu chuyển về nhà ở Trung Quốc sau khi học ngành hậu cần ở Vương quốc Anh trong ba năm, anh nhanh chóng nhận thấy rằng có điều gì đó đã thay đổi: Mọi người đều trả tiền cho mọi thứ bằng điện thoại của họ.
+
+
+ At McDonald’s, the convenience store, even at mom-and-pop restaurants, his friends in Shanghai used mobile payments.
+
+ Tại McDonald's, cửa hàng tiện lợi, ngay cả tại các nhà hàng mẹ và con, bạn bè của anh ở Thượng Hải đã sử dụng thanh toán di động.
+
+
+ Cash, Liu could see, had been largely replaced by two smartphone apps: Alipay and WeChat Pay.
+
+ Tiền mặt, Liu có thể thấy, phần lớn đã được thay thế bằng hai ứng dụng điện thoại thông minh: Alipay và WeChat Pay.
+
+
+ One day, at a vegetable market, he watched a woman his mother’s age pull out her phone to pay for her groceries.
+
+ Một ngày nọ, tại một chợ rau, anh nhìn thấy một người phụ nữ bằng tuổi mẹ anh rút điện thoại ra để trả tiền mua hàng tạp hóa.
+
+
+ He decided to sign up.
+
+ Anh quyết định đăng ký.
+
+
+To get an Alipay ID, Liu had to enter his cell phone number and scan his national ID card.
+
+ Để có được ID Alipay, Liu đã phải nhập số điện thoại di động của mình và quét thẻ căn cước công dân của mình.
+
+
+ He did so reflexively.
+
+ Anh ấy đã làm như vậy theo phản xạ.
+
+
+ Alipay had built a reputation for reliability, and compared to going to a bank managed with slothlike indifference and zero attention to customer service, signing up for Alipay was almost fun.
+
+ Alipay đã tạo dựng được danh tiếng về độ tin cậy và so với việc đến một ngân hàng được quản lý với sự thờ ơ giống như con lười biếng và không chú ý đến dịch vụ khách hàng, việc đăng ký Alipay gần như rất thú vị.
+
+
+ With just a few clicks he was in.
+
+ Chỉ với một vài cú nhấp chuột, anh ấy đã tham gia.
+
+
+ Alipay’s slogan summed up the experience: “Trust makes it simple.
+
+ Khẩu hiệu của Alipay đã tóm tắt trải nghiệm: "Sự tin tưởng làm cho nó trở nên đơn giản".
+
+
+”Alipay turned out to be so convenient that Liu began using it multiple times a day, starting first thing in the morning, when he ordered breakfast through a food delivery app.
+
+ Alipay hóa ra rất tiện lợi đến nỗi Liu bắt đầu sử dụng nó nhiều lần trong ngày, bắt đầu từ điều đầu tiên vào buổi sáng, khi anh đặt bữa sáng thông qua một ứng dụng giao đồ ăn.
+
+
+ He realized that he could pay for parking through Alipay’s My Car feature, so he added his driver’s license and license plate numbers, as well as the engine number of his Audi.
+
+ Anh ấy nhận ra rằng anh ấy có thể trả tiền cho việc đậu xe thông qua tính năng My Car của Alipay, vì vậy anh ấy đã thêm số bằng lái xe và biển số xe, cũng như số động cơ của chiếc Audi của mình.
+
+
+ He started making his car insurance payments with the app.
+
+ Anh ấy bắt đầu thanh toán bảo hiểm xe hơi của mình với ứng dụng.
+
+
+ He booked doctors’ appointments there, skipping the chaotic lines for which Chinese hospitals are famous.
+
+ Ông đã đặt lịch hẹn với các bác sĩ ở đó, bỏ qua những dòng hỗn loạn mà các bệnh viện Trung Quốc nổi tiếng.
+
+
+ He added friends in Alipay’s built-in social network.
+
+ Anh ấy đã thêm bạn bè vào mạng xã hội tích hợp của Alipay.
+
+
+ When Liu went on vacation with his fiancée (now his wife) to Thailand, they paid at restaurants and bought trinkets with Alipay.
+
+ Khi Liu đi nghỉ cùng vợ sắp cưới (nay là vợ) đến Thái Lan, họ đã trả tiền tại các nhà hàng và mua đồ trang sức với Alipay.
+
+
+ He stored whatever money was left over, which wasn’t much once the vacation and car were paid for, in an Alipay money market account.
+
+ Anh ta đã cất giữ bất cứ thứ gì còn lại, số tiền này không nhiều sau khi kỳ nghỉ và xe hơi được thanh toán, trong một tài khoản thị trường tiền tệ Alipay.
+
+
+ He could have paid his electricity, gas, and internet bills in Alipay’s City Service section.
+
+ Anh ta có thể đã thanh toán các hóa đơn điện, gas và internet của mình trong phần Dịch vụ Thành phố của Alipay.
+
+
+ Like many young Chinese who had become enamored of the mobile payment services offered by Alipay and WeChat, Liu stopped bringing his wallet when he left the house.
+
+ Giống như nhiều thanh niên Trung Quốc đã trở nên say mê các dịch vụ thanh toán di động do Alipay và WeChat cung cấp, Liu đã ngừng mang theo ví của mình khi rời khỏi nhà.
+
+
+January 2018.
+
+ Tháng 2018 năm XNUMX.
+
+
+ Subscribe to WIRED.
+
+ Đăng ký WIRED.
+
+
+If you live in the United States, you are by now accustomed to relinquishing your data to corporations.
+
+ Nếu bạn sống ở Hoa Kỳ, bây giờ bạn đã quen với việc từ bỏ dữ liệu của mình cho các tập đoàn.
+
+
+ Credit card companies know when you run up bar tabs or buy sex toys.
+
+ Các công ty thẻ tín dụng biết khi bạn chạy lên các tab quán bar hoặc mua đồ chơi tình dục.
+
+
+ Facebook knows if you like Tasty cooking videos or Breitbart News.
+
+ Facebook biết nếu bạn thích video nấu ăn ngon hay Tin tức Breitbart.
+
+
+ Uber knows where you go and how you behave en route.
+
+ Uber biết bạn sẽ đi đâu và bạn cư xử như thế nào trên đường đi.
+
+
+ But Alipay knows all of these things about its users and more.
+
+ Nhưng Alipay biết tất cả những điều này về người dùng của mình và hơn thế nữa.
+
+
+ Owned by Ant Financial, an affiliate of the massive Alibaba corporation, Alipay is sometimes called a super app.
+
+ Thuộc sở hữu của Ant Financial, một chi nhánh của tập đoàn Alibaba khổng lồ, Alipay đôi khi được gọi là siêu ứng dụng.
+
+
+ Its main competitor, WeChat, belongs to the social and gaming giant Tencent.
+
+ Đối thủ cạnh tranh chính của nó, WeChat, thuộc về gã khổng lồ xã hội và trò chơi Tencent.
+
+
+ Alipay and WeChat are less like individual apps than entire ecosystems.
+
+ Alipay và WeChat ít giống như các ứng dụng riêng lẻ hơn là toàn bộ hệ sinh thái.
+
+
+ Whenever Liu opened Alipay on his phone, he saw a neat grid of icons that vaguely resembled the home screen on his Samsung.
+
+ Bất cứ khi nào Liu mở Alipay trên điện thoại của mình, anh ta nhìn thấy một lưới các biểu tượng gọn gàng mơ hồ giống với màn hình chính trên Samsung của mình.
+
+
+ Some of the icons were themselves full-blown third-party apps.
+
+ Một số biểu tượng tự là ứng dụng của bên thứ ba toàn diện.
+
+
+ If he wanted to, he could access Airbnb, Uber, or Uber’s Chinese rival Didi, entirely from inside Alipay.
+
+ Nếu muốn, anh ta có thể tiếp cận Airbnb, Uber hoặc đối thủ Trung Quốc của Uber là Didi, hoàn toàn từ bên trong Alipay.
+
+
+ It was as if Amazon had swallowed eBay, Apple News, Groupon, American Express, Citibank, and YouTube—and could siphon up data from all of them.
+
+ Như thể Amazon đã nuốt chửng eBay, Apple News, Groupon, American Express, Citibank và YouTube — và có thể hút dữ liệu từ tất cả chúng.
+
+
+One day a new icon appeared on Liu’s Alipay home screen.
+
+ Một ngày nọ, một biểu tượng mới xuất hiện trên màn hình chính Alipay của Liu.
+
+
+ It was labeled Zhima Credit (or Sesame Credit).
+
+ Nó được dán nhãn Zhima Credit (hoặc Sesame Credit).
+
+
+ The name, like that of Alipay’s parent company, evoked the story of Ali Baba and the 40 thieves, in which the words open sesame magically unseal a cave full of treasure.
+
+ Cái tên, giống như cái tên của công ty mẹ Alipay, gợi lên câu chuyện về Ali Baba và 40 tên trộm, trong đó dòng chữ mở ra một cách kỳ diệu một hang động đầy kho báu.
+
+
+ When Liu touched the icon, he was greeted by an image of the Earth.
+
+ Khi Liu chạm vào biểu tượng, anh được chào đón bởi một hình ảnh của Trái đất.
+
+
+ “Zhima Credit is the embodiment of personal credit,” the text underneath read.
+
+ "Tín dụng Zhima là hiện thân của tín dụng cá nhân," văn bản bên dưới viết.
+
+
+ “It uses big data to conduct an objective assessment.
+
+ "Nó sử dụng dữ liệu lớn để tiến hành đánh giá khách quan.
+
+
+ The higher the score, the better your credit.
+
+ Điểm càng cao, tín dụng của bạn càng tốt.
+
+
+” Further down was a button that read, in clean white characters, “Start my credit journey.
+
+ Xa hơn nữa là một nút có nội dung, bằng các ký tự màu trắng sạch sẽ, "Bắt đầu hành trình tín dụng của tôi.
+
+
+” He tapped.
+
+" Anh ấy gõ nhẹ.
+
+
+In 1956 an electrical engineer named Bill Fair and a mathematician named Earl Isaac started a small tech company out of a San Francisco apartment.
+
+ Năm 1956, một kỹ sư điện tên là Bill Fair và một nhà toán học tên là Earl Isaac đã thành lập một công ty công nghệ nhỏ từ một căn hộ ở San Francisco.
+
+
+ They named it Fair, Isaac and Co.
+
+ Họ đặt tên cho nó là Fair, Isaac and Co.
+
+
+, but the business eventually came to be known, for short, as FICO.
+
+, nhưng công việc kinh doanh cuối cùng đã được biết đến, gọi tắt là FICO.
+
+
+ Their chief innovation was using computer­-driven statistical ­analysis to translate people’s personal details and financial history into a simple score, predicting how likely they were to pay back loans.
+
+ Sự đổi mới chính của họ là sử dụng phân tích thống kê dựa trên máy tính để dịch các chi tiết cá nhân và lịch sử tài chính của mọi người thành một điểm số đơn giản, dự đoán khả năng họ trả lại các khoản vay.
+
+
+ Before FICO, credit bureaus relied in part on gossip culled from people’s landlords, neighbors, and local grocers.
+
+ Trước FICO, các văn phòng tín dụng một phần dựa vào tin đồn được loại bỏ từ chủ nhà, hàng xóm và cửa hàng tạp hóa địa phương của người dân.
+
+
+ Applicants’ race could be counted against them, as could messiness, poor morals, and “effeminate gestures.
+
+ Chủng tộc của các ứng viên có thể được tính là chống lại họ, cũng như sự lộn xộn, đạo đức kém và "cử chỉ ẻo lả".
+
+
+” Algorithmic scoring, Fair and Isaac argued, was a more equitable, scientific alternative to this unfair reality.
+
+ Fair và Isaac lập luận rằng chấm điểm thuật toán là một giải pháp thay thế khoa học, công bằng hơn cho thực tế không công bằng này.
+
+
+ FICO’s approach eventually caught on among the credit bureaus—TransUnion, Experian, and Equifax—and in 1989 FICO introduced the credit score we know today, enabling millions of Americans to take out mortgages and rack up credit card bills.
+
+ Cách tiếp cận của FICO cuối cùng đã được đưa vào giữa các văn phòng tín dụng — TransUnion, Experian và Equifax — và vào năm 1989, FICO đã giới thiệu điểm tín dụng mà chúng ta biết ngày nay, cho phép hàng triệu người Mỹ thế chấp và tăng hóa đơn thẻ tín dụng.
+
+
+During the past 30 years, by contrast, China has grown to become the world’s second largest economy without much of a functioning credit system at all.
+
+ Ngược lại, trong suốt 30 năm qua, Trung Quốc đã phát triển để trở thành nền kinh tế lớn thứ hai thế giới mà không có nhiều hệ thống tín dụng hoạt động.
+
+
+ The People’s Bank of China, the country’s central banking regulator, maintains records on millions of consumers, but they often contain little or no information.
+
+ Ngân hàng Nhân dân Trung Quốc, cơ quan quản lý ngân hàng trung ương của đất nước, duy trì hồ sơ của hàng triệu người tiêu dùng, nhưng chúng thường chứa rất ít hoặc không có thông tin.
+
+
+ Until recently, it was difficult to get a credit card with any bank other than your own.
+
+ Cho đến gần đây, rất khó để có được một thẻ tín dụng với bất kỳ ngân hàng nào khác ngoài ngân hàng của bạn.
+
+
+ Consumers mainly used cash.
+
+ Người tiêu dùng chủ yếu sử dụng tiền mặt.
+
+
+ As housing prices spiked, this became increasingly untenable.
+
+ Khi giá nhà đất tăng đột biến, điều này ngày càng trở nên không thể chống đỡ được.
+
+
+ “Now you need two suitcases to buy a house, not just one,” says Zennon Kapron, who heads the financial tech consultancy Kapronasia.
+
+ "Bây giờ bạn cần hai chiếc vali để mua một ngôi nhà, không chỉ một chiếc", Zennon Kapron, người đứng đầu công ty tư vấn công nghệ tài chính Kapronasia cho biết.
+
+
+ Still, efforts to establish a reliable credit system foundered because China lacked a third-party credit scoring entity.
+
+ Tuy nhiên, những nỗ lực để thiết lập một hệ thống tín dụng đáng tin cậy được thành lập vì Trung Quốc thiếu một thực thể chấm điểm tín dụng của bên thứ ba.
+
+
+ What it did have by the end of 2011 were 356 million smartphone users.
+
+ Những gì nó đã có vào cuối năm 2011 là 356 triệu người dùng điện thoại thông minh.
+
+
+On the screen was a button that read, “Start my credit journey.
+
+ Trên màn hình là một nút có nội dung "Bắt đầu hành trình tín dụng của tôi.
+
+
+” Liu tapped.
+
+" Lưu vỗ nhẹ.
+
+
+That year, Ant Financial launched a version of Alipay with a built-in scanner for reading QR codes—square, machine-readable labels that can hold over 100 times more information than a standard bar code.
+
+ Năm đó, Ant Financial đã ra mắt phiên bản Alipay với máy quét tích hợp để đọc mã QR — nhãn vuông, có thể đọc được bằng máy có thể chứa thông tin gấp hơn 100 lần so với mã vạch tiêu chuẩn.
+
+
+ (WeChat Pay, which launched in 2013, has a similar built-in scanner.
+
+ (WeChat Pay, ra mắt vào năm 2013, có một máy quét tích hợp tương tự.
+
+
+) Scanning a QR code can bring you to a website, or pull up an app, or connect you to a person’s social media profile.
+
+) Quét mã QR có thể đưa bạn đến một trang web hoặc kéo lên một ứng dụng hoặc kết nối bạn với hồ sơ mạng xã hội của một người.
+
+
+ Codes started showing up on graves (scan to learn more about the deceased) and the shirts of waiters (scan to tip).
+
+ Mã bắt đầu hiển thị trên các ngôi mộ (quét để tìm hiểu thêm về người quá cố) và áo sơ mi của người phục vụ (quét để boa).
+
+
+ Beggars printed out QR codes and set them out on the street.
+
+ Những người ăn xin đã in mã QR và đặt chúng trên đường phố.
+
+
+ The codes linked the online and offline realms on a scale not seen anywhere else in the world.
+
+ Các mã đã liên kết các lĩnh vực trực tuyến và ngoại tuyến trên quy mô chưa từng thấy ở bất kỳ nơi nào khác trên thế giới.
+
+
+ That first year with the QR scanner, Alipay mobile payments reached nearly $70 billion.
+
+ Năm đầu tiên đó với máy quét QR, thanh toán di động Alipay đạt gần 70 tỷ đô la.
+
+
+In 2013, Ant Financial executives retreated to the mountains outside Hangzhou to discuss creating a slew of new products; one of them was Zhima Credit.
+
+ Năm 2013, các giám đốc điều hành của Ant Financial đã rút lui đến vùng núi bên ngoài Hàng Châu để thảo luận về việc tạo ra một loạt các sản phẩm mới; một trong số đó là Zhima Credit.
+
+
+ The executives realized that they could use the data-collecting powers of Alipay to calculate a credit score based on an individual’s activities.
+
+ Các giám đốc điều hành nhận ra rằng họ có thể sử dụng quyền thu thập dữ liệu của Alipay để tính điểm tín dụng dựa trên hoạt động của một cá nhân.
+
+
+ “It was a very natural process,” says You Xi, a Chinese business reporter who detailed this pivotal meeting in a recent book, Ant Financial.
+
+ "Đó là một quá trình rất tự nhiên", You Xi, một phóng viên kinh doanh Trung Quốc, người đã trình bày chi tiết cuộc gặp quan trọng này trong một cuốn sách gần đây, Ant Financial.
+
+
+ “If you have payment data, you can assess the credit of a person.
+
+ "Nếu bạn có dữ liệu thanh toán, bạn có thể đánh giá tín dụng của một người.
+
+
+” And so the tech company began the process of creating a score that would be “credit for everything in your life,” as You explains it.
+
+" Và vì vậy, công ty công nghệ đã bắt đầu quá trình tạo ra một điểm số sẽ là "tín dụng cho mọi thứ trong cuộc sống của bạn", như Bạn giải thích điều đó.
+
+
+Ant Financial wasn’t the only entity keen on using data to measure people’s worth.
+
+ Ant Financial không phải là thực thể duy nhất quan tâm đến việc sử dụng dữ liệu để đo lường giá trị của mọi người.
+
+
+ Coincidentally or not, in 2014 the Chinese government announced it was developing what it called a system of “social credit.
+
+ Dù trùng hợp hay không, vào năm 2014, chính phủ Trung Quốc tuyên bố họ đang phát triển cái mà họ gọi là hệ thống "tín dụng xã hội".
+
+
+” In 2014, the State Council, China’s governing cabinet, publicly called for the establishment of a nationwide tracking system to rate the reputations of individuals, businesses, and even government officials.
+
+ Năm 2014, Hội đồng Nhà nước, nội các cầm quyền của Trung Quốc, đã công khai kêu gọi thiết lập một hệ thống theo dõi trên toàn quốc để đánh giá danh tiếng của các cá nhân, doanh nghiệp và thậm chí cả các quan chức chính phủ.
+
+
+ The aim is for every Chinese citizen to be trailed by a file compiling data from public and private sources by 2020, and for those files to be searchable by fingerprints and other biometric characteristics.
+
+ Mục đích là để mọi công dân Trung Quốc được theo dõi bởi một tệp tổng hợp dữ liệu từ các nguồn công khai và riêng tư vào năm 2020 và để các tệp đó có thể được tìm kiếm bằng dấu vân tay và các đặc điểm sinh trắc học khác.
+
+
+ The State Council calls it a “credit system that covers the whole society.
+
+ Hội đồng Nhà nước gọi đó là "hệ thống tín dụng bao phủ toàn xã hội".
+
+
+”For the Chinese Communist Party, social credit is an attempt at a softer, more invisible authoritarianism.
+
+ Đối với Đảng Cộng sản Trung Quốc, tín dụng xã hội là một nỗ lực đối với một chủ nghĩa độc đoán mềm mại hơn, vô hình hơn.
+
+
+ The goal is to nudge people toward behaviors ranging from energy conservation to obedience to the Party.
+
+ Mục đích là để thúc đẩy mọi người hướng tới các hành vi khác nhau, từ bảo tồn năng lượng đến sự vâng lời của Đảng.
+
+
+ Samantha Hoffman, a consultant with the International Institute for Strategic Studies in London who is researching social credit, says that the government wants to preempt instability that might threaten the Party.
+
+ Samantha Hoffman, một nhà tư vấn của Viện Nghiên cứu Chiến lược Quốc tế ở London, người đang nghiên cứu tín dụng xã hội, nói rằng chính phủ muốn ngăn chặn sự bất ổn có thể đe dọa Đảng.
+
+
+ “That’s why social credit ideally requires both coercive aspects and nicer aspects, like providing social services and solving real problems.
+
+ "Đó là lý do tại sao tín dụng xã hội lý tưởng đòi hỏi cả khía cạnh cưỡng chế và khía cạnh tốt hơn, như cung cấp dịch vụ xã hội và giải quyết các vấn đề thực tế.
+
+
+ It’s all under the same Orwellian umbrella.
+
+ Tất cả đều nằm dưới cùng một chiếc ô Orwellian.
+
+
+”In 2015 Ant Financial was one of eight tech companies granted approval from the People’s Bank of China to develop their own private credit scoring platforms.
+
+ Năm 2015, Ant Financial là một trong tám công ty công nghệ được Ngân hàng Nhân dân Trung Quốc chấp thuận phát triển nền tảng chấm điểm tín dụng tư nhân của riêng họ.
+
+
+ Zhima Credit appeared in the Alipay app shortly after that.
+
+ Zhima Credit xuất hiện trong ứng dụng Alipay ngay sau đó.
+
+
+ The service tracks your behavior on the app to arrive at a score between 350 and 950, and offers perks and rewards to those with good scores.
+
+ Dịch vụ theo dõi hành vi của bạn trên ứng dụng để đạt được số điểm từ 350 đến 950, đồng thời cung cấp các đặc quyền và phần thưởng cho những người có điểm số tốt.
+
+
+ Zhima Credit’s algorithm considers not only whether you repay your bills but also what you buy, what degrees you hold, and the scores of your friends.
+
+ Thuật toán của Zhima Credit không chỉ xem xét liệu bạn có trả nợ mà còn cả những gì bạn mua, những bằng cấp bạn nắm giữ và điểm số của bạn bè của bạn.
+
+
+ Like Fair and Isaac decades earlier, Ant Financial executives talked publicly about how a data-driven approach would open up the financial system to people who had been locked out, like students and rural Chinese.
+
+ Giống như Fair và Isaac nhiều thập kỷ trước đó, các giám đốc điều hành của Ant Financial đã nói chuyện công khai về cách tiếp cận dựa trên dữ liệu sẽ mở ra hệ thống tài chính cho những người đã bị khóa, như sinh viên và nông thôn Trung Quốc.
+
+
+ For the more than 200 million Alipay users who have opted in to Zhima Credit, the sell is clear: Your data will magically open doors for you.
+
+ Đối với hơn 200 triệu người dùng Alipay đã chọn tham gia Zhima Credit, việc bán hàng rất rõ ràng: Dữ liệu của bạn sẽ mở ra cánh cửa cho bạn một cách kỳ diệu.
+
+
+Participating in Zhima Credit is voluntary, and it’s unclear whether or how signing up for it could affect an individual’s rating in the government system.
+
+ Việc tham gia Zhima Credit là tự nguyện và không rõ liệu việc đăng ký tham gia có thể ảnh hưởng đến xếp hạng của một cá nhân trong hệ thống chính phủ hay không.
+
+
+ Ant Financial declined to let me interview anyone from the company, but did provide a statement from Hu Tao, the general manager of Zhima Credit.
+
+ Ant Financial từ chối cho tôi phỏng vấn bất kỳ ai trong công ty, nhưng đã cung cấp một tuyên bố từ Hu Tao, tổng giám đốc của Zhima Credit.
+
+
+ “Zhima Credit is dedicated to creating trust in a commercial setting and independent of any government-initiated social credit system,” the statement reads.
+
+ "Zhima Credit được dành riêng để tạo niềm tin vào môi trường thương mại và độc lập với bất kỳ hệ thống tín dụng xã hội nào do chính phủ khởi xướng," tuyên bố viết.
+
+
+ “Zhima Credit does not share user scores or underlying data with any third party including the government without the user’s prior consent.
+
+ "Zhima Credit không chia sẻ điểm số của người dùng hoặc dữ liệu cơ bản với bất kỳ bên thứ ba nào bao gồm cả chính phủ mà không có sự đồng ý trước của người dùng.
+
+
+”Ant Financial did state, however, in a 2015 press release that the company plans “to help build a social integrity system.
+
+" Tuy nhiên, Ant Financial đã tuyên bố trong một thông cáo báo chí năm 2015 rằng công ty có kế hoạch "giúp xây dựng một hệ thống liêm chính xã hội".
+
+
+” And the company has already cooperated with the Chinese government in one important way: It has integrated a blacklist of more than 6 million people who have defaulted on court fines into Zhima Credit’s database.
+
+ Và công ty đã hợp tác với chính phủ Trung Quốc theo một cách quan trọng: Nó đã tích hợp một danh sách đen gồm hơn 6 triệu người đã vỡ nợ tiền phạt tại tòa án vào cơ sở dữ liệu của Zhima Credit.
+
+
+ According to Xinhua, the state news agency, this union of big tech and big government has helped courts punish more than 1.
+
+ Theo Tân Hoa Xã, hãng thông tấn nhà nước, liên minh công nghệ lớn và chính phủ lớn này đã giúp các tòa án trừng phạt hơn 1,21 triệu người vỡ nợ, những người đã mở Tín dụng Zhima của họ một ngày để thấy điểm số của họ giảm mạnh.
+
+
+21 million defaulters, who opened their Zhima Credit one day to find their scores plunging.
+
+ Hội đồng Nhà nước đã báo hiệu rằng theo hệ thống tín dụng xã hội quốc gia, mọi người sẽ bị phạt vì tội phát tán tin đồn trực tuyến, trong số các tội danh khác, và những người được coi là "không đáng tin cậy nghiêm trọng" có thể mong đợi nhận được các dịch vụ không đạt tiêu chuẩn.
+
+
+The State Council has signaled that under the national social credit system people will be penalized for the crime of spreading online rumors, among other offenses, and that those deemed “seriously untrustworthy” can expect to receive substandard services.
+
+ Ant Financial dường như cũng đang nhắm đến một xã hội bị chia rẽ theo đường lối đạo đức.
+
+
+ Ant Financial appears to be aiming for a society divided along moral lines as well.
+
+ Như Lucy Peng, giám đốc điều hành của công ty, đã được trích dẫn khi nói trong Ant Financial, Zhima Credit "sẽ đảm bảo rằng những người xấu trong xã hội không có nơi để đi, trong khi những người tốt có thể di chuyển tự do và không bị cản trở.
+
+
+ As Lucy Peng, the company’s chief executive, was quoted as saying in Ant Financial, Zhima Credit “will ensure that the bad people in society don’t have a place to go, while good people can move freely and without obstruction.
+
+" Tôi đã sống ở Trung Quốc trong phần tốt đẹp hơn của một thập kỷ nhưng đã rời đi vào năm 2014, trước khi thanh toán di động đã hoàn toàn nắm giữ.
+
+
+”I lived in China for the better part of a decade but left in 2014, before mobile payments had fully taken hold.
+
+ Ngày nay, 5,5 nghìn tỷ đô la thanh toán di động được thực hiện mỗi năm ở Trung Quốc.
+
+
+ Today $5.
+
+ (Ngược lại, thị trường thanh toán di động của Mỹ năm 2016 trị giá khoảng 112 tỷ đô la.
+
+
+5 trillion in mobile payments are made every year in China.
+
+) Khi tôi trở lại thăm vào tháng 8, tôi đã được xác định là một phần của Trung Quốc không dùng tiền mặt mới.
+
+
+ (In contrast, the US mobile payments market in 2016 was worth roughly $112 billion.
+
+ Vì vậy, tôi đã đăng ký Alipay và Zhima Credit vài giờ sau khi xuất hiện đôi mắt ảm đạm từ máy bay.
+
+
+) When I returned for a visit in August, I was determined to be a part of the new cashless China.
+
+ Bởi vì tôi thiếu lịch sử giao dịch, tôi ngay lập tức phải đối mặt với một phán đoán đáng xấu hổ: số điểm 550.
+
+
+ So I signed up for Alipay and Zhima Credit a few hours after emerging bleary-eyed from the plane.
+
+Vào ngày đầu tiên ở Thượng Hải, tôi đã mở Zhima Credit để quét một chiếc xe đạp màu vàng mà tôi thấy đang đậu ở một góc trên vỉa hè.
+
+
+ Because I lacked a transaction history, I immediately faced what felt like an embarrassing judgment: a score of 550.
+
+ Văn hóa chia sẻ xe đạp của Trung Quốc, giống như thanh toán di động, xuất hiện từ hư không, và đường phố Thượng Hải tràn ngập những chiếc xe đạp rực rỡ, được gửi đến bất cứ nơi nào các tay đua hài lòng.
+
+
+On my first day in Shanghai, I opened Zhima Credit to scan a yellow bike that I found parked at an angle on the sidewalk.
+
+ Quét mã QR của một chiếc xe đạp cho thấy một số gồm bốn chữ số đã mở khóa bánh sau và một chuyến đi qua thị trấn có giá khoảng 15 xu.
+
+
+ China’s bike-sharing culture had, like mobile payments, emerged out of nowhere, and Shanghai’s streets were littered with brightly colored bikes, deposited wherever the riders pleased.
+
+ Tuy nhiên, vì điểm số trung bình của tôi, tôi đã phải trả một khoản tiền gửi $ 30 trước khi tôi có thể quét chiếc xe đạp đầu tiên của mình.
+
+
+ A scan of a bike’s QR code revealed a four-digit number that unlocked the back wheel, and a ride across town cost roughly 15 cents.
+
+ Tôi cũng không thể nhận được kỳ nghỉ khách sạn miễn phí tiền đặt cọc hoặc cho thuê GoPro, hoặc cho thuê ô miễn phí.
+
+
+ Because of my middling score, however, I had to pay a $30 deposit before I could scan my first bike.
+
+ Tôi thuộc lớp dưới kỹ thuật số.
+
+
+ Nor could I get deposit-free hotel stays or GoPro rentals, or free umbrella rentals.
+
+ Dịch vụ "sẽ đảm bảo rằng những người xấu trong xã hội không có nơi nào để đi.
+
+
+ I belonged to the digital underclass.
+
+" Ở Trung Quốc, sự lo lắng về pianzi, hay những kẻ lừa đảo, rất sâu sắc.
+
+
+The service “will ensure that the bad people in society don't have a place to go.
+
+ Làm thế nào để tôi biết bạn không phải là một pianzi? là một câu hỏi mà mọi người thường hỏi khi nhân viên bán hàng gọi điện thoại hoặc thợ sửa chữa xuất hiện ở cửa.
+
+
+”In China, anxiety about pianzi, or swindlers, runs deep.
+
+ Mặc dù điểm số của tôi có thể không đưa tôi vào hàng ngũ của pianzi, nhưng một lời hứa của Zhima Credit là xác định những người đó.
+
+
+ How do I know you’re not a pianzi? is a question people often ask when salespeople call on the phone or repairmen show up at the door.
+
+ Các công ty có thể mua các đánh giá rủi ro cho người dùng nêu chi tiết liệu họ đã trả tiền thuê nhà hoặc tiện ích hay xuất hiện trong danh sách đen của tòa án.
+
+
+ While my score likely didn’t put me in the ranks of pianzi, one promise of Zhima Credit was identifying those who were.
+
+ Đối với các doanh nghiệp, các sản phẩm như vậy được lập hóa đơn là tiết kiệm thời gian.
+
+
+ Companies can buy risk assessments for users that detail whether they have paid their rent or utilities or appear on the court blacklist.
+
+ Trên trang web Tencent Video, tôi tình cờ thấy một quảng cáo cho Zhima Credit, trong đó một doanh nhân xem xét kỹ lưỡng những người lạ khi anh ta đi tàu điện ngầm.
+
+
+ For businesses, such products are billed as time-savers.
+
+ "Mọi người trông giống như một pianzi," anh tuyệt vọng.
+
+
+ On the site Tencent Video, I stumbled across an ad for Zhima Credit in which a businessman scrutinizes strangers as he rides the subway.
+
+ Các nhân viên của ông, cố gắng bảo vệ chống lại những khách hàng mờ ám, che các bức tường phòng hội nghị văn phòng bằng những bức ảnh về những người thấp kém và tội phạm.
+
+
+ “Everybody looks like a pianzi,” he despairs.
+
+ Nhưng sau đó — tada !— ông chủ phát hiện ra Zhima Credit, và tất cả các vấn đề của họ đã được giải quyết.
+
+
+ His employees, trying to guard against shady customers, cover the office conference room walls with photos of lowlifes and criminals.
+
+ Các nhân viên ăn mừng bằng cách xé những bức ảnh ra khỏi tường.
+
+
+ But then—tada!—the boss discovers Zhima Credit, and all of their problems are solved.
+
+ Đối với những người có hành vi tốt, Zhima Credit cung cấp các đặc quyền thông qua các thỏa thuận hợp tác mà Ant Financial đã ký kết với hàng trăm công ty và tổ chức.
+
+
+ The staff celebrate by tearing the photos off the wall.
+
+ Shenzhou Zuche, một công ty cho thuê xe hơi, cho phép những người có điểm tín dụng trên 650 có thể thuê một chiếc xe hơi mà không cần đặt cọc.
+
+
+For those with good behavior, Zhima Credit offers perks through cooperation agreements that Ant Financial has signed with hundreds of companies and institutions.
+
+ Để đổi lấy việc kiểm tra này, Shenzhou Zuche chia sẻ dữ liệu, để nếu người dùng Zhima Credit đâm một trong những chiếc xe của công ty cho thuê và từ chối thanh toán, chi tiết đó sẽ được đưa trở lại điểm tín dụng của họ.
+
+
+ Shenzhou Zuche, a car rental company, allows people with credit scores over 650 to rent a car without a deposit.
+
+ Trong một thời gian, những người có số điểm trên 750 thậm chí có thể bỏ qua đường dây kiểm tra an ninh tại sân bay thủ đô Bắc Kinh.
+
+
+ In exchange for this vetting, Shenzhou Zuche shares data, so that if a Zhima Credit user crashes one of the rental company’s cars and refuses to pay up, that detail is fed back into his or her credit score.
+
+Hai năm sau khi đăng ký Zhima Credit, Lazarus Liu đã có xu hướng đạt đến con số đó.
+
+
+ For a while people with scores over 750 could even skip the security check line at Beijing Capital Airport.
+
+ Tôi gặp Liu, 27 tuổi và làm việc tại một tập đoàn lớn, vào một buổi chiều thứ Bảy tại một trung tâm mua sắm ở trung tâm Thượng Hải, bên ngoài Forever 21.
+
+
+Two years after signing up for Zhima Credit, Lazarus Liu was trending up to that number.
+
+ Anh ta mặc một chiếc áo sơ mi đen, giày thể thao màu đen và quần đùi Air Jordan màu đen, và khuôn mặt của anh ta được đóng khung bởi một phai màu mới, với một mái tóc đen giật tắp sang một bên.
+
+
+ I met Liu, who is 27 and works at a large corporation, one Saturday afternoon at a mall in central Shanghai, outside a Forever 21.
+
+ Chúng tôi đi bộ đến một cửa hàng Starbucks đầy những người trẻ tuổi đang khom lưng trên điện thoại của họ, nhấm nháp trà đá đào và trà xanh Frappuccinos.
+
+
+ He wore a black shirt, black sneakers, and black Air Jordan shorts, and his face was framed by a fresh fade, with a jolt of black hair that flopped to one side.
+
+ Liu tuyên bố bàn mở cuối cùng.
+
+
+ We walked to a Starbucks filled with young people hunched over their phones, sipping peach iced teas and green tea Frappuccinos.
+
+ Liu nói với tôi rằng anh ấy đã chọn tên tiếng Anh của mình, La-xa-rơ, sau khi cải đạo sang Công giáo ba năm trước, nhưng tôn giáo của anh ấy chủ yếu là một vấn đề riêng tư.
+
+
+ Liu claimed the last open table.
+
+ Anh ấy đã nhìn thấy điểm Tín dụng Zhima của mình theo cách tương tự; nó tiết lộ điều gì đó về anh ấy, nhưng anh ấy chủ yếu giữ những hiểu biết đó cho riêng mình.
+
+
+Liu told me that he chose his English name, Lazarus, after converting to Catholicism three years ago, but that his religion was mostly a private affair.
+
+ Anh ấy hiếm khi kiểm tra điểm số của mình — nó chỉ ẩn nấp trong nền của ứng dụng Alipay trên Samsung của anh ấy — và vì nó tốt, anh ấy không cần phải làm vậy.
+
+
+ He saw his Zhima Credit score the same way; it revealed something about him, but he kept those insights mostly to himself.
+
+ Sau khi bắt đầu từ 600 trong số 950 điểm có thể có, anh ấy đã đạt 722 điểm, một số điểm cho phép anh ấy có các điều khoản thuận lợi về các khoản vay và cho thuê căn hộ, cũng như giới thiệu trên một số ứng dụng hẹn hò nếu anh ấy và vợ chia tay.
+
+
+ He rarely checked his score—it just lurked in the background of the Alipay app on his Samsung—and because it was good, he didn’t have to.
+
+ Với vài chục điểm nữa, anh ta có thể nhận được một thị thực hợp lý đến Luxembourg, không phải anh ta đang lên kế hoạch cho một chuyến đi như vậy.
+
+
+ After starting at 600 out of a possible 950 points, he had reached 722, a score that entitled him to favorable terms on loans and apartment rentals, as well as showcasing on several dating apps should he and his wife ever split up.
+
+ Khi Liu tích lũy được một lịch sử giao dịch và thanh toán thuận lợi trên Alipay, điểm số của anh ấy tự nhiên được cải thiện.
+
+
+ With a few dozen more points, he could get a streamlined visa to Luxembourg, not that he was planning such a trip.
+
+ Nhưng nó có thể đi xuống nếu anh ta bỏ bê việc trả tiền phạt giao thông chẳng hạn.
+
+
+As Liu amassed a favorable transaction and payment history on Alipay, his score naturally improved.
+
+ Và các đặc quyền đi kèm với điểm số cao một ngày nào đó có thể bị thu hồi vì những hành vi không liên quan gì đến nghi thức của người tiêu dùng.
+
+
+ But it could go down if he neglected to pay a traffic fine, for example.
+
+ Vào tháng 2015 năm 9.
+
+
+ And the privileges that come with a high score might someday be revoked for behaviors that have nothing to do with consumer etiquette.
+
+4, khi 9.
+
+
+ In June 2015, as 9.
+
+4 triệu thanh thiếu niên Trung Quốc tham gia kỳ thi tuyển sinh đại học quốc gia mệt mỏi, Hu Tao, tổng giám đốc Zhima Credit, nói với các phóng viên rằng Ant Financial hy vọng sẽ có được danh sách những sinh viên gian lận, để gian lận có thể trở thành một sự bạc bẽo trong hồ sơ Tín dụng Zhima của họ.
+
+
+4 million Chinese teenagers took the grueling national college entrance examination, Hu Tao, the Zhima Credit general manager, told reporters that Ant Financial hoped to obtain a list of students who cheated, so that the fraud could become a blight on their Zhima Credit records.
+
+ "Cần phải có hậu quả cho hành vi không trung thực," cô khẳng định.
+
+
+ “There should be consequences for dishonest behavior,” she avowed.
+
+ Cái tốt đã di chuyển mà không bị cản trở.
+
+
+ The good were moving without obstruction.
+
+ Một mối đe dọa treo lơ lửng trên phần còn lại.
+
+
+ A threat hung over the rest.
+
+ Alipay biết rằng vào lúc 1 giờ chiều ngày 26 tháng 8, tôi đã thuê một chiếc xe đạp thương hiệu Ofo bên ngoài Khu nhượng quyền cũ của Pháp ở Thượng Hải và đi về phía bắc, đậu nó đối diện với Đền Tĩnh An.
+
+
+Alipay knows that at 1 pm on the afternoon of August 26, I rented an Ofo brand bike outside Shanghai’s former French Concession and rode north, parking it across from Jing’an Temple.
+
+ Nó biết rằng vào lúc 1:24 chiều, tôi đã mua một món ăn nhẹ trong trung tâm mua sắm bên cạnh ngôi đền.
+
+
+ It knows that at 1:24 pm I bought a snack in the mall next to the temple.
+
+ Nó biết rằng sau đó tôi lên một chiếc xe Didi đi đến một khu phố ở phía tây bắc.
+
+
+ It knows that afterward I got in a Didi car bound for a neighborhood to the northwest.
+
+ Nó biết rằng vào lúc 3:11 chiều, tôi xuống tàu và vào một siêu thị, và nó biết (vì Alibaba sở hữu siêu thị, nơi chỉ chấp nhận Alipay khi thanh toán) rằng lúc 3:36 chiều tôi đã mua chuối, phô mai và bánh quy giòn.
+
+
+ It knows that at 3:11 pm I disembarked and entered a supermarket, and it knows (because Alibaba owns the supermarket, which accepts only Alipay at checkout) that at 3:36 pm I bought bananas, cheese, and crackers.
+
+ Nó biết rằng sau đó tôi đã lên một chiếc taxi, và tôi đến đích lúc 4:01 chiều.
+
+
+ It knows that I then got in a taxi, and that I arrived at my destination at 4:01 pm.
+
+ Nó biết số nhận dạng của chiếc taxi đã chở tôi đến đó.
+
+
+ It knows the identification number of the taxi that drove me there.
+
+ Nó biết rằng vào lúc 4:19 chiều, tôi đã trả 8 đô la cho một lần giao hàng trên Amazon.
+
+
+ It knows that at 4:19 pm I paid $8 for an Amazon delivery.
+
+ Trong ba giờ phút tuyệt vời—một trong số đó tôi đã dành ra trong bể bơi—nó không biết nơi ở của tôi.
+
+
+ For three sweet hours—one of which I spent in the swimming pool—it does not know my whereabouts.
+
+ Sau đó, nó biết rằng tôi đã thuê một chiếc xe đạp Ofo khác bên ngoài một khách sạn ở trung tâm Thượng Hải, đạp xe 10 phút và lúc 7:11 tối đậu nó bên ngoài một nhà hàng nổi tiếng.
+
+
+ Then it knows that I rented another Ofo bike outside a hotel in central Shanghai, cycled 10 minutes, and at 7:11 pm parked it outside a popular restaurant.
+
+ Bởi vì Ant Financial là một nhà đầu tư chiến lược vào Ofo, Alipay có thể biết con đường tôi đã đi.
+
+
+ Because Ant Financial is a strategic investor in Ofo, Alipay might know the route I took.
+
+ Thuật toán đằng sau điểm Tín dụng Zhima của tôi là một bí mật của công ty.
+
+
+The algorithm behind my Zhima Credit score is a corporate secret.
+
+ Ant Financial chính thức liệt kê năm loại thông tin lớn đưa vào điểm số, nhưng công ty chỉ cung cấp thông tin chi tiết nhất về cách các thành phần này được nấu cùng nhau.
+
+
+ Ant Financial officially lists five broad categories of information that feed into the score, but the company provides only the barest of details about how these ingredients are cooked together.
+
+ Giống như bất kỳ hệ thống chấm điểm tín dụng thông thường nào, Zhima Credit theo dõi lịch sử chi tiêu của tôi và liệu tôi có hoàn trả các khoản vay của mình hay không.
+
+
+ Like any conventional credit scoring system, Zhima Credit monitors my spending history and whether I have repaid my loans.
+
+ Nhưng ở những nơi khác, thuật toán chuyển sang voodoo, hoặc tệ hơn.
+
+
+ But elsewhere the algorithm veers into voodoo, or worse.
+
+ Một danh mục có tên Là kết nối xem xét tín dụng của các liên hệ của tôi trong mạng xã hội của Alipay.
+
+
+ A category called Connections considers the credit of my contacts in Alipay’s social network.
+
+ Các đặc điểm xem xét loại xe tôi lái, nơi tôi làm việc và nơi tôi đã đi học.
+
+
+ Characteristics takes into consideration what kind of car I drive, where I work, and where I went to school.
+
+ Trong khi đó, một danh mục được gọi là Hành vi xem xét kỹ lưỡng các sắc thái của cuộc sống tiêu dùng của tôi, tập trung vào các hành động có mục đích tương quan với tín dụng tốt.
+
+
+ A category called Behavior, meanwhile, scrutinizes the nuances of my consumer life, zeroing in on actions that purportedly correlate with good credit.
+
+ Ngay sau khi Zhima Credit ra mắt, giám đốc công nghệ của công ty, Li Yingyun, đã nói với tạp chí Caixin của Trung Quốc rằng hành vi chi tiêu như mua tã lót, chẳng hạn, có thể tăng điểm số của một người, trong khi chơi trò chơi điện tử trong nhiều giờ liên tục có thể làm giảm nó.
+
+
+ Shortly after Zhima Credit’s launch, the company’s technology director, Li Yingyun, told the Chinese magazine Caixin that spending behavior like buying diapers, say, could boost one’s score, while playing videogames for hours on end could lower it.
+
+ Suy đoán trực tuyến cho rằng quyên góp cho tổ chức từ thiện, có lẽ thông qua dịch vụ quyên góp tích hợp của Alipay, là tốt.
+
+
+ Online speculation held that donating to charity, presumably through Alipay’s built-in donation service, was good.
+
+ Nhưng tôi không chắc liệu số tiền 3 đô la tôi đã đưa ra để nuôi gấu con nâu có đủ điều kiện để tôi trở thành một nhà từ thiện hay một người rẻ tiền.
+
+
+ But I’m not sure whether the $3 I gave for feeding brown bear cubs qualifies me as a philanthropist or a cheapskate.
+
+ Tôi bắt đầu kiểm tra điểm số của mình một cách ám ảnh, nhưng vì điểm số chỉ được đánh giá lại hàng tháng, con số không nhúc nhích.
+
+
+I began to check my score obsessively, but because scores are only reevaluated monthly, the number didn’t budge.
+
+ Mỗi lần mở ứng dụng, tôi bắt gặp một màn hình màu cam báo động.
+
+
+ Each time I opened the app, I encountered an alarming orange screen.
+
+ Ở tiền cảnh là một thước đo có hình nửa vòng tròn, với một mặt số cho thấy rằng tôi chỉ đạt được một phần tư tiềm năng của mình.
+
+
+ In the foreground was a gauge in the shape of a half-circle, with a dial showing that I had reached only a quarter of my potential.
+
+ Một bài báo trên cổng thông tin Sohu.
+
+
+ An article on the portal Sohu.
+
+com giải thích rằng điểm số của tôi đã đưa tôi vào danh mục "dân gian thông thường".
+
+
+com explained that my score put me in the category of “common folk.
+
+ Trang này viết: "Trình độ văn hóa không cao.
+
+
+” The page read: “Cultural level is not high.
+
+ Đã nghỉ hưu hoặc gần như đã nghỉ hưu".
+
+
+ Retired or nearly retired.
+
+ Ở Trung Quốc, nơi nhiều người cao tuổi đã mất nhiều năm học tập trong cuộc Cách mạng Văn hóa, đây không phải là một lời khen ngợi.
+
+
+” In China, where many elderly lost out on years of education during the Cultural Revolution, this was not a compliment.
+
+ Theo Sohu, chỉ có 5% dân số có điểm số kém hơn tôi.
+
+
+ According to Sohu, only 5 percent of the population had scores worse than mine.
+
+ Mặt số cho thấy rằng tôi chỉ đạt được một phần tư tiềm năng của mình.
+
+
+The dial showed that I had reached only a quarter of my potential.
+
+ Điểm số của tôi đã đưa tôi vào danh mục "Dân gian chung".
+
+
+ My score put me in the category of “Common Folk.
+
+ Để xem liệu tôi có thể làm bất cứ điều gì để nâng điểm số của mình lên hay không, một buổi sáng nọ, tôi bắt taxi đến một trung tâm mua sắm ngoài trời sang trọng bên ngoài trung tâm thành phố Thượng Hải để gặp Chen Chen, một họa sĩ minh họa 30 tuổi.
+
+
+”To see if I could do anything to pull my score up, I took a taxi one morning to a chic open-air shopping center outside Shanghai’s city center to meet with Chen Chen, a 30-year-old illustrator.
+
+ Chen nói với một người bạn chung trên WeChat rằng cô ấy có xếp hạng "xuất sắc" trên Zhima Credit, và tôi muốn hỏi lời khuyên của cô ấy.
+
+
+ Chen told a mutual friend on WeChat that she had an “excellent” rating on Zhima Credit, and I wanted to ask her counsel.
+
+ Chúng tôi mua cà phê và đi bộ đến một khu vực tiếp khách ngoài trời.
+
+
+ We bought coffee and walked to an outdoor seating area.
+
+ Chen mặc một chiếc áo sơ mi cài cúc mở ra bên ngoài một chiếc áo phông trắng và quần jean bó.
+
+
+ Chen wore a button-down shirt open over a white T-shirt and skinny jeans.
+
+ Tóc của cô được tẩy trắng thành màu vàng rơm, và một đường bóng mắt lấp lánh được quét qua dưới mỗi mắt.
+
+
+ Her hair was bleached to a straw yellow, and a line of sparkly eye shadow was swept under each eye.
+
+ Trên Zhima Credit, cô ấy đã đạt được 710 điểm, và màu nền của cô ấy là một màu xanh da trời êm dịu.
+
+
+ On Zhima Credit she clocked in at 710, and her background color was a calming sky blue.
+
+ Cô ấy giải thích làm thế nào để tăng điểm số của tôi.
+
+
+She explained how to boost my score.
+
+ "Họ sẽ kiểm tra xem bạn có loại bạn bè nào," cô nói.
+
+
+ “They will check what kind of friends you have,” she said.
+
+ "Nếu bạn bè của bạn đều là những người có điểm số cao, điều đó tốt cho bạn.
+
+
+ “If your friends are all high-score people, it’s good for you.
+
+ Nếu bạn có một số người có tín dụng xấu làm bạn bè, điều đó không tốt.
+
+
+ If you have some bad-credit people as friends, it’s not nice.
+
+ Sau khi đăng ký Alipay, tôi đã gửi lời mời kết bạn đến tất cả các liên hệ trên điện thoại của mình.
+
+
+” After signing up for Alipay, I sent friend requests to all of my phone contacts.
+
+ Chỉ có sáu người chấp nhận.
+
+
+ Only six people accepted.
+
+ Một trong những người bạn Alipay mới của tôi là một người đàn ông mà tôi từng dạy kèm bằng tiếng Anh và có lẽ là người bạn giàu có nhất của tôi ở Thượng Hải.
+
+
+ One of my new Alipay friends was a man I used to tutor in English and probably my wealthiest friend in Shanghai.
+
+ Ông sở hữu một số doanh nghiệp, một đội xe hơi và một biệt thự rộng rãi trong một khu phố sang trọng.
+
+
+ He owned several businesses, a fleet of cars, and a spacious villa in a posh neighborhood.
+
+ Nhưng một người khác là thợ may cũ của tôi, người sống với gia đình trong một căn phòng đơn trong một ngôi nhà đổ nát, với những đống vải che khuất các cửa sổ mỏng.
+
+
+ But another was my old tailor, who lived with her family in a single room in a dilapidated house, with piles of cloth obscuring the thin windows.
+
+ Tác động của thợ may đến điểm số của tôi có hủy bỏ điểm số của doanh nhân không? Và tôi đã kéo cả hai người họ xuống? Chen cho biết cô biết điểm số của những người bạn thân của mình nhưng không biết điểm số của những người quen hoặc đồng nghiệp làm việc.
+
+
+ Did the tailor’s impact on my score cancel out the businessman’s? And was I dragging both of them down?Chen said she knew the scores of her close friends but not those of acquaintances or work colleagues.
+
+ Có những phòng trò chuyện nơi những người có điểm số khá tìm kiếm những người đạt điểm cao khác, có lẽ là để tăng xếp hạng của họ.
+
+
+ There are chat rooms where people with decent scores seek out other high scorers, presumably to boost their ratings.
+
+ Nhưng nói chung, mọi người chỉ đơn giản đưa ra giả định về những liên hệ nào có tín dụng tốt và tốt hơn là không kết bạn.
+
+
+ But in general, people simply make assumptions about which contacts have good credit and which are better left unfriended.
+
+ Những người dùng như Chen vẫn chưa thực hiện bước đóng cửa những người có điểm thấp như tôi ra khỏi mạng của họ, cô ấy đảm bảo với tôi.
+
+
+ Users like Chen hadn’t yet taken the step of shutting low scorers like me out of their network, she assured me.
+
+ Zhima Credit vẫn còn khá mới, và điểm số thấp của một người quen vẫn có thể được giải thích một cách từ thiện, cô ấy nói: "Có lẽ họ đã không sử dụng nó đủ lâu.
+
+
+ Zhima Credit was still fairly new, and an acquaintance’s low score might still be charitably explained, she said: “Maybe they just haven’t used it long enough.
+
+" Để hiểu được sức hấp dẫn mà kỹ thuật xã hội mang lại cho các nhà lãnh đạo Trung Quốc, bạn phải quay trở lại nhiều thập kỷ trước các ứng dụng và dữ liệu lớn.
+
+
+”To understand the allure that social engineering holds for Chinese leaders, you have to go back decades, to long before apps and big data.
+
+ Trong những năm sau Cách mạng Cộng sản năm 1949, chính phủ đã giao mọi người cho các đơn vị công tác địa phương, nơi trở thành nơi giám sát và kiểm soát.
+
+
+ In the years after the 1949 Communist Revolution, the government assigned everyone to local work units, which became the locus of surveillance and control.
+
+ Các cá nhân theo dõi hàng xóm của họ trong khi cũng làm mọi thứ có thể để tránh các vết đen trên hồ sơ của chính họ hoặc hồ sơ của chính phủ.
+
+
+ Individuals spied on their neighbors while also doing everything they could to avoid black marks on their own dang’an, or government files.
+
+ Nhưng việc duy trì hệ thống đòi hỏi nỗ lực và sự giám sát lớn của nhà nước.
+
+
+ But maintaining the system required massive state effort and oversight.
+
+ Khi những cải cách kinh tế trong những năm 1980 khiến hàng triệu người rời khỏi làng của họ và di cư đến các thành phố, hệ thống đơn vị làm việc đã sụp đổ.
+
+
+ As economic reforms in the 1980s led millions of people to leave their villages and migrate to cities, the work unit system fell apart.
+
+ Di cư cũng có một hiệu ứng thứ yếu: Các thành phố đầy người lạ và pianzi.
+
+
+ Migration also had a secondary effect: Cities filled up with strangers and pianzi.
+
+ Không mất nhiều thời gian để chính quyền trung ương bắt đầu suy nghĩ về việc đánh lừa hành vi tốt.
+
+
+It didn’t take long for the central government to start thinking about gamifying good behavior.
+
+ Các nhà lãnh đạo nhận ra rằng "nếu chúng ta sẽ có một hệ thống thị trường được cho là tự hướng dẫn, chúng ta cũng cần phải có các hệ thống tín dụng tự hướng dẫn", Rogier Creemers, một học giả về luật Trung Quốc tại Viện Nghiên cứu Khu vực Leiden ở Hà Lan cho biết.
+
+
+ Leaders realized that “if we are going to have a market system that is supposed to be self-guiding, we also need to have self-guiding credit systems,” says Rogier Creemers, a scholar of Chinese law at the Leiden Institute for Area Studies in the Netherlands.
+
+ Vào cuối những năm 1990, một nhóm làm việc tại một viện của Viện Hàn lâm Khoa học Trung Quốc đã phát triển các khái niệm cơ bản đằng sau hệ thống tín dụng xã hội.
+
+
+ In the late 1990s, a working group at a Chinese Academy of Sciences institute developed the basic concepts behind the social credit system.
+
+ Nhưng công nghệ này không đủ tiên tiến để hỗ trợ các thiết kế chính trị rộng lớn hơn của Đảng Cộng sản.
+
+
+ But the technology wasn’t advanced enough to support the Communist Party’s broader political designs.
+
+ Cách đây gần một thập kỷ, tôi đã dành một vài tuần ở Suining, một huyện chủ yếu là nông thôn ở tỉnh Giang Tô, gần Thượng Hải.
+
+
+Nearly a decade ago, I spent a few weeks in Suining, a mostly rural county in Jiangsu province, near Shanghai.
+
+ Hồi đó, quản trị địa phương không tinh tế.
+
+
+ Back then, local governance was not subtle.
+
+ Khi các quan chức quyết định kiểm soát chặt chẽ những người vượt đèn đỏ, họ đã kêu gọi người dân chụp ảnh những kẻ phạm tội, những người mà sau này hình ảnh của họ sẽ được giới thiệu trên kênh truyền hình địa phương ".
+
+
+ When officials decided to clamp down on people running red lights, they urged citizens to take pictures of offenders, whose images would later be featured on the local television channel.
+
+ Nếu bạn bè của bạn đều là những người có điểm số cao, điều đó tốt cho bạn.
+
+
+“If your friends are all high-score people, it's good for you.
+
+ Nếu bạn có một số người có tín dụng xấu làm bạn bè, điều đó không tốt.
+
+
+ If you have some bad-credit people as friends, it's not nice.
+
+ Chen Chen, họa sĩ minh họaSau đó, vào năm 2010, Suining đã trở thành một trong những khu vực đầu tiên ở Trung Quốc thí điểm hệ thống tín dụng xã hội.
+
+
+”Chen Chen, illustratorThen, in 2010, Suining became one of the first areas in China to pilot a social credit system.
+
+ Các quan chức ở đó bắt đầu đánh giá cư dân dựa trên một loạt các tiêu chí, bao gồm trình độ học vấn, hành vi trực tuyến và mức độ tuân thủ luật giao thông.
+
+
+ Officials there began assessing residents on a range of criteria, including education level, online behavior, and how well they followed traffic laws.
+
+ Mỗi người trong số 1,1 triệu công dân trên 14 tuổi của Suining bắt đầu với 1.
+
+
+ Each of Suining’s 1.
+
+000 điểm và điểm được cộng hoặc trừ dựa trên hành vi.
+
+
+1 million citizens older than 14 started out with 1,000 points, and points were added or deducted based on behavior.
+
+ Chăm sóc các thành viên lớn tuổi trong gia đình đã giúp bạn kiếm được 50 điểm.
+
+
+ Taking care of elderly family members earned you 50 points.
+
+ Giúp đỡ người nghèo công đức 10 điểm.
+
+
+ Helping the poor merited 10 points.
+
+ Giúp đỡ người nghèo theo cách đã được các phương tiện truyền thông đưa tin: 15.
+
+
+ Helping the poor in a way that was reported by the media: 15.
+
+ Một bản án lái xe trong tình trạng say rượu có nghĩa là mất 50 điểm, cũng như hối lộ một quan chức.
+
+
+ A drunk driving conviction meant the loss of 50 points, as did bribing an official.
+
+ Sau khi các điểm được kiểm đếm, công dân được chỉ định điểm A, B, C hoặc D.
+
+
+ After the points were tallied up, citizens were assigned grades of A, B, C, or D.
+
+ Công dân hạng A sẽ được ưu tiên nhập học và việc làm, trong khi công dân D sẽ bị từ chối cấp giấy phép, giấy phép và quyền truy cập vào một số dịch vụ xã hội.
+
+
+ Grade A citizens would be given priority for school admissions and employment, while D citizens would be denied licenses, permits, and access to some social services.
+
+ Hệ thống Suining còn thô sơ, và nó đã gây ra một cuộc tranh luận quốc gia trong một thời gian ngắn về những tiêu chí nào nên được đưa vào điểm tín dụng xã hội.
+
+
+The Suining system was rudimentary, and it briefly sparked a national debate over what criteria should be included in a social credit score.
+
+ Nhưng nó cung cấp một nền tảng thử nghiệm cho những gì có thể hoạt động trên toàn quốc.
+
+
+ But it provided a testing ground for what could work nationally.
+
+ Và cho dù các lớp chữ cái thô sơ đến đâu, chúng cũng ít thô thiển hơn những gì chúng thay thế.
+
+
+ And however crude the letter grades were, they were less crude than what they replaced.
+
+ Tín dụng xã hội ở Suining đi kèm với sự thay đổi sang thông điệp tinh tế hơn của chính phủ.
+
+
+ Social credit in Suining was accompanied by a shift to subtler government messaging.
+
+ Kể từ khi thí điểm Suining, hàng chục thành phố đã phát triển hệ thống của riêng họ.
+
+
+Since the Suining pilot, dozens of cities have developed their own systems.
+
+ Sức mạnh của công nghệ đã bắt kịp.
+
+
+ The power of technology had caught up.
+
+ Cuối cùng, các hệ thống này sẽ được tích hợp vào hệ thống tín dụng xã hội của chính phủ trên toàn quốc, điều này kéo theo một vấn đề đau đầu về hậu cần đáng kể.
+
+
+ Eventually, these systems will be integrated into the nationwide government social credit system, which entails a significant logistical headache.
+
+ Để hỗ trợ nhiệm vụ, chính phủ đã tranh thủ Baidu, một công ty công nghệ lớn, để giúp phát triển cơ sở dữ liệu tín dụng xã hội vào thời hạn năm 2020.
+
+
+ To aid in the task, the government has enlisted Baidu, a big tech company, to help develop the social credit database by the 2020 deadline.
+
+ Theo cách của họ, các công ty công nghệ Trung Quốc đã giúp thay đổi thái độ của Đảng đối với các công nghệ kỹ thuật số.
+
+
+The Chinese tech companies have, in their way, helped to shift the Party’s attitude toward digital technologies.
+
+ Khi internet lần đầu tiên đến Trung Quốc, bùng nổ cuộc sống của mọi người dưới dạng blog và phòng trò chuyện, Đảng coi đó là một mối đe dọa.
+
+
+ When the internet first came to China, bursting into people’s lives in the form of blogs and chat rooms, the Party saw it as a threat.
+
+ Đây là một nơi mà mọi người có thể nói lên suy nghĩ của họ, tham gia cùng nhau, bất đồng chính kiến.
+
+
+ Here was a place where people might speak their minds, join together, dissent.
+
+ Các nhà lãnh đạo đã phản ứng với những xung lực này thông qua kiểm duyệt và các chiến thuật gây hấn khác.
+
+
+ Leaders responded to these impulses through censorship and other aggressive tactics.
+
+ Nhưng các công ty như Ant Financial đã cho thấy công nghệ kỹ thuật số có thể hữu ích như thế nào trong việc thu thập và triển khai thông tin.
+
+
+ But companies like Ant Financial have shown just how useful digital technologies can be in gathering and deploying information.
+
+ Thay vì chỉ phản ứng với nội dung bằng cách cấm các cụm từ tìm kiếm hoặc đóng cửa các trang web, chính phủ hiện hợp tác với khu vực tư nhân về công nghệ nhận dạng khuôn mặt và giọng nói, cùng với nghiên cứu trí tuệ nhân tạo.
+
+
+ Instead of merely reacting to content by banning search terms or shutting down websites, the government now collaborates with the private sector on facial and voice recognition technologies, along with artificial intelligence research.
+
+ Vào năm 2015, vài tháng sau khi Zhima Credit ra mắt, người sáng lập Alibaba Jack Ma và 14 giám đốc điều hành khác đã đến Mỹ cùng với Chủ tịch Tập Cận Bình trong chuyến thăm cấp nhà nước đầu tiên của ông.
+
+
+In 2015, a few months after Zhima Credit debuted, Alibaba founder Jack Ma and 14 other executives traveled to the US with President Xi ­Jinping for his first state visit.
+
+ Ma, cùng với các nhà lãnh đạo tại Tencent và Baidu, cũng ngồi trong hội đồng quản trị của Hiệp hội Internet Trung Quốc, một tổ chức bán chính phủ dưới sự chỉ đạo của Đảng.
+
+
+ Ma, along with leaders at Tencent and Baidu, also sits on the board of the Internet Society of China, a quasi-­governmental organization under the direction of the Party.
+
+Tuy nhiên, mối quan hệ chiến lược này là một mối quan hệ tinh tế.
+
+
+This strategic nexus is a delicate one, though.
+
+ Trong những tháng gần đây, các nhà quản lý Trung Quốc đã thực hiện các bước để kiểm soát nhiều hơn đối với các công ty công nghệ.
+
+
+ In recent months Chinese regulators have taken steps to exert more control over tech companies.
+
+ Tháng 8 năm ngoái, Ngân hàng Nhân dân Trung Quốc đã ra lệnh cho các công ty thanh toán di động và trực tuyến kết nối với một cơ quan thanh toán bù trừ của chính phủ trung ương, cho phép các nhà quản lý truy cập vào dữ liệu giao dịch.
+
+
+ Last August, the People’s Bank of China ordered mobile and online payment companies to connect to a central government clearinghouse, giving regulators access to transaction data.
+
+ Hai tháng sau, the Wall Street Journal đưa tin rằng các nhà quản lý internet Trung Quốc đang xem xét việc nắm giữ 1% cổ phần của các công ty công nghệ lớn.
+
+
+ Two months later, The Wall Street Journal reported that Chinese internet regulators were considering taking a 1 percent stake in the major tech companies.
+
+ Một kịch bản có thể xảy ra đối với quan hệ đối tác tín dụng xã hội là ngân hàng trung ương sẽ giám sát việc phát triển một số liệu rộng hơn, như điểm FICO, đồng thời cho phép các công ty như Ant Financial thu thập dữ liệu để đưa vào điểm số đó.
+
+
+One possible scenario for a social credit partnership is that the central bank will oversee the development of a broader metric, like a FICO score, while letting companies like Ant Financial collect data to feed into that score.
+
+ Bất kể cấu trúc cuối cùng của nó là gì, hệ thống tín dụng xã hội lớn hơn "chắc chắn sẽ nằm dưới sự kiểm soát của chính phủ", You Xi, phóng viên đã viết cuốn sách về Ant Financial cho biết.
+
+
+ Whatever its eventual structure, the larger social credit system “will definitely be under the government’s control,” says You Xi, the reporter who wrote the book about Ant Financial.
+
+ "Chính phủ không muốn cơ sở hạ tầng tín dụng của người dân rất quan trọng này nằm trong tay một công ty lớn.
+
+
+ “The government doesn’t want this very important infrastructure of the people’s credit in one big company’s hands.
+
+" Những người Trung Quốc bị coi là không đáng tin cậy đang có cái nhìn đầu tiên về ý nghĩa của một hệ thống thống nhất.
+
+
+”Chinese people who have been branded untrustworthy are getting the first glimpse of what a unified system might mean.
+
+ Một ngày tháng 5 năm ngoái, Liu Hu, một nhà báo 42 tuổi, đã mở một ứng dụng du lịch để đặt chuyến bay.
+
+
+ One day last May, Liu Hu, a 42-year-old journalist, opened a travel app to book a flight.
+
+ Nhưng khi anh ta nhập tên và số ID quốc gia của mình, ứng dụng đã thông báo cho anh ta rằng giao dịch sẽ không được thực hiện vì anh ta nằm trong danh sách đen của Tòa án Nhân dân Tối cao.
+
+
+ But when he entered his name and national ID number, the app informed him that the transaction wouldn’t go through because he was on the Supreme People’s Court blacklist.
+
+ Danh sách này — theo nghĩa đen, Danh sách những người không trung thực — là cùng một danh sách được tích hợp vào Zhima Credit.
+
+
+ This list—literally, the List of Dishonest People—is the same one that is integrated into Zhima Credit.
+
+ Vào năm 2015, Liu đã bị kiện vì tội phỉ báng bởi chủ đề của một câu chuyện mà anh ta đã viết, và một tòa án đã yêu cầu anh ta phải trả 1,350 đô la.
+
+
+ In 2015 Liu had been sued for defamation by the subject of a story he’d written, and a court had ordered him to pay $1,350.
+
+ Anh ta đã trả tiền phạt, và thậm chí còn chụp ảnh phiếu chuyển khoản ngân hàng và nhắn tin vào bức ảnh cho thẩm phán trong vụ án.
+
+
+ He paid the fine, and even photographed the bank transfer slip and messaged the photo to the judge in the case.
+
+ Bối rối không hiểu tại sao anh ta vẫn còn trong danh sách, anh ta đã liên lạc với thẩm phán và biết rằng, trong khi chuyển tiền phạt của mình, anh ta đã nhập sai số tài khoản.
+
+
+ Perplexed as to why he was still on the list, he contacted the judge and learned that, while transferring his fine, he had entered the wrong account number.
+
+ Anh ta vội vàng chuyển tiền một lần nữa, theo dõi để đảm bảo rằng tòa án đã nhận được nó.
+
+
+ He hurried to transfer the money again, following up to make sure the court had received it.
+
+ Lần này thẩm phán không trả lời.
+
+
+ This time the judge did not reply.
+
+ Mặc dù Liu chưa đăng ký Zhima Credit, nhưng danh sách đen đã bắt kịp anh ta theo những cách khác.
+
+
+Although Liu hadn’t signed up for Zhima Credit, the blacklist caught up with him in other ways.
+
+ Anh ta trở thành, thực sự, một công dân hạng hai.
+
+
+ He became, effectively, a second-class citizen.
+
+ Ông đã bị cấm tham gia hầu hết các hình thức du lịch; anh ta chỉ có thể đặt các hạng ghế thấp nhất trên những chuyến tàu chậm nhất.
+
+
+ He was banned from most forms of travel; he could only book the lowest classes of seat on the slowest trains.
+
+ Anh ta không thể mua một số hàng tiêu dùng nhất định hoặc ở tại các khách sạn sang trọng, và anh ta không đủ điều kiện cho các khoản vay ngân hàng lớn.
+
+
+ He could not buy certain consumer goods or stay at luxury hotels, and he was ineligible for large bank loans.
+
+ Tệ hơn nữa, danh sách đen đã được công khai.
+
+
+ Worse still, the blacklist was public.
+
+ Liu đã phải ngồi tù một năm một lần trước đó với tội danh "bịa đặt và lan truyền tin đồn" sau khi báo cáo về các giao dịch mờ ám của một phó thị trưởng Trùng Khánh.
+
+
+ Liu had already spent a year in jail once before on charges of “fabricating and spreading rumors” after reporting on the shady dealings of a vice-mayor of Chong­qing.
+
+ Ký ức về sự giam cầm khiến anh khắc kỷ về hình phạt mới, vô hình hơn này.
+
+
+ The memory of imprisonment left him stoic about this new, more invisible punishment.
+
+ Ít nhất anh vẫn ở bên vợ và con gái.
+
+
+ At least he was still with his wife and daughter.
+
+ Tuy nhiên, Liu đã vào blog của mình để khuấy động sự đồng cảm và thuyết phục thẩm phán đưa anh ta ra khỏi danh sách.
+
+
+Still, Liu took to his blog to stir up sympathy and convince the judge to take him off the list.
+
+ Cho đến tháng mười, anh ấy vẫn còn trên đó.
+
+
+ As of October he was still on it.
+
+ "Hầu như không có sự giám sát của những người thi hành án" những người duy trì danh sách đen, anh ấy nói với tôi.
+
+
+ “There is almost no oversight of the court executors” who maintain the blacklist, he told me.
+
+ "Có rất nhiều sai lầm trong việc thực hiện mà không được sửa chữa.
+
+
+ “There are many mistakes in implementation that go uncorrected.
+
+" Nếu Liu có điểm Tín dụng Zhima, những rắc rối của anh ta sẽ càng trở nên phức tạp hơn bởi những lo lắng khác.
+
+
+” If Liu had a Zhima Credit score, his troubles would have been compounded by other worries.
+
+ Cách Zhima Credit được thiết kế, bị đưa vào danh sách đen khiến bạn rơi vào vòng xoáy đi xuống nhanh chóng.
+
+
+ The way Zhima Credit is designed, being blacklisted sends you on a rapid downward spiral.
+
+ Đầu tiên điểm số của bạn giảm xuống.
+
+
+ First your score drops.
+
+ Sau đó, bạn bè của bạn nghe nói bạn nằm trong danh sách đen và sợ rằng điểm số của họ có thể bị ảnh hưởng, hãy lặng lẽ bỏ rơi bạn làm người liên hệ.
+
+
+ Then your friends hear you are on the blacklist and, fearful that their scores might be affected, quietly drop you as a contact.
+
+ Thuật toán thông báo và điểm số của bạn giảm mạnh hơn nữa.
+
+
+ The algorithm notices, and your score plummets further.
+
+ Ngay sau khi tôi trở về Mỹ từ chuyến thăm Trung Quốc, Equifax, cơ quan báo cáo tín dụng của Hoa Kỳ, đã thông báo rằng họ đã bị tấn công.
+
+
+Soon after I returned to the US from my visit to China, Equifax, the US credit­-reporting agency, announced that it had been hacked.
+
+ Vụ vi phạm đã làm lộ hồ sơ tín dụng của khoảng 145 triệu người.
+
+
+ The breach exposed the credit records of some 145 million people.
+
+ Giống như nhiều người Mỹ khác, tôi đã có một bài học nhanh chóng và khó khăn.
+
+
+ Like many Americans, I got a quick and hard lesson.
+
+ Số thẻ tín dụng của tôi đã bị đánh cắp vài tuần trước đó, nhưng vì tôi đã đi du lịch nước ngoài, tôi đã không bận tâm đến việc đóng băng tín dụng của mình.
+
+
+ My credit card number had been stolen a few weeks earlier, but because I had been traveling overseas I hadn’t bothered to freeze my credit.
+
+ Khi tôi cố gắng làm như vậy sau khi hack, tôi thấy rằng một quá trình vốn đã khó khăn đã trở nên gần như không thể.
+
+
+ When I tried to do so after the hack, I found that an already difficult process had become nearly impossible.
+
+ Trang web của Equifax chỉ hoạt động một phần và đường dây điện thoại của nó bị kẹt.
+
+
+ Equifax’s site was only partly operational, and its phone lines were jammed.
+
+ Tuyệt vọng, tôi đã đăng ký một dịch vụ giám sát tín dụng có tên Credit Karma, để đổi lấy cùng một thông tin mà tôi đang cố gắng bảo vệ, đã cho tôi thấy điểm số của tôi với hai trong số ba văn phòng lớn.
+
+
+ Desperate, I signed up for a credit-monitoring service called Credit Karma, which, in exchange for the very same information that I was trying to protect, showed me my score with two of the three major bureaus.
+
+ Những con số này đã được truyền đạt cho tôi thông qua một thước đo tín dụng tương tự như của Zhima Credit, cho đến mã hóa màu của điểm số.
+
+
+These numbers were communicated to me through a credit gauge similar to Zhima Credit’s, down to the color coding of scores.
+
+ Tôi được biết rằng điểm tín dụng của tôi đã giảm xuống vài chục điểm.
+
+
+ I learned that my credit score had dipped by a few dozen points.
+
+ Có bốn hoặc năm nỗ lực để lấy ra tín dụng nhân danh tôi mà tôi không nhận ra.
+
+
+ There were four or five attempts to take out credit in my name that I didn’t recognize.
+
+ Bây giờ tôi đã có hai hệ thống theo dõi ghi điểm cho tôi, ở hai phía đối diện của địa cầu.
+
+
+Now I had two tracking systems scoring me, on opposite sides of the globe.
+
+ Nhưng đây chỉ là những điểm số mà tôi biết.
+
+
+ But these were only the scores that I knew about.
+
+ Hầu hết người Mỹ có hàng tá điểm số, nhiều trong số đó được rút ra từ các chỉ số hành vi và nhân khẩu học tương tự như số liệu được sử dụng bởi Zhima Credit và hầu hết chúng được nắm giữ bởi các công ty không cho chúng tôi cơ hội chọn không tham gia.
+
+
+ Most Americans have dozens of scores, many of them drawn from behavioral and demographic metrics similar to those used by Zhima Credit, and most of them held by companies that give us no chance to opt out.
+
+ Những người khác mà chúng tôi tự nguyện tham gia.
+
+
+ Others we enter into voluntarily.
+
+ Chính phủ Hoa Kỳ không thể buộc tôi tham gia vào một số thử nghiệm xã hội dựa trên dữ liệu lớn một cách hợp pháp, nhưng tôi giao dữ liệu của mình cho các công ty tư nhân mỗi ngày.
+
+
+ The US government can’t legally compel me to participate in some massive data-driven social experiment, but I give up my data to private companies every day.
+
+ Tôi tin tưởng các tập đoàn này đủ để tham gia vào các thí nghiệm tính điểm rộng lớn của họ.
+
+
+ I trust these corporations enough to participate in their vast scoring experiments.
+
+ Tôi đăng những suy nghĩ và cảm xúc của mình lên Facebook và để lại những dấu vết mua hàng dài trên Amazon và eBay.
+
+
+ I post my thoughts and feelings on Facebook and leave long trails of purchases on Amazon and eBay.
+
+ Tôi đánh giá những người khác trong Airbnb và Uber và quan tâm hơi quá nhiều đến cách người khác đánh giá tôi.
+
+
+ I rate others in Airbnb and Uber and care a little too much about how others rate me.
+
+ Vẫn chưa có một siêu ứng dụng tuyệt vời của Mỹ và điểm số do các nhà môi giới dữ liệu tổng hợp chủ yếu được sử dụng để nhắm mục tiêu quảng cáo tốt hơn, không phải để kiểm soát xã hội.
+
+
+ There is not yet a great American super app, and the scores compiled by data brokers are mainly used to better target ads, not to exert social control.
+
+ Nhưng thông qua một quá trình được gọi là giải quyết danh tính, các nhà tổng hợp dữ liệu có thể sử dụng các manh mối mà tôi để lại để hợp nhất dữ liệu của mình từ nhiều nguồn khác nhau.
+
+
+ But through a process called identity resolution, data aggregators can use the clues I leave behind to merge my data from various sources.
+
+ Hầu hết người Mỹ có hàng tá điểm số, và hầu hết chúng được nắm giữ bởi các công ty không cho chúng tôi cơ hội chọn không tham gia.
+
+
+Most Americans have dozens of scores, and most of them are held by companies that give us no chance to opt out.
+
+ Bạn có dùng thuốc chống trầm cảm không? Thường xuyên trả lại quần áo cho các nhà bán lẻ? Viết tên của bạn bằng tất cả các chữ in hoa khi điền vào các biểu mẫu trực tuyến? Các nhà môi giới dữ liệu thu thập tất cả thông tin này và hơn thế nữa.
+
+
+Do you take antidepressants? Frequently return clothes to retailers? Write your name in all caps when filling out online forms? Data brokers collect all of this information and more.
+
+ Như ở Trung Quốc, bạn thậm chí có thể bị phạt vì bạn bè của bạn là ai.
+
+
+ As in China, you may even be penalized for who your friends are.
+
+ Vào năm 2012, Facebook đã cấp bằng sáng chế cho một phương pháp đánh giá tín dụng có thể xem xét điểm tín dụng của những người trong mạng lưới của bạn.
+
+
+ In 2012, Facebook patented a method of credit assessment that could consider the credit scores of people in your network.
+
+ Bằng sáng chế mô tả một công cụ đạt điểm tín dụng trung bình cho bạn bè của bạn và từ chối đơn xin vay nếu mức trung bình đó dưới mức tối thiểu nhất định.
+
+
+ The patent describes a tool that arrives at an average credit score for your friends and rejects a loan application if that average is below a certain minimum.
+
+ Kể từ đó, công ty đã sửa đổi các chính sách nền tảng của mình để cấm những người cho vay bên ngoài sử dụng dữ liệu facebook để xác định tính đủ điều kiện tín dụng.
+
+
+ The company has since revised its platform policies to prohibit outside lenders from using Facebook data to determine credit eligibility.
+
+ Tuy nhiên, công ty vẫn có thể quyết định tham gia vào lĩnh vực kinh doanh tín dụng.
+
+
+ The company could still decide to get into the credit business itself, though.
+
+ ("Chúng tôi thường tìm kiếm bằng sáng chế cho công nghệ mà chúng tôi không bao giờ thực hiện và bằng sáng chế không nên được coi là dấu hiệu của các kế hoạch trong tương lai," phát ngôn viên của Facebook cho biết khi trả lời các câu hỏi về bằng sáng chế tín dụng.
+
+
+ (“We often seek patents for technology we never implement, and patents should not be taken as an indication of future plans,” a Facebook spokesperson said in response to questions about the credit patent.
+
+) "Bạn có thể tưởng tượng một tương lai nơi mọi người đang theo dõi để xem liệu tín dụng của bạn bè họ có giảm hay không và sau đó bỏ rơi bạn bè của họ nếu điều đó ảnh hưởng đến họ," Frank Pasquale, một chuyên gia dữ liệu lớn tại Trường Luật Carey của Đại học Maryland cho biết.
+
+
+) “You could imagine a future where people are watching to see if their friends’ credit is dropping and then dropping their friends if that affects them,” says Frank Pasquale, a big-data expert at University of Maryland Carey School of Law.
+
+ "Thật đáng sợ.
+
+
+ “That’s terrifying.
+
+" Thông thường, các nhà môi giới dữ liệu đã sai lầm.
+
+
+”Often, data brokers are flat-out wrong.
+
+ Nhà môi giới dữ liệu Acxiom, nơi cung cấp một số thông tin về những gì nó thu thập được trên một trang web có tên là AboutTheData.
+
+
+ The data broker Acxiom, which provides some information about what it collects on a site called AboutTheData.
+
+com, đã cho tôi là một phụ nữ độc thân có trình độ học vấn trung học và một "con bạc có khả năng ở Las Vegas", trong khi thực tế tôi đã kết hôn, có bằng thạc sĩ và thậm chí chưa bao giờ mua vé số.
+
+
+com, has me pegged as a single woman with a high school education and a “likely Las Vegas gambler,” when in fact I’m married, have a master’s degree, and have never even bought a lottery ticket.
+
+ Nhưng không thể thách thức những đánh giá này, vì chúng tôi không bao giờ được thông báo rằng chúng tồn tại.
+
+
+ But it is impossible to challenge these assessments, since we’re never told that they exist.
+
+ Tôi biết nhiều về thuật toán của Zhima Credit hơn là về cách các nhà môi giới dữ liệu Hoa Kỳ đánh giá tôi.
+
+
+ I know more about Zhima Credit’s algorithm than I do about how US data brokers rate me.
+
+ Đây là, như Pasquale đã chỉ ra trong cuốn sách The Black Box Society của mình, về cơ bản là một "tấm gương một chiều".
+
+
+ This is, as Pasquale points out in his book The Black Box Society, essentially a “one-way mirror.
+
+ Sau khi rời Trung Quốc, tôi đã đăng ký lại với Lazarus Liu trên WeChat.
+
+
+”After I left China, I checked back in with Lazarus Liu on WeChat.
+
+ Anh ấy đã gửi cho tôi một ảnh chụp màn hình về điểm tín dụng Zhima của anh ấy, đã tăng thêm tám điểm kể từ khi chúng tôi gặp nhau.
+
+
+ He sent me a screenshot of his Zhima Credit score, which had increased by eight points since we met.
+
+ Màn hình của anh ấy đọc "Tuyệt vời" và phông chữ đã chuyển sang in nghiêng mềm.
+
+
+ His screen read “Fantastic,” and the font had shifted to soft italics.
+
+ Chúng tôi đã nói về một tính năng nhận dạng khuôn mặt mới có tên là Smile to Pay mà Ant Financial đã giới thiệu tại một nhà hàng ý tưởng ở Hàng Châu thuộc sở hữu của KFC.
+
+
+We talked about a new facial recognition feature called Smile to Pay that Ant Financial had introduced at a concept restaurant in Hangzhou owned by KFC.
+
+ Các bức tường của nhà hàng được trang trí bằng những chiếc điện thoại màu trắng khổng lồ.
+
+
+ The walls of the restaurant were adorned with gigantic white phones.
+
+ Để đặt hàng, bạn chỉ cần chạm vào một bức ảnh về những gì bạn muốn và sau đó cho điện thoại xem khuôn mặt của bạn, nhập số điện thoại di động của bạn để xác nhận thanh toán.
+
+
+ To order, you simply tapped a picture of what you wanted and then showed the phone your face, typing in your cell phone number to confirm payment.
+
+ Điện thoại thông minh đầu tiên đã loại bỏ nhu cầu về ví; bây giờ Smile to Pay đã loại bỏ nhu cầu về một chiếc điện thoại.
+
+
+ First smartphones had eliminated the need for a wallet; now Smile to Pay eliminated the need for a phone.
+
+ Tất cả những gì bạn cần là khuôn mặt của bạn.
+
+
+ All you needed was your face.
+
+ Liu không háo hức thử Smile to Pay.
+
+
+Liu wasn’t eager to try Smile to Pay.
+
+ Trang "các vấn đề của chính phủ" trên trang web của Zhima Credit gợi ý rằng Ant Financial hợp tác với chính quyền địa phương trên khắp Trung Quốc để sử dụng khả năng nhận dạng khuôn mặt của mình, nhưng đó không phải là điều khiến Liu khó chịu.
+
+
+ The “government affairs” page on Zhima Credit’s website suggests that Ant Financial partners with local governments throughout China to use its facial recognition capabilities, but that wasn’t what made Liu uneasy.
+
+ Trong khi đi du học, anh ấy đã chơi xung quanh với tính năng Mở khóa bằng khuôn mặt của Android.
+
+
+ While studying abroad, he had played around with Android’s Face Unlock feature.
+
+ Bạn cùng phòng của anh ấy, người đã chia sẻ hàm vuông của anh ấy, đã có thể mở khóa điện thoại của anh ấy một vài lần.
+
+
+ His roommate, who shared his square jaw, had been able to unlock his phone a few times.
+
+ "Tôi cảm thấy rằng nó có thể không an toàn," anh ấy nhắn tin cho tôi.
+
+
+ “I feel that it could be unsafe,” he messaged me.
+
+ "Tôi muốn thấy rằng đó là điều thực sự.
+
+
+ “I would want to see that it’s the real thing.
+
+" Ông đã viết điều có thật bằng tiếng Anh, để nhấn mạnh.
+
+
+” He wrote real thing in English, for emphasis.
+
+ Trong khi trò chuyện với Liu, tôi cũng đã mở ra Zhima Credit.
+
+
+While chatting with Liu, I, too, had opened up Zhima Credit.
+
+ Điểm số của tôi đã tăng thêm bốn điểm.
+
+
+ My score had increased by four points.
+
+ "Bạn vẫn còn chỗ để cải thiện," ứng dụng thông báo cho tôi một cách tế nhị.
+
+
+ “You still have room to improve,” the app informed me delicately.
+
+ Nhưng bên cạnh điểm số mới của tôi, 554, là một mũi tên nhỏ màu xanh lá cây.
+
+
+ But next to my new score, 554, was a small green arrow.
+
+ Tôi đang trên đường đi lên.
+
+
+ I was on my way up.
+
+ Bài viết này xuất hiện trong số tháng 2018 năm XNUMX.
+
+
+This article appears in the January 2018 issue.
+
+ Đăng ký ngay bây giờ.
+
+
+ Subscribe now.
+
+ Kiểu dáng của Nicole Schneider; Kiểu dáng tại chỗ của Cristina Facund.
+
+
+Styling by Nicole Schneider; On-set styling by Cristina Facund

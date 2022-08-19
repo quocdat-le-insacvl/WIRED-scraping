@@ -1,0 +1,537 @@
+# A Crowdsourced Wildfire App Tracks All of California’s Blazes
+
+
+
+In the early morning hours of October 8, 2017, when a dozen different wildfires started in Sonoma County, California, Carrie Kramlich got a phone call.
+
+Vào sáng sớm ngày 8 tháng 2017 năm XNUMX, khi hàng chục đám cháy rừng khác nhau bắt đầu ở Hạt Sonoma, California, Carrie Kramlich nhận được một cuộc điện thoại.
+
+
+ A friend who lived south of her said a fire was headed her way.
+
+ Một người bạn sống ở phía nam của cô ấy cho biết một đám cháy đang hướng về phía cô ấy.
+
+
+ Then came another call, from someone who lived to her north.
+
+ Sau đó là một cuộc gọi khác, từ một người sống ở phía bắc của cô.
+
+
+ The fire was burning there too.
+
+ Ngọn lửa cũng đang bùng cháy ở đó.
+
+
+ Kramlich and her husband wandered through a house filled with the smell of smoke, trying to come to terms with the idea that they were surrounded by flames.
+
+ Kramlich và chồng lang thang qua một ngôi nhà đầy mùi khói, cố gắng chấp nhận ý tưởng rằng họ đang bị bao vây bởi ngọn lửa ".
+
+
+“We thought, what is going on?” Kramlich says.
+
+ Chúng tôi nghĩ, chuyện gì đang xảy ra vậy?" Kramlich nói.
+
+
+ “This is armageddon.
+
+ "Đây là armageddon.
+
+
+ This is a war.
+
+ Đây là một cuộc chiến".
+
+
+”Through it all, they got just one official alert: an automated voicemail from the county sheriff's office warning them to evacuate.
+
+ Thông qua tất cả, họ chỉ nhận được một cảnh báo chính thức: một thư thoại tự động từ văn phòng cảnh sát trưởng quận cảnh báo họ sơ tán.
+
+
+A series of fires in the area went on to burn 245,000 acres, destroy nearly 9,000 buildings, and kill 44 people.
+
+ Một loạt các đám cháy trong khu vực đã thiêu rụi 245.
+
+
+ Fortunately, Kramlich’s home and her family were safe.
+
+000 mẫu Anh, phá hủy gần 9.
+
+
+ But the experience was harrowing, and it made her realize how starved for fire information she was.
+
+000 tòa nhà và giết chết 44 người.
+
+
+Five years later, she discovered the Watch Duty app, which allows anyone to track active wildfires throughout California.
+
+ May mắn thay, nhà của Kramlich và gia đình cô đã được an toàn.
+
+
+ The free, nonprofit service is not associated with any official emergency agencies.
+
+ Nhưng trải nghiệm thật khó chịu, và nó khiến cô nhận ra mình bị bỏ đói thông tin về hỏa hoạn như thế nào.
+
+
+ It’s run by volunteers who verify and post new information, photos, and map coordinates in real time, often well before state or local first-response agencies release any official statements.
+
+ Năm năm sau, cô phát hiện ra ứng dụng Watch Duty, cho phép bất kỳ ai cũng có thể theo dõi các đám cháy rừng đang hoạt động trên khắp California.
+
+
+ The community that powers Watch Duty has made it one of the fastest sources of updates on wildfires in California.
+
+ Dịch vụ miễn phí, phi lợi nhuận không liên quan đến bất kỳ cơ quan khẩn cấp chính thức nào.
+
+
+Fires, by their very nature, are very difficult to track in real time.
+
+ Nó được điều hành bởi các tình nguyện viên, những người xác minh và đăng thông tin, hình ảnh và tọa độ bản đồ mới trong thời gian thực, thường là trước khi các cơ quan phản ứng đầu tiên của tiểu bang hoặc địa phương đưa ra bất kỳ tuyên bố chính thức nào.
+
+
+ They can burn quickly, in every direction, and often rage in deeply wooded rural areas that are largely inaccessible.
+
+ Cộng đồng cung cấp năng lượng cho Watch Duty đã khiến nó trở thành một trong những nguồn cập nhật nhanh nhất về cháy rừng ở California.
+
+
+ Official emergency responders, overworked and strapped by a lack of resources, struggle to fight fires and keep the public informed about a blaze’s every move.
+
+Đám cháy, về bản chất của chúng, rất khó theo dõi trong thời gian thực.
+
+
+ Alert services like Nixle allow people to sign up for official warnings, but those can leave concerned residents wanting.
+
+ Chúng có thể cháy nhanh chóng, theo mọi hướng và thường hoành hành ở những vùng nông thôn rừng sâu mà phần lớn không thể tiếp cận được.
+
+
+ Such services tend to send notifications only for the most dire, immediate situations, like evacuations, and their effectiveness varies depending on the local agencies responsible for the situation.
+
+ Những người ứng cứu khẩn cấp chính thức, làm việc quá sức và thiếu nguồn lực, phải vật lộn để chữa cháy và thông báo cho công chúng về mọi động thái của ngọn lửa.
+
+
+That’s where volunteers on social media have come in.
+
+ Các dịch vụ cảnh báo như Nixle cho phép mọi người đăng ký nhận cảnh báo chính thức, nhưng những dịch vụ đó có thể khiến những cư dân lo ngại muốn.
+
+
+ People in Facebook groups and on Fire Twitter have built whole communities of vigilant fire watchers who try to share accurate and timely fire info with the public.
+
+ Các dịch vụ như vậy có xu hướng chỉ gửi thông báo cho các tình huống nghiêm trọng nhất, tức thời, như sơ tán và hiệu quả của chúng thay đổi tùy thuộc vào các cơ quan địa phương chịu trách nhiệm về tình hình.
+
+
+Watch Duty aims to distill those often disparate efforts into something more direct and tangible.
+
+ Đó là nơi các tình nguyện viên trên mạng xã hội đã đến.
+
+
+ Open the app and you’ll find a map of California.
+
+ Mọi người trong các nhóm Facebook và trên Fire Twitter đã xây dựng toàn bộ cộng đồng những người theo dõi hỏa hoạn cảnh giác, những người cố gắng chia sẻ thông tin chữa cháy chính xác và kịp thời với công chúng.
+
+
+ Across the state, depending on the season, are a smattering of red-and-yellow icons indicating the locations of active fires.
+
+ Watch Duty nhằm mục đích chắt lọc những nỗ lực thường khác nhau đó thành một thứ gì đó trực tiếp và hữu hình hơn.
+
+
+ Zoom into the map, tap an icon, and relevant information appears: evacuation zones, a map showing the perimeter of where the fire has burned, and a scrollable feed of updates about the fire’s movements.
+
+ Mở ứng dụng và bạn sẽ tìm thấy bản đồ của California.
+
+
+ Any new updates from official sources are added by one of Watch Duty's volunteers, so anyone tracking the blaze can see the latest news from both official and unofficial sources all in one place in near real time.
+
+ Trên toàn tiểu bang, tùy thuộc vào mùa, là một loạt các biểu tượng màu đỏ và vàng cho biết vị trí của các đám cháy đang hoạt động.
+
+
+ Users can follow up to eight California counties for free.
+
+ Phóng to bản đồ, nhấn vào biểu tượng và thông tin liên quan xuất hiện: khu vực sơ tán, bản đồ hiển thị chu vi nơi ngọn lửa đã bùng cháy và nguồn cấp dữ liệu cập nhật có thể cuộn về chuyển động của đám cháy.
+
+
+ Any user who makes a donation (even $1) can track all 58 counties in the state.
+
+ Bất kỳ cập nhật mới nào từ các nguồn chính thức đều được thêm vào bởi một trong những tình nguyện viên của Watch Duty, vì vậy bất kỳ ai theo dõi vụ cháy đều có thể xem tin tức mới nhất từ cả các nguồn chính thức và không chính thức, tất cả ở một nơi gần như trong thời gian thực.
+
+
+ Whenever the app has new information to pass along about the fires in the counties you're tracking, it sends an alert accompanied by a custom audio notification that mimics the sound of a crackling fire.
+
+ Người dùng có thể theo dõi miễn phí tối đa tám quận của California.
+
+
+Having a dedicated app that collates all the available information about a fire is a balm for concerned Californians.
+
+ Bất kỳ người dùng nào quyên góp (thậm chí $ 1) đều có thể theo dõi tất cả 58 quận trong tiểu bang.
+
+
+“There’s a fear of being at risk,” Kramlich says.
+
+ Bất cứ khi nào ứng dụng có thông tin mới cần chuyển về các đám cháy ở các quận bạn đang theo dõi, ứng dụng sẽ gửi cảnh báo kèm theo thông báo âm thanh tùy chỉnh bắt chước âm thanh của đám cháy đang bùng phát.
+
+
+ “Watch Duty is my Valium.
+
+ Có một ứng dụng chuyên dụng đối chiếu tất cả thông tin có sẵn về một đám cháy là một sự xoa dịu cho những người dân California có liên quan.
+
+
+”The app launched in August 2021, at the height of the 2021 fire season, which in California typically falls between June and October.
+
+ Có một nỗi sợ hãi về việc gặp rủi ro, "Kramlich nói.
+
+
+ At launch, the app covered only California’s Sonoma county.
+
+ " "Nhiệm vụ đồng hồ là Valium của tôi.
+
+
+ On June 1, 2022, Watch Duty expanded its reach to cover all of California.
+
+" Ứng dụng ra mắt vào tháng 2021 năm 2021, vào thời điểm cao điểm của mùa hỏa hoạn năm XNUMX, ở California thường rơi vào khoảng từ tháng XNUMX đến tháng XNUMX.
+
+
+ So far, it’s been downloaded by a quarter of a million people.
+
+ Khi ra mắt, ứng dụng chỉ bao gồm quận Sonoma của California.
+
+
+ Its popularity has surprised its founder, the software developer John Mills.
+
+ Vào ngày 1 tháng 2022 năm XNUMX, Watch Duty đã mở rộng phạm vi hoạt động của mình để bao phủ toàn bộ California.
+
+
+ “We had 22,000 users like four days after launching in Sonoma County,” Mills says.
+
+ Cho đến nay, nó đã được tải xuống bởi một phần tư triệu người.
+
+
+Watch Duty weeds out all of Twitter’s extraneous chatter and shoots straight for its core goal: telling people where a fire is right now, and where it is headed.
+
+ Sự nổi tiếng của nó đã khiến người sáng lập của nó, nhà phát triển phần mềm John Mills ngạc nhiên.
+
+
+Watch Duty’s popularity is likely a result of its straightforwardness.
+
+ Mills nói: "Chúng tôi đã có 22,000 người dùng như bốn ngày sau khi ra mắt tại Hạt Sonoma.
+
+
+ Social media provides a (forgive the pun) firehose of information, not all of it relevant.
+
+ " Xem Duty loại bỏ tất cả các cuộc trò chuyện không liên quan của Twitter và bắn thẳng vào mục tiêu cốt lõi của nó: cho mọi người biết ngọn lửa đang ở đâu ngay bây giờ và nó đang hướng đến đâu.
+
+
+ People looking to get timely info about emergency situations are often inundated by trolls, misinformation, retweets of the same photo over and over, and all the general chaos you’d expect on a place like Twitter.
+
+ Sự nổi tiếng của Watch Duty có thể là kết quả của sự đơn giản của nó.
+
+
+ You can follow hashtags for specific fires, but even those get junked up with people’s well-meaning non sequiturs or bots built to spam any viral trend.
+
+ Phương tiện truyền thông xã hội cung cấp một (tha thứ cho cách chơi chữ) thông tin, không phải tất cả đều có liên quan.
+
+
+ Watch Duty weeds out all of Twitter’s extraneous chatter and shoots straight for its core goal: telling people where a fire is right now, and where it is headed.
+
+ Những người muốn nhận thông tin kịp thời về các tình huống khẩn cấp thường bị ngập trong những trò troll, thông tin sai lệch, lượt retweet của cùng một bức ảnh lặp đi lặp lại và tất cả sự hỗn loạn chung mà bạn mong đợi ở một nơi như Twitter.
+
+
+To do that, the app relies on updates provided by its volunteer “reporters.
+
+ Bạn có thể theo dõi các thẻ bắt đầu bằng # cho các đám cháy cụ thể, nhưng ngay cả những thứ đó cũng bị bỏ rơi bởi những thứ không có ý nghĩa của mọi người hoặc các bot được xây dựng để spam bất kỳ xu hướng lan truyền nào.
+
+
+” They’re locals, scanner enthusiasts, and moderators of fire groups on social media.
+
+ Xem Duty loại bỏ tất cả các cuộc trò chuyện không liên quan của Twitter và bắn thẳng vào mục tiêu cốt lõi của nó: cho mọi người biết ngọn lửa đang ở đâu ngay bây giờ và nó đang hướng đến đâu.
+
+
+ None of them are affiliated with official agencies, but many draw on years of experience monitoring wildfires.
+
+ Để làm điều đó, ứng dụng dựa vào các bản cập nhật được cung cấp bởi các "phóng viên" tình nguyện của nó.
+
+
+“These folks have tens or hundreds of thousands of followers, and they already have the respect of the community,” Mills says.
+
+ Họ là người dân địa phương, những người đam mê máy quét và người điều hành các nhóm cứu hỏa trên mạng xã hội.
+
+
+ “Now, we just gave them a platform.
+
+ Không ai trong số họ có liên kết với các cơ quan chính thức, nhưng nhiều người rút ra nhiều năm kinh nghiệm giám sát các vụ cháy rừng ".
+
+
+ That was kind of a key here, like, how do we help these people do their job better?”Michael Silvester runs @CAFireScanner, one of Fire Twitter’s most prominent accounts.
+
+ Những người này có hàng chục hoặc hàng trăm nghìn người theo dõi, và họ đã nhận được sự tôn trọng của cộng đồng, "Mills nói.
+
+
+ Last spring, a Watch Duty developer reached out to him and asked what he would want in a fire-focused alert service.
+
+ " "Bây giờ, chúng tôi chỉ cung cấp cho họ một nền tảng.
+
+
+ When the app officially launched, Silvester was invited to participate as a reporter.
+
+ Đó là một loại chìa khóa ở đây, giống như, làm thế nào để chúng tôi giúp những người này làm công việc của họ tốt hơn? Michael Silvester điều hành @CAFireScanner, một trong những tài khoản nổi bật nhất của Fire Twitter.
+
+
+ Skeptical at first, Silvester says he now spends more time posting updates in Watch Duty than he does tweeting to his 125,000 Twitter followers.
+
+ Mùa xuân năm ngoái, một nhà phát triển Watch Duty đã liên hệ với anh ta và hỏi anh ta sẽ muốn gì trong một dịch vụ cảnh báo tập trung vào lửa.
+
+
+“Twitter is a bit of a mess,” Silvester says.
+
+ Khi ứng dụng chính thức ra mắt, Silvester đã được mời tham gia với tư cách là một phóng viên.
+
+
+ “Most social media platforms are a mess.
+
+ Hoài nghi lúc đầu, Silvester nói rằng bây giờ anh ấy dành nhiều thời gian hơn để đăng các bản cập nhật trong Watch Duty hơn là tweet cho 125,000 người theo dõi Twitter của mình.
+
+
+ Watch Duty just gives you that information straight without any chatter, without people posting their political views and stuff.
+
+ Twitter là một chút lộn xộn, "Silvester nói.
+
+
+”The app has resonated with people in fire country.
+
+ " "Hầu hết các nền tảng truyền thông xã hội là một mớ hỗn độn.
+
+
+ Catherine Carannante is a relative newcomer to California.
+
+ Watch Duty chỉ cung cấp cho bạn thông tin đó một cách thẳng thắn mà không cần bất kỳ cuộc trò chuyện nào, mà không có mọi người đăng quan điểm và nội dung chính trị của họ.
+
+
+ She and her husband are building a house in rural Amador County, east of Sacramento and south of Lake Tahoe.
+
+ Ứng dụng đã gây được tiếng vang với người dân ở đất nước lửa.
+
+
+ She says they knew what they were getting into, moving into the tinderbox that is the Sierra Nevada.
+
+ Catherine Carannante là một người mới tương đối đến California.
+
+
+“It was just a nightmare to find up-to-date information about fires,” Carannante says.
+
+ Cô và chồng đang xây dựng một ngôi nhà ở vùng nông thôn Quận Amador, phía đông Sacramento và phía nam Hồ Tahoe.
+
+
+ There’s a single-lane road in and out of the property.
+
+ Cô ấy nói rằng họ biết những gì họ đang tham gia, chuyển đến hộp tinderbox đó là Sierra Nevada.
+
+
+ Because of that limited access, she worries that an official evacuation order may not come swiftly enough.
+
+ Đó chỉ là một cơn ác mộng khi tìm kiếm thông tin cập nhật về các vụ hỏa hoạn," Carannante nói.
+
+
+ “We need a lot of time to evacuate, it won’t work for the county to just say, ‘Hey you need to get out and you’ve got 10 minutes.
+
+ Có một con đường một làn đường vào và ra khỏi tài sản.
+
+
+’”During the Electra Fire last July, Carannante saw posts on Nextdoor about Watch Duty, and she decided to download the app.
+
+ Vì khả năng tiếp cận hạn chế đó, cô lo lắng rằng lệnh sơ tán chính thức có thể không đến đủ nhanh.
+
+
+“It was just amazing because you had one place that gave you a map with regular updates in normal human-speak, not this lingo that's really difficult to understand,” Carannante says.
+
+ "Chúng tôi cần rất nhiều thời gian để sơ tán, sẽ không hiệu quả nếu quận chỉ nói, 'Này, bạn cần phải ra ngoài và bạn có 10 phút.
+
+
+ “And it was real-time updates.
+
+' Trong Đám cháy Electra vào tháng XNUMX năm ngoái, Carannante đã xem các bài đăng trên Nextdoor về Watch Duty và cô ấy quyết định tải xuống ứng dụng.
+
+
+ You didn't have to wait 12 hours to get an update.
+
+ Thật tuyệt vời vì bạn có một nơi đã cung cấp cho bạn một bản đồ với những cập nhật thường xuyên về cách nói chuyện bình thường của con người, không phải biệt ngữ này thực sự khó hiểu, "Carannante nói.
+
+
+”Boone AshworthKatrina MillerMatt SimonWatch Duty currently only covers California, but Mills doesn’t plan to stop there.
+
+ " "Và đó là các bản cập nhật theo thời gian thực.
+
+
+ The map in Watch Duty is built on OpenStreetMap, a community-driven mapping platform.
+
+ Bạn đã không phải đợi 12 giờ để nhận được bản cập nhật.
+
+
+ Pinch to zoom out on the app’s screen and you can see the whole world—far more than Watch Duty’s current coverage area.
+
+ Boone AshworthKatrina MillerMatt SimonWatch Duty hiện chỉ bao gồm California, nhưng Mills không có kế hoạch dừng lại ở đó.
+
+
+“We're going to keep pushing,” Mills says.
+
+ Bản đồ trong Watch Duty được xây dựng trên OpenStreetMap, một nền tảng lập bản đồ hướng tới cộng đồng.
+
+
+ “This is not just about fires, this is about emergencies and disasters.
+
+ Chụm để thu nhỏ trên màn hình của ứng dụng và bạn có thể nhìn thấy toàn bộ thế giới — nhiều hơn nhiều so với vùng phủ sóng hiện tại của Watch Duty.
+
+
+ So you can imagine how deep the rabbit hole goes.
+
+ Chúng tôi sẽ tiếp tục thúc đẩy," Mills nói.
+
+
+”Silvester, the Watch Duty reporter, says users of the app have asked for updates on flash floods, an increasingly common occurrence when storms hit areas that have been ravaged by fires.
+
+ "Đây không chỉ là về hỏa hoạn, mà còn về các trường hợp khẩn cấp và thảm họa.
+
+
+ But that expansion beyond wildfires alone also has the potential to spark an identity crisis for Watch Duty.
+
+ Vì vậy, bạn có thể tưởng tượng lỗ thỏ đi sâu như thế nào ".
+
+
+ The more calamities it reports on, the more it will compete with other emergency info apps like Pulse Point and Citizen.
+
+ Silvester, phóng viên của Watch Duty, cho biết người dùng ứng dụng đã yêu cầu cập nhật về lũ quét, một sự xuất hiện ngày càng phổ biến khi các cơn bão tấn công các khu vực đã bị tàn phá bởi hỏa hoạn.
+
+
+“One of the things that I really love about Watch Duty is that it doesn't have so much noise,” Carannante says.
+
+ Nhưng chỉ riêng việc mở rộng ra ngoài cháy rừng cũng có khả năng châm ngòi cho một cuộc khủng hoảng danh tính cho Watch Duty.
+
+
+ “It is just what I care about, which is wildfires.
+
+ Càng báo cáo nhiều tai họa, nó sẽ càng cạnh tranh với các ứng dụng thông tin khẩn cấp khác như Pulse Point và Citizen".
+
+
+”For now, fires are still the developers’ focus.
+
+ Một trong những điều mà tôi thực sự yêu thích ở Watch Duty là nó không có quá nhiều tiếng ồn, "Carannante nói.
+
+
+ The most likely course of growth will be expanding to the rest of the West Coast—Oregon, Washington, and then into Nevada and Arizona.
+
+ " "Đó chỉ là điều tôi quan tâm, đó là cháy rừng.
+
+
+ Mills says that the developers and reporters with Watch Duty are taking great pains to be as transparent and accurate as possible.
+
+" Hiện tại, hỏa hoạn vẫn là trọng tâm của các nhà phát triển.
+
+
+ The app does allow user submissions, but people who upload photos or video are required to do so through the Watch Duty app, which then accesses the contributor’s location to verify where the pic was taken.
+
+ Quá trình tăng trưởng có khả năng nhất sẽ là mở rộng sang phần còn lại của Bờ Tây — Oregon, Washington, và sau đó đến Nevada và Arizona.
+
+
+ Any user submissions are screened by one of Watch Duty’s reporters before going on the app.
+
+ Mills nói rằng các nhà phát triển và phóng viên của Watch Duty đang rất nỗ lực để minh bạch và chính xác nhất có thể.
+
+
+ (This stands in contrast to Citizen, which allows unmitigated user submissions and comments.
+
+ Ứng dụng cho phép người dùng gửi, nhưng những người tải lên ảnh hoặc video được yêu cầu làm như vậy thông qua ứng dụng Nhiệm vụ đồng hồ, sau đó truy cập vào vị trí của người đóng góp để xác minh nơi ảnh được chụp.
+
+
+)Brian Ferguson, deputy director of crisis communications at the California Governor's Office of Emergency Services says that any way to get the word about disasters out to vulnerable people is a good thing.
+
+ Bất kỳ bài gửi nào của người dùng đều được sàng lọc bởi một trong những phóng viên của Watch Duty trước khi truy cập ứng dụng.
+
+
+ However, people need to keep in mind that alerts coming from Watch Duty are not official.
+
+ (Điều này trái ngược với Citizen, cho phép gửi và nhận xét của người dùng không được chuyển đến.
+
+
+“There's a lot of good that can come from these when they're used broadly to understand the circumstances of what's happening,” Ferguson says.
+
+) Brian Ferguson, phó giám đốc truyền thông khủng hoảng tại Văn phòng Dịch vụ Khẩn cấp của Thống đốc California nói rằng bất kỳ cách nào để truyền đạt thông tin về thảm họa cho những người dễ bị tổn thương là một điều tốt.
+
+
+ “But when it comes to life-and-death situations and decisions, particularly evacuations or public safety, there still really is only one source of truth.
+
+ Tuy nhiên, mọi người cần lưu ý rằng các cảnh báo đến từ Watch Duty không phải là chính thức ".
+
+
+ And that's from first responders who are on the ground in the communities, actually managing the incident.
+
+ Có rất nhiều điều tốt đẹp có thể đến từ những điều này khi chúng được sử dụng rộng rãi để hiểu hoàn cảnh của những gì đang xảy ra, "Ferguson nói.
+
+
+”Even though they’re spreading unofficial information, the people behind Watch Duty hope to earn and maintain the public’s trust.
+
+ " "Nhưng khi nói đến các tình huống và quyết định sinh tử, đặc biệt là sơ tán hoặc an toàn công cộng, vẫn thực sự chỉ có một nguồn sự thật.
+
+
+ Silvester, the Fire Twitter veteran, had always gathered most of his information on his own by monitoring dozens of radio channels and web pages.
+
+ Và đó là từ những người phản ứng đầu tiên đang ở trên thực địa trong cộng đồng, thực sự quản lý vụ việc ".
+
+
+ It’s an exhaustive, time-consuming process that takes up most of his time during fire season.
+
+ Mặc dù họ đang lan truyền thông tin không chính thức, những người đứng sau Watch Duty hy vọng sẽ kiếm được và duy trì sự tin tưởng của công chúng.
+
+
+ When gathering news for Watch Duty, he and the other reporters use Slack to coordinate and pool information.
+
+ Silvester, cựu chiến binh Twitter của Fire, luôn tự mình thu thập hầu hết thông tin của mình bằng cách theo dõi hàng chục kênh radio và trang web.
+
+
+ Slack bots automatically pull in official updates, making the process of compiling everything and sending notifications even faster.
+
+ Đó là một quá trình toàn diện, tốn thời gian, chiếm phần lớn thời gian của anh ấy trong mùa hỏa hoạn.
+
+
+“There are so many people like myself on Watch Duty right now,” Silvester says.
+
+ Khi thu thập tin tức cho Watch Duty, anh ấy và các phóng viên khác sử dụng Slack để điều phối và tổng hợp thông tin.
+
+
+ “There’s a sense of we’re a real team.
+
+ Các bot Slack tự động đưa vào các bản cập nhật chính thức, làm cho quá trình biên dịch mọi thứ và gửi thông báo thậm chí còn nhanh hơn ".
+
+
+ We all help each other out.
+
+ Có rất nhiều người như tôi trong Watch Duty ngay bây giờ, "Silvester nói.
+
+
+”That sense of community has started to extend out to the people using the app.
+
+ " "Có cảm giác chúng tôi là một đội thực sự.
+
+
+ During fire season last year, Carrie Kramlich says she was in a local doctor’s office when an alert about a nearby fire came through the app.
+
+ Tất cả chúng ta đều giúp đỡ lẫn nhau".
+
+
+ Watch Duty’s distinctive custom alert sound chimed not just for her, but for several other people in the room.
+
+ Ý thức cộng đồng đó đã bắt đầu mở rộng đến những người sử dụng ứng dụng.
+
+
+ They looked around, laughed about it, and got to talking.
+
+ Trong mùa hỏa hoạn năm ngoái, Carrie Kramlich cho biết cô đang ở trong văn phòng bác sĩ địa phương thì cảnh báo về một đám cháy gần đó được đưa ra thông qua ứng dụng.
+
+
+“We were all really happy that we all had it,” Kramlich says “It said something about the people in that room.
+
+ Âm thanh cảnh báo tùy chỉnh đặc biệt của Watch Duty không chỉ dành cho cô mà còn cho một số người khác trong phòng.
+
+
+ That we've been through something and that we're paying attention.
+
+ Họ nhìn xung quanh, cười về điều đó, và phải nói chuyện với nhau.
+
+
+”.
+
+ Tất cả chúng tôi đều thực sự hạnh phúc vì tất cả chúng tôi đều có nó," Kramlich nói "Nó nói lên điều gì đó về những người trong căn phòng đó

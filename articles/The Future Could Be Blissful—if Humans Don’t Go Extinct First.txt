@@ -1,0 +1,637 @@
+# The Future Could Be Blissful—if Humans Don’t Go Extinct First
+
+
+
+The future is big.
+
+Tương lai là rất lớn.
+
+
+ Almost unimaginably big.
+
+ Gần như lớn không thể tưởng tượng được.
+
+
+ Take the human population, for example.
+
+ Lấy dân số loài người làm ví dụ.
+
+
+ If humanity sticks around at its current population level for as long as the Earth remains habitable—somewhere between 500 million and 1.
+
+ Nếu loài người tồn tại ở cấp độ dân số hiện tại miễn là Trái đất vẫn có thể ở được - khoảng từ 500 triệu đến 1.
+
+
+3 billion years—then the number of humans who will exist in the future will outnumber present-day humans by a factor of 1 million to one.
+
+3 tỷ năm - thì số lượng con người sẽ tồn tại trong tương lai sẽ đông hơn con người ngày nay với hệ số 1 triệu đến một.
+
+
+ If our species takes to the stars and colonizes other planets, then we could be looking at trillions of years of future human society stretching across the universe.
+
+ Nếu loài người của chúng ta lên các vì sao và xâm chiếm các hành tinh khác, thì chúng ta có thể nhìn vào hàng nghìn tỷ năm của xã hội loài người trong tương lai trải dài trên khắp vũ trụ.
+
+
+What if we could shape that future and determine whether that society was peace loving or totalitarian, or even whether it will exist at all? In a new book called What We Owe the Future, the philosopher William MacAskill argues that those questions form one of the key moral challenges of our time, and that we in the 21st century are uniquely positioned to shape the long-term future for better or for worse.
+
+ Điều gì sẽ xảy ra nếu chúng ta có thể định hình tương lai đó và xác định xem xã hội đó là yêu chuộng hòa bình hay toàn trị, hoặc thậm chí liệu nó sẽ tồn tại? Trong một cuốn sách mới có tên What We Owe the Future, nhà triết học William MacAskill lập luận rằng những câu hỏi đó tạo thành một trong những thách thức đạo đức chính của thời đại chúng ta và chúng ta trong thế kỷ 21 có vị trí duy nhất để định hình tương lai lâu dài tốt hơn hoặc tồi tệ hơn.
+
+
+ If we can avoid extinction and figure out a more morally harmonious way to live, then a blissful future awaits the trillions of humans poised to exist in centuries to come.
+
+ Nếu chúng ta có thể tránh được sự tuyệt chủng và tìm ra một cách sống hài hòa hơn về mặt đạo đức, thì một tương lai hạnh phúc đang chờ đợi hàng nghìn tỷ con người sẵn sàng tồn tại trong nhiều thế kỷ tới.
+
+
+ But to get there we have to take the philosophical leap that we should care strongly about the lives and welfare of future humans.
+
+ Nhưng để đạt được điều đó, chúng ta phải thực hiện một bước nhảy vọt triết học mà chúng ta nên quan tâm mạnh mẽ đến cuộc sống và phúc lợi của con người trong tương lai.
+
+
+MacAskill is one of the cofounders of effective altruism—a philosophical movement that encourages people to maximize the good they can do with their lives and which has found favor among Silicon Valley thinkers.
+
+ MacAskill là một trong những người đồng sáng lập lòng vị tha hiệu quả — một phong trào triết học khuyến khích mọi người tối đa hóa những điều tốt đẹp họ có thể làm với cuộc sống của mình và đã nhận được sự ưu ái của các nhà tư tưởng Thung lũng Silicon.
+
+
+ WIRED talked with MacAskill about the possibility of human extinction, the threat of economic stagnation, and whether Elon Musk’s interest in long-termism risks leading the movement astray.
+
+ WIRED đã nói chuyện với MacAskill về khả năng tuyệt chủng của con người, mối đe dọa trì trệ kinh tế và liệu sự quan tâm của Elon Musk đối với chủ nghĩa lâu dài có nguy cơ khiến phong trào đi lạc lối hay không.
+
+
+ The interview has been lightly edited for clarity and length.
+
+ Cuộc phỏng vấn đã được chỉnh sửa nhẹ cho rõ ràng và dài dòng.
+
+
+WIRED: What is long-termism?William MacAskill: Long-termism is the view that positively impacting the long-term future is a key moral priority of our time.
+
+ WIRED: Chủ nghĩa dài hạn là gì? William MacAskill: Chủ nghĩa lâu dài là quan điểm cho rằng tác động tích cực đến tương lai lâu dài là ưu tiên đạo đức quan trọng của thời đại chúng ta.
+
+
+ It’s about taking seriously just how big the future might be, and how high the stakes are for anything that could shape the long-term future.
+
+ Đó là về việc xem xét nghiêm túc tương lai có thể lớn như thế nào và tiền đặt cược cao như thế nào cho bất cứ điều gì có thể định hình tương lai lâu dài.
+
+
+ Then it’s about looking for what the things are that might happen in our lifetimes that could impact not just the present but the very long term.
+
+ Sau đó, đó là về việc tìm kiếm những điều có thể xảy ra trong cuộc sống của chúng ta, có thể ảnh hưởng đến không chỉ hiện tại mà còn về lâu dài.
+
+
+ And actually taking action to try to work on those challenges to help put humanity onto a better trajectory.
+
+ Và thực sự hành động để cố gắng làm việc với những thách thức đó để giúp đưa nhân loại vào một quỹ đạo tốt hơn.
+
+
+Initially you were pretty skeptical that the distant future should be a moral priority today.
+
+ Ban đầu bạn khá nghi ngờ rằng tương lai xa nên là một ưu tiên đạo đức ngày hôm nay.
+
+
+ Now you’ve written a book arguing exactly that.
+
+ Bây giờ bạn đã viết một cuốn sách tranh luận chính xác điều đó.
+
+
+ What changed your mind?My very first encounter with the seeds of the ideas was in 2009.
+
+ Điều gì đã thay đổi suy nghĩ của bạn? Cuộc gặp gỡ đầu tiên của tôi với hạt giống của các ý tưởng là vào năm 2009.
+
+
+ I had two main sources of skepticism.
+
+ Tôi có hai nguồn hoài nghi chính.
+
+
+ The first was skepticism about the idea that almost all value is in the future.
+
+ Đầu tiên là sự hoài nghi về ý tưởng rằng hầu như tất cả các giá trị là trong tương lai.
+
+
+ That gets into issues like population ethics, although in the end, I don’t think that’s that important either way.
+
+ Điều đó đi vào các vấn đề như đạo đức dân số, mặc dù cuối cùng, tôi không nghĩ rằng điều đó quan trọng theo cách nào đó.
+
+
+ But at the time, I thought it was important.
+
+ Nhưng vào thời điểm đó, tôi nghĩ nó rất quan trọng.
+
+
+ Those arguments weighed on me, and they’re very compelling.
+
+ Những lập luận đó đè nặng lên tôi, và chúng rất hấp dẫn.
+
+
+ Over the course of a year or two—maybe a few years—I started taking that very seriously.
+
+ Trong suốt một hoặc hai năm—có thể là một vài năm—tôi bắt đầu thực hiện điều đó một cách rất nghiêm túc.
+
+
+But then there’s a second aspect that’s like, “What do we do about that? Where are the things we can predictably do to positively impact the long term? Do we really know what they are? Among all the things we could be doing, maybe just acting to benefit the short term is the best thing that we could be doing?” Or thirdly, are you getting mugged a little bit by low probabilities of large amounts of value.
+
+ Nhưng sau đó, có một khía cạnh thứ hai giống như, "Chúng ta phải làm gì về điều đó? Đâu là những điều chúng ta có thể dự đoán làm để tác động tích cực đến dài hạn? Chúng ta có thực sự biết chúng là gì không? Trong số tất cả những điều chúng ta có thể làm, có lẽ chỉ cần hành động để mang lại lợi ích cho ngắn hạn là điều tốt nhất mà chúng ta có thể làm?" Hoặc thứ ba, bạn đang bị cướp một chút bởi xác suất thấp của một lượng lớn giá trị.
+
+
+And the thing that really shifted me there is that ideas about positively impacting the long run have moved from speculative things suggested by philosophers to very concrete actions that we could take.
+
+ Và điều thực sự thay đổi tôi ở đó là những ý tưởng về tác động tích cực đến lâu dài đã chuyển từ những điều đầu cơ được đề xuất bởi các nhà triết học sang những hành động rất cụ thể mà chúng ta có thể thực hiện.
+
+
+ Twelve years ago, it’s like, “Oh, well, maybe people could use bioweapons.
+
+ Mười hai năm trước, nó giống như, "Ồ, tốt, có lẽ mọi người có thể sử dụng vũ khí sinh học.
+
+
+ And that could be this terrible scary thing, and maybe we could do something about that.
+
+ Và đó có thể là điều đáng sợ khủng khiếp này, và có lẽ chúng tôi có thể làm điều gì đó để giải quyết vấn đề đó ".
+
+
+” That’s very vague.
+
+ Điều đó rất mơ hồ.
+
+
+ It’s quite high level.
+
+ Đó là mức độ khá cao.
+
+
+Now the situation is very different.
+
+ Bây giờ tình hình là rất khác nhau.
+
+
+ One of the leading biologists in the world, Kevin Esvelt, can very clearly lay out the technology that one can use to create much more powerful pathogens.
+
+ Một trong những nhà sinh vật học hàng đầu trên thế giới, Kevin Esvelt, có thể trình bày rất rõ ràng công nghệ mà người ta có thể sử dụng để tạo ra mầm bệnh mạnh hơn nhiều.
+
+
+ And secondly he has this whole roster of extremely concrete things that we can do to protect against that, such as monitoring wastewater for new diseases; highly advanced personal protective equipment; far-UVC lighting that sterilizes a room while not negatively impacting people.
+
+ Và thứ hai, anh ấy có toàn bộ danh sách những điều cực kỳ cụ thể mà chúng tôi có thể làm để bảo vệ chống lại điều đó, chẳng hạn như giám sát nước thải cho các bệnh mới; thiết bị bảo vệ cá nhân tiên tiến cao; ánh sáng UVC xa giúp khử trùng phòng trong khi không ảnh hưởng tiêu cực đến mọi người.
+
+
+ And so it’s no longer, “Oh, hey, maybe there’s something in this area that could work.
+
+ Và vì vậy nó không còn nữa, "Ồ, này, có lẽ có một cái gì đó trong lĩnh vực này có thể hoạt động.
+
+
+” But instead there’s a very concrete set of actions that we can take that would have enormous benefits in both the short term and the long term.
+
+" Nhưng thay vào đó, có một tập hợp các hành động rất cụ thể mà chúng ta có thể thực hiện, sẽ mang lại lợi ích to lớn trong cả ngắn hạn và dài hạn.
+
+
+You were an influential figure in forming the effective altruism movement, which is all about this idea of maximizing the good that people can do in the world.
+
+ Bạn là một nhân vật có ảnh hưởng trong việc hình thành phong trào vị tha hiệu quả, đó là tất cả về ý tưởng tối đa hóa những điều tốt đẹp mà mọi người có thể làm trên thế giới.
+
+
+ A lot of prominent effective altruists are now strong advocates for long-termism.
+
+ Rất nhiều người theo chủ nghĩa vị tha hiệu quả nổi bật hiện là những người ủng hộ mạnh mẽ cho chủ nghĩa lâu dài.
+
+
+ Is long-termism the natural conclusion of effective altruism?I’m really in favor of an effective altruism community that has a diversity of perspectives and where people can disagree—quite substantively perhaps—because these questions are really hard.
+
+ Chủ nghĩa lâu dài có phải là kết luận tự nhiên của lòng vị tha hiệu quả? Tôi thực sự ủng hộ một cộng đồng vị tha hiệu quả có nhiều quan điểm khác nhau và nơi mọi người có thể không đồng ý - có lẽ khá thực chất - bởi vì những câu hỏi này thực sự khó.
+
+
+ In terms of where the focus of effective altruism is, at least in terms of funding, it’s pretty striking that the majority of funding is still going to global health and development.
+
+ Về trọng tâm của lòng vị tha hiệu quả là ở đâu, ít nhất là về mặt tài trợ, điều khá đáng chú ý là phần lớn tài trợ vẫn dành cho sức khỏe và phát triển toàn cầu.
+
+
+But you’re right that the intellectual focus and where the intellectual energy is going is much more on the long-termist side of things.
+
+ Nhưng bạn nói đúng rằng trọng tâm trí tuệ và nơi năng lượng trí tuệ đang đi nhiều hơn ở khía cạnh lâu dài của mọi thứ.
+
+
+ And I do think that’s because the arguments for that are just very strong and compelling.
+
+ Và tôi nghĩ đó là bởi vì những lập luận cho điều đó rất mạnh mẽ và hấp dẫn.
+
+
+ We’ve seen over time many people coming from very many different backgrounds getting convinced by those arguments and trying to put them into practice.
+
+ Theo thời gian, chúng tôi đã thấy nhiều người đến từ rất nhiều nền tảng khác nhau bị thuyết phục bởi những lập luận đó và cố gắng đưa chúng vào thực tế.
+
+
+ It does seem like effective altruism plus an honest, impartial appraisal of the arguments seems to very often lead to long-termism.
+
+ Nó có vẻ giống như lòng vị tha hiệu quả cộng với sự đánh giá trung thực, vô tư về các lập luận dường như rất thường dẫn đến chủ nghĩa lâu dài.
+
+
+But it’s certainly not a requirement.
+
+ Nhưng nó chắc chắn không phải là một yêu cầu.
+
+
+ The entire Open Philanthropy global health and well-being team are outstandingly smart and well-thinking and carefully thinking people who are not bought into at least the standard long-termist priorities.
+
+ Toàn bộ nhóm sức khỏe và hạnh phúc toàn cầu của Tổ chức từ thiện mở là những người thông minh và suy nghĩ tốt và suy nghĩ cẩn thận một cách xuất sắc, những người không được mua vào ít nhất là các ưu tiên dài hạn tiêu chuẩn.
+
+
+One person who does buy in to at least some long-termist priorities is Elon Musk.
+
+ Một người mua ít nhất một số ưu tiên dài hạn là Elon Musk.
+
+
+ He called your book “a close match” to his philosophy.
+
+ Ông gọi cuốn sách của bạn là "một kết hợp chặt chẽ" với triết lý của mình.
+
+
+ But others have argued that billionaires like Musk are using long-termism to justify their detachment from present-day problems: Why worry about wealth inequality today if unaligned artificial general intelligence (AGI) might wipe us all out in the next century?I’m very worried by … I think any kind of moral perspective can be co-opted, and used and misused.
+
+ Nhưng những người khác đã lập luận rằng các tỷ phú như Musk đang sử dụng chủ nghĩa lâu dài để biện minh cho sự tách rời của họ khỏi các vấn đề ngày nay: Tại sao phải lo lắng về bất bình đẳng giàu nghèo ngày nay nếu trí tuệ tổng hợp nhân tạo (AGI) không liên quan có thể xóa sổ tất cả chúng ta trong thế kỷ tới? Tôi rất lo lắng bởi .
+
+
+ So we see this with greenwashing, very systematically.
+
+.
+
+
+ Where certain corporate interests have managed to co-opt environmentalist ideas very effectively to actually just entrench their interests.
+
+.
+
+
+ Even going back further in time: I’m a fan of liberalism, but it was used to justify colonial atrocities.
+
+ Tôi nghĩ rằng bất kỳ loại quan điểm đạo đức nào cũng có thể được đồng lựa chọn, sử dụng và sử dụng sai mục đích.
+
+
+ I’m very sympathetic to and responsive to the thought that moral ideas can be used for good or for bad.
+
+ Vì vậy, chúng tôi thấy điều này với rửa xanh, rất có hệ thống.
+
+
+ I’m trying to ensure that people are using them to actually do things rather than as some sort of kind of whitewashing or greenwashing.
+
+ Nơi mà một số lợi ích doanh nghiệp nhất định đã cố gắng đồng ý chọn các ý tưởng bảo vệ môi trường rất hiệu quả để thực sự chỉ cố thủ lợi ích của họ.
+
+
+But then the second thought, that [long-termism] can be used as an excuse not to work on present-day issues: In practice, I think the exact opposite is the case.
+
+ Thậm chí quay ngược thời gian xa hơn: Tôi là một fan hâm mộ của chủ nghĩa tự do, nhưng nó đã được sử dụng để biện minh cho sự tàn bạo của thực dân.
+
+
+ If you look at the growth of the effective altruism movement in general, and where people who subscribe to long-termism typically donate, more often than not it’s bednets.
+
+ Tôi rất thông cảm và đáp ứng với suy nghĩ rằng các ý tưởng đạo đức có thể được sử dụng cho tốt hoặc xấu.
+
+
+ My last donation was to the Lead Exposure Elimination Project, which is basically trying to get rid of lead paint in poorer countries.
+
+ Tôi đang cố gắng đảm bảo rằng mọi người đang sử dụng chúng để thực sự làm mọi việc hơn là một loại tẩy trắng hoặc tẩy trắng.
+
+
+ Lead is enormously damaging: Think like smoking, but worse.
+
+ Nhưng sau đó, suy nghĩ thứ hai, rằng [chủ nghĩa lâu dài] có thể được sử dụng như một cái cớ để không làm việc về các vấn đề ngày nay: Trong thực tế, tôi nghĩ điều hoàn toàn ngược lại là trường hợp.
+
+
+ We’ve eliminated it from rich countries like the US and UK, but not globally.
+
+ Nếu bạn nhìn vào sự phát triển của phong trào vị tha hiệu quả nói chung và nơi những người đăng ký chủ nghĩa lâu dài thường quyên góp, thường xuyên hơn không phải là mạng giường.
+
+
+ And it causes major health problems and cognitive deficits.
+
+ Khoản đóng góp cuối cùng của tôi là cho Dự án Loại bỏ Phơi nhiễm Chì, về cơ bản là cố gắng loại bỏ sơn chì ở các nước nghèo hơn.
+
+
+ We can just get rid of it, it’s fairly simple to do.
+
+ Chì gây tổn hại rất lớn: Hãy nghĩ như hút thuốc, nhưng tệ hơn.
+
+
+ And so this project has been getting a lot of traction.
+
+ Chúng tôi đã loại bỏ nó khỏi các quốc gia giàu có như Hoa Kỳ và Vương quốc Anh, nhưng không phải trên toàn cầu.
+
+
+I think that’s really good from both the short-term and long-term perspective.
+
+ Và nó gây ra các vấn đề sức khỏe lớn và thiếu hụt nhận thức.
+
+
+ I think that’s true for many other things as well.
+
+ Chúng ta chỉ có thể loại bỏ nó, nó khá đơn giản để làm.
+
+
+ It’s a pretty notable fact that, coming out of the kind of long-term school of thought, there was concern for pandemics from the early 2010s.
+
+ Và vì vậy dự án này đã và đang nhận được rất nhiều sức hút.
+
+
+ We were actively funding things from about 2015 and moving people into these cause areas.
+
+ Tôi nghĩ điều đó thực sự tốt từ cả góc độ ngắn hạn và dài hạn.
+
+
+ Actually there was a forecasting platform that is kind of [aligned with effective altruism] that put the chance of a pandemic that killed at least 10 million people within the years 2016 to 2026 at one in three.
+
+ Tôi nghĩ điều đó cũng đúng với nhiều thứ khác.
+
+
+ So Covid-19 was both foreseeable, and in fact, foreseen.
+
+ Một thực tế khá đáng chú ý là, bước ra từ loại trường phái tư tưởng dài hạn, đã có mối quan tâm về đại dịch từ đầu những năm 2010.
+
+
+There are enormous amounts of problems in the world today, there are enormous amounts of suffering.
+
+ Chúng tôi đã tích cực tài trợ cho mọi thứ từ khoảng năm 2015 và chuyển mọi người vào các lĩnh vực gây ra những nguyên nhân này.
+
+
+ I really think there’s just like a large number of things that can be of huge impact in both the present while at the same time benefiting the long term.
+
+ Trên thực tế, có một nền tảng dự báo thuộc loại [phù hợp với lòng vị tha hiệu quả] đặt khả năng xảy ra đại dịch đã giết chết ít nhất 10 triệu người trong những năm 2016 đến 2026 là một phần ba.
+
+
+ And many people actually think that the risk of catastrophe from biowarfare or AI is great enough that we’re more likely to die in such a catastrophe than we are in, say, a car crash.
+
+ Vì vậy, Covid-19 vừa có thể thấy trước, vừa có thể thấy trước.
+
+
+ I don’t know if I’d be willing to make that claim, but I do think it’s comparable.
+
+ Có rất nhiều vấn đề trên thế giới ngày nay, có rất nhiều đau khổ.
+
+
+ So I think there are just enormous benefits in the short term as well.
+
+ Tôi thực sự nghĩ rằng có một số lượng lớn những thứ có thể có tác động rất lớn trong cả hiện tại đồng thời mang lại lợi ích lâu dài.
+
+
+One of the justifications for focusing on risks like unaligned AGI is that we should try and delay any situation that might “lock in” our current values.
+
+ Và nhiều người thực sự nghĩ rằng nguy cơ thảm họa từ chiến tranh sinh học hoặc AI là đủ lớn để chúng ta có nhiều khả năng chết trong một thảm họa như vậy hơn là chúng ta đang gặp phải một vụ tai nạn xe hơi.
+
+
+ You call for a period of long reflection and moral exploration where—hopefully—humanity converges on the best possible society.
+
+ Tôi không biết liệu tôi có sẵn sàng đưa ra tuyên bố đó hay không, nhưng tôi nghĩ nó có thể so sánh được.
+
+
+ What might the opposite scenario look like?Let’s do a little counterfactual history: If things had been different and the Nazis win World War II, get greater power from there, and set up a world government.
+
+ Vì vậy, tôi nghĩ rằng cũng có những lợi ích to lớn trong ngắn hạn.
+
+
+ And then they’re like, indoctrinating everyone into Nazi ideology.
+
+ Một trong những lý do để biện minh cho việc tập trung vào các rủi ro như AGI không liên quan là chúng ta nên cố gắng và trì hoãn bất kỳ tình huống nào có thể "khóa chặt" các giá trị hiện tại của chúng ta.
+
+
+ There’s very strong allegiance to the party line.
+
+ Bạn kêu gọi một khoảng thời gian dài suy ngẫm và khám phá đạo đức, nơi — hy vọng — nhân loại hội tụ về một xã hội tốt nhất có thể.
+
+
+ And then, over time, whether through life extension or artificial intelligence, if the beings that govern society are not biological but digital instead, they’re in principle immortal.
+
+ Kịch bản ngược lại có thể trông như thế nào? Chúng ta hãy làm một chút lịch sử đối nghịch: Nếu mọi thứ đã khác và Đức quốc xã chiến thắng Thế chiến II, có được quyền lực lớn hơn từ đó và thành lập một chính phủ thế giới.
+
+
+ And so the first generation of immortal beings could well be the last.
+
+ Và sau đó họ giống như, truyền bá mọi người vào hệ tư tưởng của Đức Quốc xã.
+
+
+ That would be a paradigm example of scary lock-in that would lose most value in the future and that I think we want to avoid.
+
+ Có lòng trung thành rất mạnh mẽ với đường lối của đảng.
+
+
+The goal of locking in positive societal values could be used to justify extreme ends, though.
+
+ Và sau đó, theo thời gian, cho dù thông qua việc kéo dài cuộc sống hay trí tuệ nhân tạo, nếu những sinh vật chi phối xã hội không phải là sinh học mà thay vào đó là kỹ thuật số, về nguyên tắc chúng là bất tử.
+
+
+ What if—after a period of long reflection—a group of long-termists decide that they’ve converged on the best possible social values, but they’ve failed to convince the rest of the world to agree with them.
+
+ Và vì vậy, thế hệ đầu tiên của những sinh vật bất tử cũng có thể là thế hệ cuối cùng.
+
+
+ So they kill everyone else on Earth and export their morally superior society to the rest of the universe.
+
+ Đó sẽ là một ví dụ mô hình về việc khóa đáng sợ sẽ mất hầu hết giá trị trong tương lai và tôi nghĩ chúng ta muốn tránh.
+
+
+ Could we justify killing billions of present-day humans if it would guarantee a better life for tens of trillions of future people?There are two major things that I really want to strongly push against and caution against.
+
+ Tuy nhiên, mục tiêu khóa các giá trị xã hội tích cực có thể được sử dụng để biện minh cho những kết thúc cực đoan.
+
+
+ One is that there are ways in which ideologies can be used for bad ends.
+
+ Điều gì sẽ xảy ra nếu - sau một thời gian dài suy ngẫm - một nhóm những người theo chủ nghĩa dài hạn quyết định rằng họ đã hội tụ về những giá trị xã hội tốt nhất có thể, nhưng họ đã thất bại trong việc thuyết phục phần còn lại của thế giới đồng ý với họ.
+
+
+ There are strong moral reasons against engaging in violence for the greater good.
+
+ Vì vậy, họ giết tất cả những người khác trên Trái đất và xuất khẩu xã hội vượt trội về mặt đạo đức của họ sang phần còn lại của vũ trụ.
+
+
+ Never do that.
+
+ Liệu chúng ta có thể biện minh cho việc giết chết hàng tỷ người ngày nay nếu nó sẽ đảm bảo một cuộc sống tốt hơn cho hàng chục nghìn tỷ người trong tương lai? Có hai điều chính mà tôi thực sự muốn thúc đẩy mạnh mẽ và thận trọng chống lại.
+
+
+ And that’s true even if you calculate that more good will be done by engaging in this violent act or harmful act.
+
+ Một là có những cách mà ý thức hệ có thể được sử dụng cho mục đích xấu.
+
+
+And then the second thing is the kind of worry where people think: “Oh, well, yeah, we figured that out.
+
+ Có những lý do đạo đức mạnh mẽ chống lại việc tham gia vào bạo lực vì lợi ích lớn hơn.
+
+
+ And we have the best values.
+
+ Đừng bao giờ làm điều đó.
+
+
+” This has a terrible track record.
+
+ Và điều đó đúng ngay cả khi bạn tính toán rằng nhiều điều tốt đẹp hơn sẽ được thực hiện bằng cách tham gia vào hành động bạo lực hoặc hành động có hại này.
+
+
+ In fact my belief is that the ideal future people, who’ve really had time to figure it all out, might have moral views that are as alien to us as quantum mechanics is to Aristotle.
+
+ Và sau đó, điều thứ hai là loại lo lắng mà mọi người nghĩ: "Ồ, vâng, vâng, chúng tôi đã tìm ra điều đó.
+
+
+ It would be enormously surprising if Western liberal values that happen to be my favorite at the moment are the pinnacle of moral thought.
+
+ Và chúng tôi có những giá trị tốt nhất".
+
+
+ Instead, perhaps we’re not so different morally from the Romans, who were slave-owning and patriarchal and took joy in torture.
+
+ Điều này có một hồ sơ theo dõi khủng khiếp.
+
+
+ I think we’re better than that, but maybe we’re not that much better, compared to how good future morality could be.
+
+ Trên thực tế, tôi tin rằng những người tương lai lý tưởng, những người thực sự đã có thời gian để tìm ra tất cả, có thể có những quan điểm đạo đức xa lạ với chúng ta như cơ học lượng tử đối với Aristotle.
+
+
+One of the major existential risks that long-termists focus on is unaligned AI: The idea that an artificial general intelligence could end up either destroying humanity or at least taking control from them in the future in order to achieve some objective.
+
+ Sẽ vô cùng ngạc nhiên nếu các giá trị tự do phương Tây tình cờ là yêu thích của tôi vào lúc này là đỉnh cao của tư tưởng đạo đức.
+
+
+ Australian philosopher Toby Ord puts the risk of an existential catastrophe from unaligned AI at 1 in 10 over the next century.
+
+ Thay vào đó, có lẽ chúng ta không quá khác biệt về mặt đạo đức so với người La Mã, những người sở hữu nô lệ và gia trưởng và vui mừng trong việc tra tấn.
+
+
+ If the risks are that high, shouldn’t we consider putting a pause on AGI research until we know how to handle the risks?It’s certainly worth considering.
+
+ Tôi nghĩ chúng ta tốt hơn thế, nhưng có lẽ chúng ta không tốt hơn nhiều, so với đạo đức tương lai có thể tốt như thế nào.
+
+
+ I think there’s a couple of things to say.
+
+ Một trong những rủi ro hiện sinh chính mà những người theo chủ nghĩa lâu dài tập trung vào là AI không liên kết: Ý tưởng rằng một trí tuệ tổng quát nhân tạo có thể sẽ hủy diệt loài người hoặc ít nhất là giành quyền kiểm soát từ họ trong tương lai để đạt được một số mục tiêu.
+
+
+ One is that AI is not a monolith, and so when you see other technologies that have developed, you can slow down or even prohibit certain forms of technology, which are more risky, and allow the development of others.
+
+ Nhà triết học người Úc Toby Ord đặt nguy cơ xảy ra thảm họa hiện sinh từ AI không liên kết ở mức 1/10 trong thế kỷ tới.
+
+
+ For example, AI systems that engage in long-term planning, those are particularly scary.
+
+ Nếu rủi ro cao như vậy, chúng ta có nên cân nhắc tạm dừng nghiên cứu AGI cho đến khi chúng ta biết cách xử lý rủi ro không? Nó chắc chắn đáng để xem xét.
+
+
+ Or AI systems that are designing other AI systems, maybe those are particularly scary.
+
+ Tôi nghĩ có một vài điều để nói.
+
+
+Or we might want to have strong regulation around which AI systems are deployed, such that you can only use it if you really understand what’s going on under the hood.
+
+ Một là AI không phải là một khối nguyên khối, và vì vậy khi bạn nhìn thấy các công nghệ khác đã phát triển, bạn có thể làm chậm hoặc thậm chí cấm một số hình thức công nghệ nhất định, có nhiều rủi ro hơn và cho phép phát triển các hình thức khác.
+
+
+ Or such that it’s passed a large number of checks to be sufficiently honest, harmless, and helpful.
+
+ Ví dụ, các hệ thống AI tham gia vào việc lập kế hoạch dài hạn, những hệ thống đó đặc biệt đáng sợ.
+
+
+ So rather than saying, “[We should] speed up or slow down AI progress,” we can look more narrowly than that and say, “OK, what are the things that may be most worrying? Do you know?” And then the second thing is that, as with all of these things, you’ve got to worry that if one person or one group just unilaterally says, “OK, I’m gonna not develop this,” well, maybe then it’s the less morally motivated actors that promote it instead.
+
+ Hoặc các hệ thống AI đang thiết kế các hệ thống AI khác, có thể những hệ thống đó đặc biệt đáng sợ.
+
+
+You write a whole chapter about the risks of stagnation: A slowdown in economic and technological progress.
+
+ Hoặc chúng tôi có thể muốn có quy định mạnh mẽ xung quanh việc hệ thống AI nào được triển khai, sao cho bạn chỉ có thể sử dụng nó nếu bạn thực sự hiểu những gì đang xảy ra.
+
+
+ This doesn’t seem to pose an existential risk in itself.
+
+ Hoặc như vậy mà nó đã vượt qua một số lượng lớn các kiểm tra để đủ trung thực, vô hại và hữu ích.
+
+
+ What would be so bad about progress just staying close to present levels for centuries to come?I included it for a couple of reasons.
+
+ Vì vậy, thay vì nói, "[Chúng ta nên] tăng tốc hoặc làm chậm tiến trình của AI", chúng ta có thể nhìn hẹp hơn thế và nói, "Ok, những điều có thể đáng lo ngại nhất là gì? Bạn có biết không?" Và sau đó, điều thứ hai là, như với tất cả những điều này, bạn phải lo lắng rằng nếu một người hoặc một nhóm chỉ đơn phương nói, "OK, tôi sẽ không phát triển điều này", thì có lẽ sau đó, đó là những diễn viên ít có động lực đạo đức hơn sẽ quảng bá nó thay thế.
+
+
+ One is that stagnation has gotten very little attention in the long-termist world so far.
+
+ Bạn viết cả một chương về những rủi ro của sự trì trệ: Sự chậm lại trong tiến bộ kinh tế và công nghệ.
+
+
+ But I also think it’s potentially very significant from a long-term perspective.
+
+ Bản thân điều này dường như không gây ra rủi ro hiện sinh.
+
+
+ One reason is that we could just get stuck in a time of perils.
+
+ Điều gì sẽ rất tồi tệ về sự tiến bộ chỉ ở gần mức hiện tại trong nhiều thế kỷ tới? Tôi bao gồm nó vì một vài lý do.
+
+
+ If we exist at a 1920s level of technology indefinitely, then that would not be sustainable.
+
+ Một là sự trì trệ đã nhận được rất ít sự chú ý trong thế giới dài hạn cho đến nay.
+
+
+ We burn through all the fossil fuels, we would get a climate catastrophe.
+
+ Nhưng tôi cũng nghĩ rằng nó có khả năng rất có ý nghĩa từ góc độ dài hạn.
+
+
+ If we continue at current levels of technology, then all-out nuclear war is only a matter of time.
+
+ Một lý do là chúng ta có thể bị mắc kẹt trong thời kỳ nguy hiểm.
+
+
+ Even if the risk is very low, just a small annual risk over time is going to increase that.
+
+ Nếu chúng ta tồn tại ở cấp độ công nghệ những năm 1920 vô thời hạn, thì điều đó sẽ không bền vững.
+
+
+Even more worryingly with engineered bioweapons, that’s just only a matter of time too.
+
+ Chúng tôi đốt cháy tất cả các nhiên liệu hóa thạch, chúng tôi sẽ nhận được một thảm họa khí hậu.
+
+
+ Simply stopping tech focus altogether, I think it’s not an option—actually, that will consign us to doom.
+
+ Nếu chúng ta tiếp tục ở cấp độ công nghệ hiện tại, thì chiến tranh hạt nhân toàn diện chỉ là vấn đề thời gian.
+
+
+ It’s not clear exactly how fast we should be going, but it does mean that we need to get ourselves out of the current level of technological development and into the next one, in order to get ourselves to a point of what Toby Ord calls “existential security,” where we’ve got the technology and the wisdom to reduce these risks.
+
+ Ngay cả khi rủi ro là rất thấp, chỉ cần một rủi ro nhỏ hàng năm theo thời gian sẽ làm tăng điều đó.
+
+
+Even if we get on top of our present existential risks, won’t there be new risks that we don’t yet know about, lurking in our future? Can we ever get past our current moment of existential risk?It could well be that as technology develops, maybe there are these little islands of safety.
+
+ Đáng lo ngại hơn nữa với vũ khí sinh học được chế tạo, đó cũng chỉ là vấn đề thời gian.
+
+
+ One point is if we’ve just discovered basically everything.
+
+ Chỉ đơn giản là ngừng tập trung hoàn toàn vào công nghệ, tôi nghĩ đó không phải là một lựa chọn — thực sự, điều đó sẽ khiến chúng ta phải chịu số phận diệt vong.
+
+
+ In that case there are no new technologies that surprise us and kill us all.
+
+ Không rõ chính xác chúng ta nên đi nhanh như thế nào, nhưng điều đó có nghĩa là chúng ta cần phải thoát khỏi trình độ phát triển công nghệ hiện tại và bước vào giai đoạn tiếp theo, để đưa bản thân đến mức mà Toby Ord gọi là "bảo mật hiện sinh", nơi chúng ta có công nghệ và trí tuệ để giảm thiểu những rủi ro này.
+
+
+ Or imagine if we had a defense against bioweapons, or technology that could prevent any nuclear war.
+
+ Ngay cả khi chúng ta vượt qua những rủi ro hiện sinh hiện tại của mình, sẽ không có những rủi ro mới mà chúng ta chưa biết, ẩn nấp trong tương lai của chúng ta? Liệu chúng ta có thể vượt qua thời điểm rủi ro hiện sinh hiện tại của mình không? Cũng có thể là khi công nghệ phát triển, có lẽ có những hòn đảo nhỏ an toàn này.
+
+
+ Then maybe we could just hang out at that point of time with that technological level, so we can really think about what’s going to happen next.
+
+ Một điểm là nếu chúng ta vừa khám phá ra mọi thứ về cơ bản.
+
+
+ That could be possible.
+
+ Trong trường hợp đó, không có công nghệ mới nào làm chúng ta ngạc nhiên và giết chết tất cả chúng ta.
+
+
+ And so the way that you would have safety is by just looking at it and identifying what risks we face, how low we’ve managed to get the risks, or if we’re now at the point at which we’ve just figured out everything there is to figure out.
+
+ Hoặc hãy tưởng tượng nếu chúng ta có một hệ thống phòng thủ chống lại vũ khí sinh học, hoặc công nghệ có thể ngăn chặn bất kỳ cuộc chiến tranh hạt nhân nào.
+
+
+.
+
+ Sau đó, có lẽ chúng ta chỉ có thể đi chơi vào thời điểm đó với trình độ công nghệ đó, vì vậy chúng ta thực sự có thể nghĩ về những gì sẽ xảy ra tiếp theo

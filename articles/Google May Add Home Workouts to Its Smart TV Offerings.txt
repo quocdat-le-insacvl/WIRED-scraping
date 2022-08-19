@@ -1,0 +1,110 @@
+# Google May Add Home Workouts to Its Smart TV Offerings
+
+
+
+Just like those fitness-obsessed television hosts Hans and Franz, Google wants to pump you up.Cũng giống như những người dẫn chương trình truyền hình bị ám ảnh bởi thể dục Hans và Franz, Google muốn bơm bạn lên.
+
+
+The company is hatching plans to add fitness-tracking tech and support for interactive home workouts to its Android TV platform, and to incorporate those software features into smart TVs running other companies’ software as well. Công ty đang ấp ủ kế hoạch bổ sung công nghệ theo dõi thể dục và hỗ trợ tập luyện tại nhà tương tác vào nền tảng Android TV của mình và kết hợp các tính năng phần mềm đó vào TV thông minh chạy phần mềm của các công ty khác.
+
+
+ If the vision comes to fruition, supported smart TVs would sync with Fitbit trackers and smartwatches running Google’s Wear OS—such as the Samsung Galaxy Watch or Google Pixel Watch—which could be used to monitor a user’s progress through a series of living room workouts. Nếu tầm nhìn thành hiện thực, TV thông minh được hỗ trợ sẽ đồng bộ hóa với thiết bị theo dõi Fitbit và đồng hồ thông minh chạy Wear OS của Google — chẳng hạn như Samsung Galaxy Watch hoặc Google Pixel Watch — có thể được sử dụng để theo dõi tiến trình của người dùng thông qua một loạt các bài tập trong phòng khách.
+
+
+ It’ll be like watching a Richard Simmons or Billy Blanks video that can also track your reps and measure your heart rate. Nó sẽ giống như xem một video của Richard Simmons hoặc Billy Blanks cũng có thể theo dõi các đại diện của bạn và đo nhịp tim của bạn.
+
+
+The specifics of how it will work aren’t clear, as the news—first reported by Protocol—came from a private meeting Google held with other smart-home companies. Các chi tiết cụ thể về cách nó sẽ hoạt động không rõ ràng, vì tin tức — lần đầu tiên được báo cáo bởi Protocol — đến từ một cuộc họp riêng tư mà Google tổ chức với các công ty nhà thông minh khác.
+
+
+ Still, it’s obvious that Google’s moving to compete with smart-home fitness services like Apple Fitness+, which utilizes an Apple Watch and an Apple TV, as well as devices like Mirror and Peloton’s Guide. Tuy nhiên, rõ ràng là Google đang chuyển sang cạnh tranh với các dịch vụ thể dục tại nhà thông minh như Apple Fitness +, sử dụng Apple Watch và Apple TV, cũng như các thiết bị như Mirror và Peloton's Guide.
+
+
+According to Protocol, this initiative could also include expanded ability to connect Nest speakers or other wireless speakers with your Google-powered TV.Theo Protocol, sáng kiến này cũng có thể bao gồm khả năng mở rộng để kết nối loa Nest hoặc các loa không dây khác với TV hỗ trợ Google của bạn.
+
+
+ The report also says these changes will most likely arrive in 2023. Báo cáo cũng cho biết những thay đổi này rất có thể sẽ đến vào năm 2023.
+
+
+Google is a couple years behind the big shift to working out from home that came at the beginning of the pandemic.Google chậm hơn một vài năm so với sự thay đổi lớn sang tập luyện tại nhà vào đầu đại dịch.
+
+
+ But this offering could also be seen as part of Google’s effort to smush all its products together. Nhưng việc cung cấp này cũng có thể được coi là một phần trong nỗ lực của Google nhằm kết hợp tất cả các sản phẩm của mình lại với nhau.
+
+
+ Fusing smart-home tech with Android, Wear OS, and Android TV means your Google stuff gets used more often and in more combinations. Kết hợp công nghệ nhà thông minh với Android, Wear OS và Android TV có nghĩa là nội dung trên Google của bạn được sử dụng thường xuyên hơn và kết hợp nhiều hơn.
+
+
+Here’s what else you need to know about the week in consumer tech. Dưới đây là những điều khác bạn cần biết về tuần trong công nghệ tiêu dùng.
+
+
+In more Google news, the company put out a confrontational PSA earlier this week calling on Apple to change the fundamental standards it uses for its text messages. Trong nhiều tin tức của Google, công ty đã đưa ra một PSA đối đầu vào đầu tuần này kêu gọi Apple thay đổi các tiêu chuẩn cơ bản mà họ sử dụng cho các tin nhắn văn bản của mình.
+
+
+ Apple converts messages to non-Apple devices into standard SMS messages, as opposed to using the more richly featured RCS standard Google started pushing heavily last year. Apple chuyển đổi tin nhắn sang các thiết bị không phải của Apple thành tin nhắn SMS tiêu chuẩn, trái ngược với việc sử dụng tiêu chuẩn RCS phong phú hơn mà Google bắt đầu thúc đẩy mạnh mẽ vào năm ngoái.
+
+
+ Because of that, some crucial metadata can get lost in translation between the platforms. Do đó, một số siêu dữ liệu quan trọng có thể bị mất trong quá trình dịch giữa các nền tảng.
+
+
+Google framed Apple’s decision to not support RCS as a power move, blaming Apple for not adhering to more modern standards. Google đã đóng khung quyết định của Apple về việc không hỗ trợ RCS như một động thái quyền lực, đổ lỗi cho Apple vì đã không tuân thủ các tiêu chuẩn hiện đại hơn.
+
+
+ In reality, it’s likely an attempt to level the playing field between Apple and Google when it comes to inter-device messaging, where the former enjoys significant competitive advantages over the latter; iPhone-to-iPhone messaging comes with a dizzying number of add-ons and special features that Apple devotees are loath to give up. Trên thực tế, đó có thể là một nỗ lực để san bằng sân chơi giữa Apple và Google khi nói đến nhắn tin liên thiết bị, nơi cái trước có lợi thế cạnh tranh đáng kể so với cái sau; Nhắn tin iPhone-to-iPhone đi kèm với một số lượng chóng mặt các tiện ích bổ sung và các tính năng đặc biệt mà các tín đồ của Apple không muốn từ bỏ.
+
+
+ It’s also ironic to hear such a plea coming from Google, a company that has introduced a dozen different messaging apps over the years and can’t even keep the name of its messaging products right. Cũng thật mỉa mai khi nghe một lời cầu xin như vậy đến từ Google, một công ty đã giới thiệu hàng tá ứng dụng nhắn tin khác nhau trong những năm qua và thậm chí không thể giữ đúng tên các sản phẩm nhắn tin của mình.
+
+
+ Undeterred, Google took its campaign to social media, trying to get other people to jump on board. Không nản lòng, Google đã đưa chiến dịch của mình lên mạng xã hội, cố gắng khiến người khác nhảy vào cuộc.
+
+
+ Now Google’s just waiting to get a response that Apple “loved this message. Bây giờ Google chỉ chờ đợi để nhận được phản hồi rằng Apple "yêu thích thông điệp này".
+
+
+”Ring camera videos are controversial. Video camera đổ chuông đang gây tranh cãi.
+
+
+ The Amazon-owned company collects data about both its users and people caught on camera, then can share those videos with law enforcement without user consent. Công ty thuộc sở hữu của Amazon thu thập dữ liệu về cả người dùng và người được camera ghi lại, sau đó có thể chia sẻ những video đó với cơ quan thực thi pháp luật mà không cần sự đồng ý của người dùng.
+
+
+ Still, the videos themselves have captured people’s attention. Tuy nhiên, bản thân các video đã thu hút sự chú ý của mọi người.
+
+
+ There’s a whole genre of viral videos (yes, on TikTok) that revels in the wacky antics of people and pets caught on Ring cameras. Có cả một thể loại video lan truyền (vâng, trên TikTok) say sưa với những trò hề kỳ quặc của người và thú cưng được ghi lại trên máy quay Ring.
+
+
+ Now, Amazon is looking to turn those clips into a whole show. Giờ đây, Amazon đang tìm cách biến những clip đó thành một chương trình tổng thể.
+
+
+Called Ring Nation, the show will be hosted by comedian Wanda Sykes. Được gọi là Ring Nation, chương trình sẽ được tổ chức bởi diễn viên hài Wanda Sykes.
+
+
+ The content will be pretty much what you’d expect: a collection of funny and/or horrifying videos of the kind of mayhem that happens on people’s porches and in their yards. Nội dung sẽ khá nhiều những gì bạn mong đợi: một bộ sưu tập các video hài hước và / hoặc kinh hoàng về loại tình trạng lộn xộn xảy ra trên hiên nhà của mọi người và trong sân của họ.
+
+
+ The show is produced by Big Fish Entertainment, the same production company that created Live PD, a police documentary show that was canceled in the wake of George Floyd’s murder in 2020. Chương trình được sản xuất bởi Big Fish Entertainment, cùng một công ty sản xuất đã tạo ra Live PD, một chương trình tài liệu của cảnh sát đã bị hủy bỏ sau vụ giết người của George Floyd vào năm 2020.
+
+
+ Ring Nation comes out September 26. Ring Nation ra mắt vào ngày 26 tháng XNUMX.
+
+
+It’s probably unrelated that Amazon is also planning to start offering mental health services.Có lẽ không liên quan đến việc Amazon cũng đang có kế hoạch bắt đầu cung cấp các dịch vụ sức khỏe tâm thần.
+
+
+You’d be forgiven if you weren’t wowed by the new devices Samsung announced at its Galaxy Unpacked event this week. Bạn sẽ được tha thứ nếu bạn không bị ấn tượng bởi các thiết bị mới mà Samsung đã công bố tại sự kiện Galaxy Unpacked của mình trong tuần này.
+
+
+ The new foldable phones, watches, and earbuds saw improvements to battery life and some slight design tweaks—altogether a modest showing from one of the world’s biggest phone manufacturers. Điện thoại, đồng hồ và tai nghe nhét tai có thể gập lại mới đã chứng kiến những cải tiến về thời lượng pin và một số chỉnh sửa thiết kế nhỏ — hoàn toàn là một màn trình diễn khiêm tốn từ một trong những nhà sản xuất điện thoại lớn nhất thế giới.
+
+
+ Still, Samsung’s design decisions can give clues to what’s on the horizon for phones and the software that runs on them. Tuy nhiên, các quyết định thiết kế của Samsung có thể cung cấp manh mối về những gì sắp xảy ra cho điện thoại và phần mềm chạy trên chúng.
+
+
+This week's episode of WIRED's Gadget Lab podcast is all about Samsung, the future of Android, and which other companies may be planning to sell foldables in the near future. Tập podcast Gadget Lab của WIRED tuần này là tất cả về Samsung, tương lai của Android và các công ty khác có thể đang có kế hoạch bán thiết bị có thể gập lại trong tương lai gần.
+
+
+ Have a listen!This content can also be viewed on the site it originates from. Hãy lắng nghe! Nội dung này cũng có thể được xem trên trang web mà nó bắt nguồn từ đó.
+
+
+.

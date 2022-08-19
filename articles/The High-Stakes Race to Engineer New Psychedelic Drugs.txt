@@ -1,0 +1,1137 @@
+# The High-Stakes Race to Engineer New Psychedelic Drugs
+
+
+
+This is what happens when a mouse trips out: It becomes more curious about other mice and more likely to socialize with them for long periods of time.
+
+Đây là những gì xảy ra khi một con chuột đi ra ngoài: Nó trở nên tò mò hơn về những con chuột khác và có nhiều khả năng giao tiếp với chúng trong thời gian dài.
+
+
+ It becomes less likely to glug massive amounts of alcohol.
+
+ Nó trở nên ít có khả năng dán một lượng lớn rượu.
+
+
+ It wriggles, quavering, like a wet dog shaking off rain.
+
+ Nó quằn quại, quằn quại, giống như một ướt sũng rũ bỏ mưa.
+
+
+ And its head twitches, rapidly, side to side.
+
+ Và đầu của nó co giật, nhanh chóng, sang hai bên.
+
+
+ Because a mouse on LSD cannot tell you that colors seem brighter or the walls are melting or a guitar solo somehow sounds purple, these head twitches are of tremendous importance to chemist Jason Wallach.
+
+ Bởi vì một con chuột trên LSD không thể cho bạn biết rằng màu sắc có vẻ sáng hơn hoặc các bức tường đang tan chảy hoặc một bản độc tấu guitar bằng cách nào đó nghe có vẻ màu tím, những co giật đầu này có tầm quan trọng to lớn đối với nhà hóa học Jason Wallach.
+
+
+ “If you want to know if a compound is likely to cause a psychedelic effect in humans,” says Wallach, speaking from his tiny office in the Discovery Center at Saint Joseph’s University in Philadelphia, “you look to the mice, to that twitching.
+
+ "Nếu bạn muốn biết liệu một hợp chất có khả năng gây ra hiệu ứng ảo giác ở người hay không," Wallach nói, nói từ văn phòng nhỏ bé của mình trong Trung tâm Khám phá tại Đại học Saint Joseph ở Philadelphia, "bạn nhìn vào những con chuột, đến sự co giật đó.
+
+
+” These twitch tests—and countless others—are part of Wallach’s mind-bending new mandate, sparked by a late-2019 meeting with the heads of a company called Compass Pathways.
+
+" Những bài kiểm tra co giật này — và vô số bài kiểm tra khác — là một phần trong nhiệm vụ mới uốn cong tâm trí của Wallach, được châm ngòi bởi một cuộc họp cuối năm 2019 với những người đứng đầu một công ty có tên là Compass Pathways.
+
+
+ The UK-based biotech firm was eyeing the possibilities of developing psychedelic drugs for use in mental health therapies.
+
+ Công ty công nghệ sinh học có trụ sở tại Vương quốc Anh đã để mắt đến khả năng phát triển các loại thuốc ảo giác để sử dụng trong các liệu pháp sức khỏe tâm thần.
+
+
+ Its core product was psilocybin, the psychoactive compound in magic mushrooms.
+
+ Sản phẩm cốt lõi của nó là psilocybin, hợp chất thần kinh trong nấm ma thuật.
+
+
+ But it needed new chemicals, engineered to deliver consistent, optimized, and potentially radical results.
+
+ Nhưng nó cần các hóa chất mới, được thiết kế để mang lại kết quả nhất quán, tối ưu hóa và có khả năng triệt để.
+
+
+ And that meant new chemists.
+
+ Và điều đó có nghĩa là các nhà hóa học mới.
+
+
+ By August 2020, Compass had inked a two-year, $500,000 “sponsored research agreement” with Wallach and the university.
+
+ Đến tháng 2020 năm 500,000, Compass đã ký một "thỏa thuận nghiên cứu được tài trợ" kéo dài hai năm, trị giá XNUMX đô la với Wallach và trường đại học.
+
+
+ The Discovery Center was born.
+
+ Trung tâm Khám phá ra đời.
+
+
+A few years in, with continued support from the company, Wallach has cooked up scores of novel psychedelics, mailed them off to partner labs for testing on those mice, and then waited—and hoped—for the telltale twitch results.
+
+ Một vài năm sau, với sự hỗ trợ liên tục từ công ty, Wallach đã tạo ra rất nhiều ảo giác mới lạ, gửi chúng đến các phòng thí nghiệm đối tác để thử nghiệm trên những con chuột đó, và sau đó chờ đợi — và hy vọng — cho kết quả co giật kể chuyện.
+
+
+ The chemist, 36 and pale, face framed by a rough red beard and rectangular glasses, can hem and haw a bit when it comes to specifics: “Compass doesn’t want me to give out numbers.
+
+ Nhà hóa học, 36 tuổi và nhợt nhạt, khuôn mặt được đóng khung bởi bộ râu đỏ thô ráp và kính hình chữ nhật, có thể viền và haw một chút khi nói đến chi tiết cụ thể: "La bàn không muốn tôi đưa ra những con số.
+
+
+ I’ll say we’ve made a lot.
+
+ Tôi sẽ nói rằng chúng tôi đã kiếm được rất nhiều.
+
+
+” It’s in the neighborhood of 150 new drugs, all of which can potentially be patented and sold by Compass.
+
+ Đó là trong khu phố của 150 loại thuốc mới, tất cả đều có khả năng được cấp bằng sáng chế và bán bởi Compass.
+
+
+We are, as you have probably read, in the throes of a “psychedelic renaissance.
+
+Chúng tôi, như bạn có thể đã đọc, trong cơn đau của một "thời kỳ phục hưng ảo giác".
+
+
+” Compelling clinical work conducted at New York University, Imperial College, Johns Hopkins, and elsewhere showed that long-outlawed drugs such as N,N-dimethyltryptamine (DMT), LSD, and psilocybin have terrific potential for treating everything from addiction to Alzheimer’s to end-of-life anxiety.
+
+ Công việc lâm sàng hấp dẫn được thực hiện tại Đại học New York, Đại học Hoàng gia, Johns Hopkins và các nơi khác cho thấy rằng các loại thuốc bị cấm từ lâu như N, N-dimethyltryptamine (DMT), LSD và psilocybin có tiềm năng tuyệt vời để điều trị mọi thứ, từ nghiện đến Alzheimer đến lo lắng cuối đời.
+
+
+ Pharmaceutical companies have taken note.
+
+ Các công ty dược phẩm đã lưu ý.
+
+
+ In 2020 the fledgling psychedelic industry was predicted to balloon to $6.
+
+ Vào năm 2020, ngành công nghiệp ảo giác non trẻ được dự đoán sẽ tăng lên 6.
+
+
+9 billion by 2027—a year later, that estimate increased to over $10 billion.
+
+9 tỷ đô la vào năm 2027 — một năm sau, ước tính đó đã tăng lên hơn 10 tỷ đô la.
+
+
+ In September 2020, Compass became the first company of its kind to trade on a major stock exchange, debuting on the Nasdaq at an estimated value of more than $1 billion.
+
+ Vào tháng 2020 năm 1, Compass trở thành công ty đầu tiên thuộc loại này giao dịch trên một sàn giao dịch chứng khoán lớn, ra mắt trên Nasdaq với giá trị ước tính hơn XNUMX tỷ USD.
+
+
+So far, none of these companies has brought a psychedelic drug to market, but the thinking is that, through what the clinical literature calls a—“mystical-type experience”—a psychedelic trip that produces feelings of joy, peace, interconnectedness, and transcendence—patients can confront the root causes of various mental maladies.
+
+ Cho đến nay, không có công ty nào trong số này đưa một loại thuốc ảo giác ra thị trường, nhưng suy nghĩ là, thông qua cái mà các tài liệu lâm sàng gọi là — "trải nghiệm kiểu thần bí" — một chuyến đi ảo giác tạo ra cảm giác vui vẻ, hòa bình, kết nối với nhau và siêu việt — bệnh nhân có thể đối mặt với nguyên nhân gốc rễ của các bệnh tâm thần khác nhau.
+
+
+ “I don’t want to use the word cure, but psychedelics can offer long-term healing,” says Florian Brand, the cofounder and CEO of a Berlin-based biotech incubator called Atai Life Sciences, which invested in Compass Pathways.
+
+ "Tôi không muốn sử dụng từ chữa bệnh, nhưng ảo giác có thể mang lại sự chữa lành lâu dài," Florian Brand, đồng sáng lập và Giám đốc điều hành của một vườn ươm công nghệ sinh học có trụ sở tại Berlin có tên Atai Life Sciences, công ty đã đầu tư vào Compass Pathways, cho biết.
+
+
+ “We have put a lot of money into actually exploring this hypothesis.
+
+ "Chúng tôi đã bỏ rất nhiều tiền vào việc thực sự khám phá giả thuyết này.
+
+
+”At the Discovery Center, Wallach leads a team of about 15 students, researchers, and technicians.
+
+" Tại Trung tâm Khám phá, Wallach dẫn đầu một nhóm gồm khoảng 15 sinh viên, nhà nghiên cứu và kỹ thuật viên.
+
+
+ “One thing we do,” he says, “is create new compounds that differ just a bit from classical psychedelics, like psilocybin or LSD.
+
+ "Một điều chúng tôi làm," ông nói, "là tạo ra các hợp chất mới chỉ khác một chút so với ảo giác cổ điển, như psilocybin hoặc LSD.
+
+
+” Slight tweaks in the molecular structure can drastically alter the intensity and character of the psychedelic journey.
+
+" Các tinh chỉnh nhỏ trong cấu trúc phân tử có thể làm thay đổi đáng kể cường độ và đặc điểm của hành trình ảo giác.
+
+
+ This ability to fine-tune the contours of a trip—to engineer new modes of experience—is Wallach’s passion.
+
+ Khả năng tinh chỉnh các đường nét của một chuyến đi — để thiết kế các phương thức trải nghiệm mới — là niềm đam mê của Wallach.
+
+
+Jason Wallach is charged with creating new psychedelics, engineered to deliver consistent, optimized, and potentially radical results.
+
+ Jason Wallach chịu trách nhiệm tạo ra ảo giác mới, được thiết kế để mang lại kết quả nhất quán, tối ưu hóa và có khả năng triệt để.
+
+
+For years, his lab work seemed utterly niche, bordering on verboten.
+
+ Trong nhiều năm, công việc trong phòng thí nghiệm của ông dường như hoàn toàn thích hợp, giáp với verboten.
+
+
+ Mentors discouraged him.
+
+ Những người cố vấn đã làm anh nản lòng.
+
+
+ There was no money in psychedelics, they said.
+
+ Họ nói rằng không có tiền trong ảo giác.
+
+
+ There were reputational risks.
+
+ Có những rủi ro về danh tiếng.
+
+
+ After all, many of these drugs have been ruled by the US Drug Enforcement Administration as possessing “no currently accepted medical use.
+
+ Rốt cuộc, nhiều loại thuốc trong số này đã bị Cơ quan Quản lý Thực thi Dược phẩm Hoa Kỳ phán quyết là sở hữu "hiện không được sử dụng trong y tế".
+
+
+” Since the US government declared most psychedelics illegal in 1970, such research had typically been the domain of so-called clandestine chemists, who worked in backyard sheds and underground bunkers, mass-producing trippy new compounds while evading law enforcement.
+
+ Kể từ khi chính phủ Hoa Kỳ tuyên bố hầu hết các ảo giác là bất hợp pháp vào năm 1970, nghiên cứu như vậy thường là lĩnh vực của cái gọi là nhà hóa học bí mật, những người làm việc trong các nhà kho ở sân sau và boongke dưới lòng đất, sản xuất hàng loạt các hợp chất mới trippy trong khi trốn tránh thực thi pháp luật.
+
+
+ Wallach wasn’t discouraged.
+
+ Wallach không nản lòng.
+
+
+ The work felt about as close as one could get, professionally, to pure chemistry, he says—research animated almost entirely by personal curiosity: “What happens if you put a bromine here? What if you move it over there?”New investment is shaking up those ideals, as firms like Compass rush to capitalize on the results of that curiosity.
+
+ Ông nói, công việc cảm thấy gần gũi nhất có thể, về mặt chuyên môn, với hóa học thuần túy - nghiên cứu hoạt hình gần như hoàn toàn bằng sự tò mò cá nhân: "Điều gì sẽ xảy ra nếu bạn đặt một brom ở đây? Nếu bạn chuyển nó sang đó thì sao?" Đầu tư mới đang làm rung chuyển những lý tưởng đó, khi các công ty như Compass vội vàng tận dụng kết quả của sự tò mò đó.
+
+
+ A few years ago, Wallach was conducting experiments and coauthoring articles for relatively esoteric journals of neuropharmacology.
+
+ Một vài năm trước, Wallach đã tiến hành các thí nghiệm và đồng tác giả các bài báo cho các tạp chí tương đối bí truyền về dược phẩm thần kinh.
+
+
+ Now his once quiet lab, with its beakers and burners and reports on twitchy mice, is helping usher in a new era of Big Neuropharma—and not everyone in the world of psychedelia is thrilled about it.
+
+ Giờ đây, phòng thí nghiệm yên tĩnh một thời của anh ấy, với cốc và đầu đốt và các báo cáo về những con chuột co giật, đang giúp mở ra một kỷ nguyên mới của Big Neuropharma — và không phải tất cả mọi người trong thế giới psychedelia đều vui mừng về điều đó.
+
+
+ Compass has come to embody the potential (and looming threat) of “psychedelic capitalism.
+
+ La bàn đã trở thành hiện thân của mối đe dọa tiềm tàng (và lờ mờ) của "chủ nghĩa tư bản ảo giác".
+
+
+” And Wallach is one of its most prized assets.
+
+ Và Wallach là một trong những tài sản được đánh giá cao nhất của nó.
+
+
+ The young chemist is all in.
+
+ Nhà hóa học trẻ tuổi là tất cả trong.
+
+
+ But the financial stakes, and the ideological fault lines emerging as psychedelics go corporate, produce new stresses.
+
+ Nhưng cổ phần tài chính, và các đường đứt gãy ý thức hệ nổi lên như ảo giác đi vào công ty, tạo ra những căng thẳng mới.
+
+
+ “In the long run, this research is valuable,” he says, before giving his head a shake.
+
+ "Về lâu dài, nghiên cứu này rất có giá trị," ông nói, trước khi lắc đầu.
+
+
+ “But on a day-to-day basis? It does nothing but raise my blood pressure.
+
+ "Nhưng trên cơ sở hàng ngày? Nó không làm gì khác ngoài việc tăng huyết áp của tôi ".
+
+
+”Wallach’s lifelong, incurable obsession with psychoactives kicked in when he was a kid in the ’90s.
+
+ Nỗi ám ảnh suốt đời, không thể chữa được của Wallach về các chất tâm thần đã bắt đầu khi anh còn là một đứa trẻ vào những năm 90.
+
+
+ It was the Just Say No era, complete with egg-in-the-frying-pan, “This is your brain on drugs” public service announcements.
+
+ Đó là thời đại Just Say No, hoàn chỉnh với những thông báo dịch vụ công cộng "Đây là bộ não của bạn về ma túy".
+
+
+ The messages didn’t have the intended effect on Wallach.
+
+ Các tin nhắn không có hiệu ứng dự định đối với Wallach.
+
+
+ In fourth grade, when other kids were devouring Goosebumps and Judy Blume paperbacks, he discovered a book in the school library outlining the dangers of various drugs.
+
+ Năm lớp bốn, khi những đứa trẻ khác đang nuốt chửng Goosebumps và Judy Blume bìa mềm, anh đã phát hiện ra một cuốn sách trong thư viện trường phác thảo sự nguy hiểm của các loại thuốc khác nhau.
+
+
+ “Something drew me to it,” he recalls, “that a small amount of powder or material could cause a really strong change in someone’s experience.
+
+ "Một cái gì đó đã thu hút tôi đến với nó," anh nhớ lại, "rằng một lượng nhỏ bột hoặc vật liệu có thể gây ra sự thay đổi thực sự mạnh mẽ trong trải nghiệm của ai đó.
+
+
+”Years later, Wallach had his own psychedelic experiences, and although he demurs on the details, they proved life-altering.
+
+" Nhiều năm sau, Wallach đã có những trải nghiệm ảo giác của riêng mình, và mặc dù anh ta vượn cáo về các chi tiết, chúng đã chứng tỏ sự thay đổi cuộc sống.
+
+
+ “I pretty much dedicated every waking hour almost for the past 15 years to studying them,” he says.
+
+ "Tôi đã dành khá nhiều tâm huyết cho mỗi giờ thức dậy gần như trong 15 năm qua để nghiên cứu chúng," anh nói.
+
+
+ “They had a profound impact on how I wanted to spend my life.
+
+ "Chúng có tác động sâu sắc đến cách tôi muốn dành cả cuộc đời mình.
+
+
+”With few sanctioned pathways for making a living studying psychedelics, Wallach enrolled at Indiana University of Pennsylvania, where he studied psychology as a portal to the mysteries of the human psyche.
+
+" Với một vài con đường bị trừng phạt để kiếm sống bằng cách nghiên cứu ảo giác, Wallach đăng ký vào Đại học Indiana pennsylvania, nơi anh học tâm lý học như một cánh cổng dẫn đến những bí ẩn của tâm lý con người.
+
+
+ Wallach was especially curious about consciousness: Where do thoughts come from? What’s the difference between the brain and the mind? How do we perceive things such as taste and sound and color? How do we perceive … anything at all? Not long into his first year of undergrad, Wallach realized that psychology was “a little less empirical” than he had hoped.
+
+ Wallach đặc biệt tò mò về ý thức: Suy nghĩ đến từ đâu? Sự khác biệt giữa bộ não và tâm trí là gì? Làm thế nào để chúng ta cảm nhận những thứ như hương vị, âm thanh và màu sắc? Làm thế nào để chúng ta nhận thức .
+
+
+ He switched majors to study cellular and molecular biology.
+
+.
+
+
+Wallach’s once quiet lab is helping usher in a new era of Big Neuropharma.
+
+.
+
+
+Wallach began conducting research in synthetic organic chemistry—building compounds that occur in nature.
+
+ bất cứ điều gì ở tất cả? Không lâu sau năm đầu tiên tốt nghiệp đại học, Wallach nhận ra rằng tâm lý học "ít thực nghiệm hơn một chút" so với những gì anh hy vọng.
+
+
+ He examined cannabinoids, the psychoactive compounds in cannabis.
+
+ Ông chuyển chuyên ngành sang nghiên cứu sinh học tế bào và phân tử.
+
+
+ A voracious reader of textbooks, he noticed Amazon’s recommendation algorithm pushing two curious titles: PiHKAL and TiHKAL.
+
+ Phòng thí nghiệm yên tĩnh một thời của Wallach đang giúp mở ra một kỷ nguyên mới của Big Neuropharma.
+
+
+ These chunky reference books from the ’90s were written by Alexander “Sasha” Shulgin—a psychopharmacologist best known for synthesizing MDMA, also known as ecstasy—and his wife, Ann.
+
+Wallach bắt đầu tiến hành nghiên cứu về hóa học hữu cơ tổng hợp — xây dựng các hợp chất xảy ra trong tự nhiên.
+
+
+ They contain detailed accounts of various psychoactive compounds, based on firsthand trials conducted by the Shulgins and a close cadre of fellow travelers.
+
+ Ông đã kiểm tra cannabinoids, các hợp chất thần kinh trong cần sa.
+
+
+The books are, as a spokesperson for the DEA once put it, “pretty much cookbooks on how to make illegal drugs.
+
+ Là một người ham đọc sách giáo khoa, ông nhận thấy thuật toán đề xuất của Amazon đẩy hai tiêu đề gây tò mò: PiHKAL và TiHKAL.
+
+
+” Wallach immediately ordered the two volumes and got cooking.
+
+ Những cuốn sách tham khảo chunky từ những năm 90 này được viết bởi Alexander "Sasha" Shulgin - một nhà tâm lý học nổi tiếng với việc tổng hợp MDMA, còn được gọi là thuốc lắc - và vợ ông, Ann.
+
+
+ He calls them “probably the most useful tools for answering some of the questions I was interested in at the time, about consciousness and the mind-brain relationship.
+
+ Chúng chứa các tài khoản chi tiết về các hợp chất thần kinh khác nhau, dựa trên các thử nghiệm trực tiếp được thực hiện bởi Shulgins và một đội ngũ đồng hành thân cận.
+
+
+”Following the Shulgins’ step-by-step instructions, Wallach taught himself how to make psychedelics.
+
+ Những cuốn sách, như người phát ngôn của DEA đã từng nói, "khá nhiều sách dạy nấu ăn về cách sản xuất ma túy bất hợp pháp.
+
+
+ During breaks from school, he threw together an ad hoc lab in the basement of his parents’ stone farmhouse in Bucks County, Pennsylvania.
+
+" Wallach ngay lập tức đặt hàng hai tập và nấu ăn.
+
+
+ When his mom started complaining about the smell, he moved the whole operation to a small carriage house on the property.
+
+ Ông gọi chúng là "có lẽ là công cụ hữu ích nhất để trả lời một số câu hỏi mà tôi quan tâm vào thời điểm đó, về ý thức và mối quan hệ giữa tâm trí và não bộ.
+
+
+ There, Wallach continued to synthesize psychedelics, preparing everything he could physically (and legally) manage.
+
+" Theo hướng dẫn từng bước của Shulgins, Wallach đã tự học cách tạo ra ảo giác.
+
+
+ “To be clear,” he says, “I was very paranoid.
+
+ Trong thời gian nghỉ học, anh đã cùng nhau ném một phòng thí nghiệm đặc biệt xuống tầng hầm của trang trại bằng đá của cha mẹ anh ở Bucks County, Pennsylvania.
+
+
+”Wallach fell in love with the work.
+
+ Khi mẹ anh bắt đầu phàn nàn về mùi hôi, anh đã chuyển toàn bộ hoạt động đến một nhà xe ngựa nhỏ trong khu đất.
+
+
+ While his parents may have flinched at the tart stenches—and the serious risk of their son accidentally manufacturing compounds that merit harsh penalties under the DEA’s Drug Scheduling system—they were happy to see him throw himself into something so completely.
+
+ Ở đó, Wallach tiếp tục tổng hợp ảo giác, chuẩn bị mọi thứ mà anh ta có thể quản lý về mặt thể chất (và pháp lý).
+
+
+ After graduating in 2008, Wallach enrolled at the University of the Sciences (which recently merged with Saint Joseph’s University) to pursue his PhD in pharmacology and toxicology.
+
+ "Nói rõ hơn," anh ấy nói, "Tôi đã rất hoang tưởng.
+
+
+ To continue studying psychoactives, when applying for grants he pretended to buy into the same antidrug hysteria he had dismissed as a skeptical schoolkid, framing his research as investigations into dangerous compounds.
+
+" Wallach đã yêu công việc này.
+
+
+ “The angle was, these are drugs of abuse, and we want to understand them,” he says.
+
+ Trong khi cha mẹ anh ta có thể đã nao núng trước mùi hôi thối — và nguy cơ nghiêm trọng là con trai họ vô tình sản xuất các hợp chất đáng bị trừng phạt khắc nghiệt theo hệ thống Lập lịch trình Ma túy của DEA — họ rất vui khi thấy anh ta ném mình vào một thứ gì đó hoàn toàn như vậy.
+
+
+ “Whatever you have to tell the grant agency.
+
+ Sau khi tốt nghiệp năm 2008, Wallach đăng ký vào Đại học Khoa học (gần đây đã sáp nhập với Đại học Saint Joseph) để theo đuổi bằng tiến sĩ về dược lý và độc chất học.
+
+
+”Crystallized tryptamine synthesized by Wallach in his lab at Saint Joseph University.
+
+ Để tiếp tục nghiên cứu về thần kinh, khi nộp đơn xin tài trợ, anh ta giả vờ mua vào cùng một chứng cuồng loạn chống thuốc mà anh ta đã coi là một học sinh hoài nghi, đóng khung nghiên cứu của mình là các cuộc điều tra về các hợp chất nguy hiểm.
+
+
+But a little academic subterfuge was a small price to pay to nurture his obsession.
+
+ Ông nói: "Góc độ là, đây là những loại thuốc lạm dụng và chúng tôi muốn hiểu chúng.
+
+
+ When Wallach is not synthesizing psychedelics, he’s lecturing about psychedelic synthesis.
+
+ " "Bất cứ điều gì bạn phải nói với cơ quan tài trợ.
+
+
+ When he’s not lecturing, he’s reading the latest literature.
+
+" Tryptamine kết tinh được wallach tổng hợp trong phòng thí nghiệm của ông tại Đại học Saint Joseph.
+
+
+ Even when he’s at home with his wife in West Philly, ostensibly watching TV, he’s still reading about pharmacology.
+
+Nhưng một chút subterfuge học thuật là một cái giá nhỏ phải trả để nuôi dưỡng nỗi ám ảnh của mình.
+
+
+ And when he’s not doing that, he’s teaching himself math.
+
+ Khi Wallach không tổng hợp ảo giác, anh ấy đang giảng về tổng hợp ảo giác.
+
+
+ Or electronics.
+
+ Khi anh ấy không giảng bài, anh ấy đang đọc những tài liệu mới nhất.
+
+
+ Or advanced physics.
+
+ Ngay cả khi anh ấy ở nhà với vợ ở Tây Philly, bề ngoài đang xem TV, anh ấy vẫn đang đọc về dược lý.
+
+
+ He wants to keep his brain sharp.
+
+ Và khi anh ấy không làm điều đó, anh ấy đang tự học toán.
+
+
+ Everything feeds back into the research.
+
+ Hoặc vật lý tiên tiến.
+
+
+ He assures me that he has interests outside of the hard sciences.
+
+ Anh ấy muốn giữ cho bộ não của mình nhạy bén.
+
+
+ He collects antique snuff boxes.
+
+ Mọi thứ đều đưa trở lại nghiên cứu.
+
+
+ He compulsively chews nicotine gum, which he believes sustains his focus.
+
+ Anh ấy đảm bảo với tôi rằng anh ấy có lợi ích bên ngoài các ngành khoa học khó.
+
+
+ He swears he even chews it while brushing his teeth.
+
+ Ông thu thập các hộp hít cổ.
+
+
+ He enjoys the odd cigar, too.
+
+ Anh ta bắt buộc phải nhai kẹo cao su nicotine, thứ mà anh ta tin rằng duy trì sự tập trung của anh ta.
+
+
+ Save for the occasional scotch, he abstains from alcohol, which he calls ethanol.
+
+ Anh ta thề rằng anh ta thậm chí còn nhai nó trong khi đánh răng.
+
+
+ “I like the taste,” Wallach says, but he can’t suffer the more mind-dulling effects.
+
+ Anh ấy cũng thích điếu xì gà kỳ quặc.
+
+
+ “I hate if I even start to feel buzzed at all.
+
+ Tiết kiệm cho scotch thỉnh thoảng, anh ta kiêng rượu, mà anh ta gọi là ethanol.
+
+
+” In one conversation, when I ask him how his weekend was, he tells me he spent his days off using plastic model kits to design potential molecules.
+
+ "Tôi thích hương vị này," Wallach nói, nhưng anh ấy không thể chịu đựng những tác động khiến tâm trí buồn tẻ hơn.
+
+
+ He has even found himself toiling in the lab on Christmas Day.
+
+ "Tôi ghét nếu tôi thậm chí bắt đầu cảm thấy ù ù chút nào.
+
+
+“This is my life,” Wallach says.
+
+" Trong một cuộc trò chuyện, khi tôi hỏi anh ấy cuối tuần của anh ấy như thế nào, anh ấy nói với tôi rằng anh ấy đã dành cả ngày nghỉ của mình bằng cách sử dụng bộ dụng cụ mô hình bằng nhựa để thiết kế các phân tử tiềm năng.
+
+
+ “There is nothing else I’d rather be doing.
+
+ Anh ấy thậm chí còn thấy mình vất vả trong phòng thí nghiệm vào ngày Giáng sinh ".
+
+
+ If I was given a billion dollars, today, the first thing I would do is build a superlab.
+
+ Đây là cuộc sống của tôi, "Wallach nói.
+
+
+” When Compass came calling, he finally got the golden opportunity to pursue that dream.
+
+ " "Không có gì khác mà tôi muốn làm.
+
+
+ Maybe not a full-blown, billion-dollar superlab.
+
+ Nếu tôi được cho một tỷ đô la, hôm nay, điều đầu tiên tôi sẽ làm là xây dựng một siêu phẩm.
+
+
+ But a lab of his own.
+
+ Khi Compass đến gọi, cuối cùng anh cũng có cơ hội vàng để theo đuổi ước mơ đó.
+
+
+In pop culture, psychedelia is a Day-Glo tapestry of mandalas, black-light inks, tie-dye, and phat pants embossed with lime-green alien heads.
+
+ Có lẽ không phải là một siêu phẩm toàn diện, tỷ đô.
+
+
+ In their various states of synthesis and manufacture, psychoactive drugs are decidedly unkaleidoscopic: brownish, yellowish, and vaguely gross, like plaque scraped off nicotine-stained teeth.
+
+ Nhưng một phòng thí nghiệm của riêng mình.
+
+
+ The labs where these drugs are synthesized smell as if someone were burning a Rotten Eggs Yankee Candle.
+
+ Trong văn hóa đại chúng, psychedelia là một tấm thảm Day-Glo gồm mandalas, mực ánh sáng đen, thuốc nhuộm cà vạt và quần phat được chạm nổi với đầu người ngoài hành tinh màu xanh lá cây chanh.
+
+
+Last fall, I visited Wallach in his lab, where he was preparing some N,N-dipropyltryptamine—a legal, and extremely potent, hallucinogen.
+
+ Trong các trạng thái tổng hợp và sản xuất khác nhau của chúng, các loại thuốc thần kinh được quyết định là không thường xuyên: màu nâu, hơi vàng và thô một cách mơ hồ, giống như mảng bám được cạo sạch khỏi răng nhuộm nicotine.
+
+
+ Dressed in a faded maroon polo, khakis, and chunky desert boots, Wallach sets up a reaction in a round-bottom flask while explaining that in the ’70s, scientists investigated DPT for use in psychotherapy.
+
+ Các phòng thí nghiệm nơi những loại thuốc này được tổng hợp có mùi như thể ai đó đang đốt một quả trứng thối Yankee Candle.
+
+
+ He flits around the lab, blasting out moisture from glassware, sealing tubes with argon gas, dissolving reagents in methanol, and advising me to keep my distance as he fiddles with substances that are, he warns, “fairly toxic.
+
+Mùa thu năm ngoái, tôi đã đến thăm Wallach trong phòng thí nghiệm của anh ấy, nơi anh ấy đang chuẩn bị một số N, N-dipropyltryptamine — một chất gây ảo giác hợp pháp và cực kỳ mạnh.
+
+
+” It’s like watching a chef show off at a teppanyaki restaurant, slicing and dicing by pure reflex.
+
+ Mặc một chiếc áo polo màu hạt dẻ đã phai màu, kaki và đôi bốt sa mạc chunky, Wallach thiết lập một phản ứng trong một chiếc bình đáy tròn trong khi giải thích rằng vào những năm 70, các nhà khoa học đã điều tra DPT để sử dụng trong liệu pháp tâm lý.
+
+
+The fall semester is in session, and Wallach has returned, after the pandemic disruption, to in-class teaching.
+
+ Anh ta đi vòng quanh phòng thí nghiệm, thổi hơi ẩm từ đồ thủy tinh, niêm phong các ống bằng khí argon, hòa tan thuốc thử trong methanol và khuyên tôi nên giữ khoảng cách khi anh ta nghịch ngợm với các chất, anh ta cảnh báo, "khá độc hại.
+
+
+ His lab—and its work for Compass—presses on.
+
+" Nó giống như xem một đầu bếp khoe khoang tại một nhà hàng teppanyaki, cắt lát và thái hạt lựu bằng phản xạ thuần túy.
+
+
+ Wallach and his squad of mostly twentysomethings weave among a few different offices, testing compounds for purity, sketching out molecules in grid-lined notebooks, and preparing potentially mind-expanding substances in discreetly marked mailers to be sent for mouse-twitch tests at a partner lab at UC San Diego.
+
+ Học kỳ mùa thu đang trong phiên họp, và Wallach đã trở lại, sau khi đại dịch gián đoạn, để giảng dạy trong lớp.
+
+
+The job is to develop drugs that tickle the 5-HT2A receptor, a cellular protein involved in a range of functions—appetite, imagination, anxiety, sexual arousal.
+
+ Phòng thí nghiệm của anh ấy — và công việc của nó cho Compass — vẫn tiếp tục.
+
+
+ The receptor has proven crucial to understanding the neuropharmacology of the psychedelic experience induced by classical hallucinogens.
+
+ Wallach và đội ngũ của ông chủ yếu là những người hai mươi tuổi dệt giữa một vài văn phòng khác nhau, kiểm tra các hợp chất về độ tinh khiết, phác thảo các phân tử trong sổ ghi chép lót lưới và chuẩn bị các chất có khả năng mở rộng tâm trí trong các bưu phẩm được đánh dấu kín đáo để gửi cho các thử nghiệm co giật chuột tại một phòng thí nghiệm đối tác tại UC San Diego.
+
+
+ LSD, mescaline, psilocybin—they all interact with 5-HT2A.
+
+Công việc là phát triển các loại thuốc kích thích thụ thể 5-HT2A,  một protein tế bào liên quan đến một loạt các chức năng — thèm ăn, trí tưởng tượng, lo lắng, hưng phấn tình dục.
+
+
+ (In certain circles, the phrase “5-HT2A agonist” has supplanted “psychedelic,” which still carries faint whiffs of hippie-era hedonism.
+
+ Các thụ thể đã được chứng minh là rất quan trọng để hiểu được dược phẩm thần kinh của trải nghiệm ảo giác gây ra bởi các chất gây ảo giác cổ điển.
+
+
+) “If you’re designing a new version of a classical hallucinogen,” Wallach says, “the first thing you’re doing is looking at its interaction with that receptor.
+
+ LSD, mescaline, psilocybin—tất cả đều tương tác với 5-HT2A.
+
+
+”One of Wallach’s goals is to hack how long a psychedelic’s effect lasts.
+
+ (Trong một số vòng tròn nhất định, cụm từ "chất chủ vận 5-HT2A" đã thay thế "ảo giác", vẫn mang những luồng ý tưởng mờ nhạt của chủ nghĩa khoái lạc thời hippie.
+
+
+ Full-dose psilocybin trips usually run in excess of six hours.
+
+) "Nếu bạn đang thiết kế một phiên bản mới của một chất gây ảo giác cổ điển," Wallach nói, "điều đầu tiên bạn đang làm là xem xét sự tương tác của nó với thụ thể đó.
+
+
+ Hand-me-down hippie wisdom dictates three full days for a proper LSD experience: one to prepare, one to trip, and one for reacclimating yourself to the world of waking, non-wiggly consciousness.
+
+" Một trong những mục tiêu của Wallach là hack hiệu ứng ảo giác kéo dài bao lâu.
+
+
+ From a clinical perspective, such epic sessions are expensive and may not be necessary.
+
+ Các chuyến đi psilocybin liều đầy đủ thường diễn ra trong hơn sáu giờ.
+
+
+ Meanwhile, drugs like DMT are acute and intense, with effects lasting only minutes (sometimes called “the businessman’s trip” because it can be enjoyed within a typical lunch hour).
+
+ Trí tuệ hippie hand-me-down ra lệnh ba ngày trọn vẹn cho một trải nghiệm LSD thích hợp: một để chuẩn bị, một để đi du lịch, và một để tái khẳng định bản thân đến thế giới thức dậy, ý thức không nguệch ngoạc.
+
+
+ Finding what Compass cofounder Lars Wilde calls “the sweet spot” between the length of a trip and clinical efficacy is just one of Wallach’s many challenges.
+
+ Từ góc độ lâm sàng, các phiên sử thi như vậy rất tốn kém và có thể không cần thiết.
+
+
+ If he and his team of researchers happen upon a concoction that’s particularly potent or experientially unique—“cool” is a word that gets tossed around a lot—well, all the better.
+
+ Trong khi đó, các loại thuốc như DMT rất cấp tính và dữ dội, với tác dụng chỉ kéo dài vài phút (đôi khi được gọi là "chuyến đi của doanh nhân" vì nó có thể được thưởng thức trong một giờ ăn trưa điển hình).
+
+
+All around the lab, the shelves are cluttered.
+
+ Tìm kiếm điều mà người đồng sáng lập Compass, Lars Wilde gọi là "điểm ngọt ngào" giữa thời gian của một chuyến đi và hiệu quả lâm sàng chỉ là một trong nhiều thách thức của Wallach.
+
+
+ On a fridge stocked with uncommon chemical provisions is a mission statement scrawled in black Sharpie: “Shoot 4 the stars / land on Mars.
+
+ Nếu anh ấy và nhóm các nhà nghiên cứu của mình xảy ra với một pha chế đặc biệt mạnh mẽ hoặc độc đáo về mặt kinh nghiệm — "tuyệt vời" là một từ được tung ra rất nhiều — thì càng tốt.
+
+
+” Artwork adorns the walls—impressionist scenes painted in long globs by Wallach himself.
+
+ Xung quanh phòng thí nghiệm, các kệ hàng lộn xộn.
+
+
+ Cabinets housing beakers and flasks are decorated with printouts of notable scientists, like a wall of saints.
+
+ Trên một tủ lạnh chứa đầy các điều khoản hóa học không phổ biến là một tuyên bố sứ mệnh được viết nguệch ngoạc bằng Sharpie màu đen: "Bắn 4 ngôi sao / hạ cánh trên sao Hỏa.
+
+
+ There’s “father of psychopharmacology” Nathan S.
+
+" Tác phẩm nghệ thuật tô điểm cho các bức tường — những cảnh tượng ấn tượng được vẽ bằng những đốm dài do chính Wallach vẽ.
+
+
+ Kline; Albert Hofmann, the Swiss chemist who discovered LSD; and in lab whites and a jaunty beret, smoking an enormous pipe, is Sasha Shulgin, who died in 2014 at the age of 88.
+
+ Tủ chứa cốc và bình được trang trí với bản in của các nhà khoa học đáng chú ý, giống như một bức tường của các vị thánh.
+
+
+Wallach wouldn’t be working with DPT if it weren’t for Shulgin, who first synthesized the drug.
+
+ Có "cha đẻ của tâm sinh lý học" Nathan S.
+
+
+ In one of his trip reports, Shulgin describes smoking “many mg” of DPT and being treated to a vision of two rotating hearts, interlocking like something from a drugstore valentine.
+
+ Kline; Albert Hofmann , nhà hóa học người Thụy Sĩ, người đã phát hiện ra LSD; và trong phòng thí nghiệm người da trắng và một chiếc mũ nồi vui nhộn, hút một đường ống khổng lồ, là Sasha Shulgin, người đã qua đời vào năm 2014 ở tuổi 88.
+
+
+ “Around the outside,” he writes, “there were sparkling jewels or crystals of light of different colors, maybe four rows deep surrounding them all around.
+
+Wallach sẽ không làm việc với DPT nếu không có Shulgin, người đầu tiên tổng hợp thuốc.
+
+
+”Shulgin is a key influence for many in Wallach’s lab.
+
+ Trong một trong những báo cáo chuyến đi của mình, Shulgin mô tả việc hút "nhiều mg" DPT và được điều trị bằng tầm nhìn của hai trái tim quay, lồng vào nhau như một thứ gì đó từ một lễ tình nhân ở hiệu thuốc.
+
+
+ “He was authentic and honest, both as a researcher and as a person,” says Jitka Nykodemová, a 27-year-old graduate student who moved from Prague to Philadelphia to work with Wallach.
+
+ "Xung quanh bên ngoài," anh viết, "có những viên ngọc lấp lánh hoặc pha lê ánh sáng có màu sắc khác nhau, có thể là bốn hàng sâu bao quanh chúng xung quanh chúng xung quanh.
+
+
+ Shulgin feared that government agents might one day lay fire to his personal records, so he packed his life’s work into a few textbooks.
+
+" Shulgin là một ảnh hưởng quan trọng đối với nhiều người trong phòng thí nghiệm của Wallach.
+
+
+ Now, his oeuvre is available online at no cost.
+
+ "Anh ấy chân thực và trung thực, cả với tư cách là một nhà nghiên cứu và một con người," Jitka Nykodemová, một sinh viên tốt nghiệp 27 tuổi chuyển từ Prague đến Philadelphia để làm việc với Wallach cho biết.
+
+
+ Wallach’s operation is more of a closed book.
+
+ Shulgin sợ rằng một ngày nào đó các đặc vụ chính phủ có thể đốt cháy hồ sơ cá nhân của mình, vì vậy anh ta đã đóng gói công việc của cuộc đời mình vào một vài cuốn sách giáo khoa.
+
+
+ Slinking through the Discovery Center, snapping photos for reference, I’m cautioned against stealing away with any proprietary chemical names or structures.
+
+ Giờ đây, tác phẩm của anh ấy đã có sẵn trực tuyến miễn phí.
+
+
+ All of the lab’s discoveries belong to Compass, transferred via an “exclusive, royalty-bearing, worldwide license.
+
+ Hoạt động của Wallach giống như một cuốn sách kín hơn.
+
+
+”All of Wallach’s discoveries belong to Compass, transferred via an “exclusive, royalty-bearing, worldwide license.
+
+ Lướt qua Trung tâm Khám phá, chụp ảnh để tham khảo, tôi được cảnh báo không nên ăn cắp với bất kỳ tên hoặc cấu trúc hóa chất độc quyền nào.
+
+
+”“There’s a perception of Compass as being the ogre,” says Graham Pechenik, a patent lawyer focusing on the emerging psychedelics industry.
+
+ Tất cả những khám phá của phòng thí nghiệm đều thuộc về Compass, được chuyển giao thông qua "giấy phép độc quyền, mang bản quyền, trên toàn thế giới".
+
+
+ He’s talking about the company’s trajectory and its clashes with old-timers who bristle at the idea of psychedelics going corporate.
+
+ Tất cả những khám phá của Wallach đều thuộc về Compass, được chuyển giao thông qua "giấy phép độc quyền, mang bản quyền, trên toàn thế giới".
+
+
+Compass started off as a nonprofit in 2015 but switched, just a year later, to a for-profit model and accepted funding from, among others, controversial venture capitalist Peter Thiel.
+
+ Có một nhận thức về Compass là yêu tinh, "Graham Pechenik, một luật sư bằng sáng chế tập trung vào ngành công nghiệp ảo giác mới nổi cho biết.
+
+
+ In December 2019, Compass received a patent for a method of synthesizing psilocybin.
+
+ Anh ấy đang nói về quỹ đạo của công ty và những xung đột của nó với những người già, những người nổi giận với ý tưởng ảo giác sẽ trở thành công ty.
+
+
+ To some competitors, the patent seemed to give the company a monopoly on a compound that humans have used for thousands of years.
+
+ Compass bắt đầu như một tổ chức phi lợi nhuận vào năm 2015 nhưng chỉ một năm sau đó, đã chuyển sang mô hình vì lợi nhuận và chấp nhận tài trợ từ, trong số những người khác, nhà đầu tư mạo hiểm gây tranh cãi Peter Thiel.
+
+
+ Peter Van der Heyden, once a clandestine chemist and now the cofounder and chief science officer of Psygen Labs, a private manufacturer of pharmaceutical-grade psychedelics, calls the patent “unconscionable.
+
+ Vào tháng 2019 năm XNUMX, Compass đã nhận được bằng sáng chế cho một phương pháp tổng hợp psilocybin.
+
+
+”“It just doesn’t jibe,” says Van der Heyden, 70, “with what a whole group of us—shall I say, people with roots in the ’60s and ’70s—have spent years of their life, and sometimes years in jail, working toward.
+
+ Đối với một số đối thủ cạnh tranh, bằng sáng chế dường như mang lại cho công ty sự độc quyền về một hợp chất mà con người đã sử dụng trong hàng ngàn năm.
+
+
+ It’s something that is supposed to be—I don’t know how else to say it—a gift to mankind.
+
+ Peter Van der Heyden, từng là một nhà hóa học bí mật và hiện là người đồng sáng lập và giám đốc khoa học của Psygen Labs, một nhà sản xuất tư nhân về ảo giác cấp dược phẩm, gọi bằng sáng chế này là "vô lương tâm".
+
+
+” His objections have an ideological bent.
+
+ Van der Heyden, 70 tuổi, nói, "với cả một nhóm chúng ta - tôi sẽ nói, những người có nguồn gốc từ những năm 60 và 70 - đã trải qua nhiều năm cuộc đời của họ, và đôi khi nhiều năm trong tù, làm việc hướng tới.
+
+
+ His generation framed the psychedelic experience within hippie-era values of peace, love, and smiling on one’s brother.
+
+ Đó là một cái gì đó được cho là - tôi không biết làm thế nào khác để nói điều đó - một món quà cho nhân loại.
+
+
+ These drugs were once seen as a tonic: a chemical rejoinder to the culture of corporate profiteering.
+
+ Sự phản đối của ông có một khuynh hướng ý thức hệ.
+
+
+Compass has also applied to patent protocols for conducting psychedelic therapy, including conventions that have arguably been part of psychedelic therapy for decades, if not longer, such as soft furniture and “reassuring physical contact.
+
+ Thế hệ của anh ấy đã đóng khung trải nghiệm ảo giác trong các giá trị hòa bình, tình yêu và mỉm cười thời kỳ hippie đối với anh trai của một người.
+
+
+” As one critic put it to me, Compass was trying to patent hugging.
+
+ Những loại thuốc này đã từng được coi là một loại thuốc bổ: một sự vui mừng hóa học đối với văn hóa trục lợi doanh nghiệp.
+
+
+A consortium of chemists and competitors recently challenged Compass’ claims in a patent review trial.
+
+ La bàn cũng đã áp dụng cho các giao thức bằng sáng chế để tiến hành liệu pháp ảo giác, bao gồm các quy ước được cho là một phần của liệu pháp ảo giác trong nhiều thập kỷ, nếu không muốn nói là lâu hơn, chẳng hạn như đồ nội thất mềm và "tiếp xúc vật lý trấn an".
+
+
+ Some in the industry maintain that the company’s method of synthesizing psilocybin apes techniques devised by LSD pioneer Hofmann, who filed patents on manufacturing psilocybin over half a century ago.
+
+ Như một nhà phê bình đã nói với tôi, Compass đã cố gắng ôm bằng sáng chế.
+
+
+ The charge was spearheaded by Carey Turnbull, a former energy broker who founded a nonprofit watchdog group, Freedom to Operate, to fight psychedelic patent claims.
+
+ Một tập đoàn gồm các nhà hóa học và đối thủ cạnh tranh gần đây đã thách thức các tuyên bố của Compass trong một thử nghiệm đánh giá bằng sáng chế.
+
+
+ (Among his personal effects at his estate in the gated hamlet of Tuxedo Park, New York: a Chanel-branded, diamond-encrusted statue of the Buddha.
+
+ Một số người trong ngành cho rằng phương pháp tổng hợp các kỹ thuật vượn psilocybin của công ty được nghĩ ra bởi nhà tiên phong LSD Hofmann, người đã nộp bằng sáng chế về sản xuất psilocybin hơn nửa thế kỷ trước.
+
+
+)Turnbull is also the founder and CEO of Ceruvia Life Sciences, a for-profit company that’s pursuing pharmaceutical applications of psilocybin and other psychedelics.
+
+ Cáo buộc được dẫn đầu bởi Carey Turnbull, một cựu nhà môi giới năng lượng, người đã thành lập một nhóm giám sát phi lợi nhuận, Freedom to Operate, để chống lại các tuyên bố bằng sáng chế ảo giác.
+
+
+ In other words, in addition to playing the role of psychedelia’s patent overreach patrol, Turnbull is Compass’ direct competitor.
+
+ (Trong số các đồ dùng cá nhân của ông tại điền trang của ông ở ấp có cổng của Công viên Tuxedo, New York: một bức tượng Phật nạm kim cương, mang nhãn hiệu Chanel.
+
+
+In an open letter published on Freedom to Operate’s website, Turnbull claims Compass is “not making good-faith use of capitalism or pharma regulations” by attempting to establish itself as an exclusive, global supplier of psilocybin.
+
+) Turnbull cũng là người sáng lập và Giám đốc điều hành của Ceruvia Life Sciences, một công ty vì lợi nhuận đang theo đuổi các ứng dụng dược phẩm của psilocybin và các ảo giác khác.
+
+
+ In Turnbull’s view, Compass is laying claim to an existing invention (psilocybin, and specifically Hofmann’s synthetic formation) with an intent to “ransom it back to the human race.
+
+ Nói cách khác, ngoài việc đóng vai trò tuần tra vượt quá bằng sáng chế của psychedelia, Turnbull còn là đối thủ cạnh tranh trực tiếp của Compass.
+
+
+” Freedom to Operate recruited a platoon of scientists to examine Compass’ psilocybin and scoured the globe for vintage samples of Hofmann’s version.
+
+ Trong một bức thư ngỏ được công bố trên trang web của Freedom to Operate, Turnbull tuyên bố Compass "không sử dụng thiện chí chủ nghĩa tư bản hoặc các quy định về dược phẩm" bằng cách cố gắng trở thành nhà cung cấp psilocybin độc quyền trên toàn cầu.
+
+
+ Their research claims that Compass’ molecule—and the method for its production—is far from novel.
+
+ Theo quan điểm của Turnbull, Compass đang tuyên bố chủ quyền đối với một phát minh hiện có (psilocybin, và cụ thể là đội hình tổng hợp của Hofmann) với ý định "chuộc nó trở lại loài người.
+
+
+Compass executives, naturally, disagree.
+
+ " Freedom to Operate đã tuyển dụng một trung đội các nhà khoa học để kiểm tra psilocybin của Compass và lùng sục khắp thế giới để tìm kiếm các mẫu cổ điển của phiên bản Hofmann.
+
+
+ They maintain that their patents are in place to protect their legitimate intellectual property, enabling them to bring their treatments to the greatest number of patients possible.
+
+ Nghiên cứu của họ tuyên bố rằng phân tử của Compass - và phương pháp sản xuất nó - không phải là mới lạ.
+
+
+ They also insist that they aren’t claiming some monopoly on psilocybin itself—only the process for producing a particular synthetic form.
+
+ Giám đốc điều hành La bàn, tự nhiên, không đồng ý.
+
+
+ In June, the Patent Trial and Appeal Board sided with Compass, ruling against Freedom to Operate’s challenge.
+
+ Họ khẳng định rằng bằng sáng chế của họ được đưa ra để bảo vệ tài sản trí tuệ hợp pháp của họ, cho phép họ đưa phương pháp điều trị của mình đến với số lượng bệnh nhân lớn nhất có thể.
+
+
+ Compass Pathways CEO George Goldsmith assures me his company is not trying to thwart anyone from gobbling a mind-expanding mushroom cap.
+
+ Họ cũng nhấn mạnh rằng họ không tuyên bố một số độc quyền đối với chính psilocybin — chỉ là quá trình sản xuất một dạng tổng hợp cụ thể.
+
+
+ Cofounder Wilde, likewise, swears that Compass isn’t cornering the market on hugs.
+
+ Vào tháng SÁU, Hội đồng Xét xử và Kháng cáo Bằng sáng chế đã đứng về phía Compass, phán quyết chống lại thách thức của Freedom to Operate.
+
+
+ Both Goldsmith and Wilde exhibit the corporate tendency to stay frustratingly on message.
+
+ Giám đốc điều hành Của Compass Pathways, George Goldsmith đảm bảo với tôi rằng công ty của anh ấy không cố gắng ngăn cản bất kỳ ai ngấu nghiến một chiếc mũ nấm mở rộng tâm trí.
+
+
+ Ask them what they had for breakfast and they’ll tell you how excited they are to build a new future for mental health.
+
+ Đồng sáng lập Wilde, tương tự như vậy, thề rằng Compass sẽ không dồn thị trường vào những cái ôm.
+
+
+ But pressed about his company’s image, and the efforts mobilized against it, Goldsmith’s consummate professionalism slips, if only a bit.
+
+ Cả Goldsmith và Wilde đều thể hiện xu hướng của công ty là bực bội trong thông điệp.
+
+
+ “Freedom to Operate?” he chuckles, a little anxiously, from his London office.
+
+ Hỏi họ những gì họ đã ăn sáng và họ sẽ cho bạn biết họ hào hứng như thế nào khi xây dựng một tương lai mới cho sức khỏe tâm thần.
+
+
+ “There’s no constraint.
+
+ Nhưng bị ép về hình ảnh của công ty anh ấy, và những nỗ lực được huy động chống lại nó, sự chuyên nghiệp tuyệt vời của Goldsmith trượt, nếu chỉ một chút.
+
+
+ Operate, already.
+
+ "Tự do hoạt động?" anh cười khúc khích, một chút lo lắng, từ văn phòng ở London của mình.
+
+
+”Wallach isn’t particularly ruffled by the swampy ethics of psychedelic capitalism.
+
+ "Không có ràng buộc nào cả.
+
+
+ After all, it’s business as usual.
+
+ Hoạt động, đã.
+
+
+ The so-called “Hippie Mafia” of the ’60s and ’70s—led by superstar LSD chemists Tim Scully and Nicholas Sand—were bankrolled by the freaky scions of the Mellon robber baron dynasty.
+
+" Wallach không đặc biệt xù lông bởi đạo đức đầm lầy của chủ nghĩa tư bản ảo giác.
+
+
+ Wallach’s hero, Shulgin? He paid for his far-out chemical experiments with his day job developing insecticides and other chemicals at Dow, all while the company was mass-producing napalm for the Vietnam War.
+
+ Rốt cuộc, đó là công việc kinh doanh như bình thường.
+
+
+“This is my life,” Wallach says.
+
+ Cái gọi là "Hippie Mafia" của những năm 60 và 70 — dẫn đầu bởi các nhà hóa học siêu sao LSD Tim Scully và Nicholas Sand — đã bị tài trợ bởi những kẻ điên rồ của triều đại nam tước cướp Mellon.
+
+
+ “There is nothing else I’d rather be doing.
+
+ Anh hùng của Wallach, Shulgin? Anh ấy đã trả tiền cho các thí nghiệm hóa học xa xôi của mình bằng công việc hàng ngày của mình là phát triển thuốc trừ sâu và các hóa chất khác tại Dow, tất cả trong khi công ty đang sản xuất hàng loạt bom napalm cho Chiến tranh Việt Nam.
+
+
+"Nor is Wallach moved by the charges leveled at Compass.
+
+ Đây là cuộc sống của tôi, "Wallach nói.
+
+
+ “I’m definitely aware of those criticisms,” he says.
+
+ " "Không có gì khác mà tôi muốn làm.
+
+
+ “But I have no reservations.
+
+" Wallach cũng không bị lay động bởi các khoản phí được san bằng tại Compass.
+
+
+” For Wallach, corporate involvement seems preferable to the alternative, in which all decisions around the research, scheduling, and distribution of drugs fall to the government.
+
+ "Tôi chắc chắn nhận thức được những lời chỉ trích đó," anh nói.
+
+
+ His voice shifts a bit when he says the government, as if the term were suspended in spooky air quotes.
+
+ "Nhưng tôi không có gì phải e dè.
+
+
+ He reserves no fondness for the DEA, which continues to impose severe penalties for the possession and manufacture of mind-expanding drugs, psychedelic renaissance notwithstanding.
+
+" Đối với Wallach, sự tham gia của công ty có vẻ thích hợp hơn với giải pháp thay thế, trong đó tất cả các quyết định xung quanh việc nghiên cứu, lên lịch và phân phối thuốc đều thuộc về chính phủ.
+
+
+ But his antipathy stems from more than the tangles of bureaucratic red tape he has to wade through to do his work.
+
+ Giọng nói của anh ta thay đổi một chút khi anh ta nói chính phủ, như thể thuật ngữ này đã bị đình chỉ trong các trích dẫn không khí ma quái.
+
+
+ He counts at least 10 close friends who have overdosed on synthetic opioids.
+
+ Ông không dành sự yêu thích cho DEA, tổ chức tiếp tục áp dụng các hình phạt nghiêm khắc đối với việc sở hữu và sản xuất các loại thuốc mở rộng tâm trí, mặc dù phục hưng ảo giác.
+
+
+ He keeps photos of some of them in his home office.
+
+ Nhưng ác cảm của anh ta bắt nguồn từ nhiều hơn những mớ rắm của băng đỏ quan liêu mà anh ta phải lội qua để làm công việc của mình.
+
+
+ (The government of his native Pennsylvania has identified opioid overdoses as the state’s worst public health crisis.
+
+ Anh ấy đếm được ít nhất 10 người bạn thân đã dùng quá liều opioid tổng hợp.
+
+
+) Wallach has seen students struggle and suffer.
+
+ Anh ấy giữ hình ảnh của một số người trong số họ trong văn phòng tại nhà của mình.
+
+
+ He rails at a system that still views drug use and addiction as moral issues, punishable to the full extent of the law, and not medical ones to be addressed, compassionately, through science—recent literature suggests that psychedelic therapies may help treat substance use disorders.
+
+ (Chính phủ quê hương Pennsylvania của anh ấy đã xác định quá liều opioid là cuộc khủng hoảng sức khỏe cộng đồng tồi tệ nhất của tiểu bang.
+
+
+ “It definitely drives me,” he says, holding back tears.
+
+) Wallach đã chứng kiến các sinh viên phải vật lộn và đau khổ.
+
+
+ “I want to prevent that loss for other people.
+
+ Anh ta nói về một hệ thống vẫn coi việc sử dụng ma túy và nghiện ngập là vấn đề đạo đức, có thể bị trừng phạt đến mức đầy đủ của luật pháp, và không phải là những vấn đề y tế cần được giải quyết, một cách từ bi, thông qua khoa học — các tài liệu gần đây cho thấy rằng các liệu pháp ảo giác có thể giúp điều trị rối loạn sử dụng chất kích thích.
+
+
+ And improve people’s existence.
+
+ "Nó chắc chắn thúc đẩy tôi," anh nói, kìm nén những giọt nước mắt.
+
+
+ We could have a paradise on this rock of ours floating through space.
+
+ "Tôi muốn ngăn chặn sự mất mát đó cho những người khác.
+
+
+”At the spring 2022 meeting of the American Chemistry Society, Wallach drew a standing-room-only crowd.
+
+ Và cải thiện sự tồn tại của mọi người.
+
+
+ They had come to the San Diego Convention Center to hear him expound on the structure-activity relationship of n-benzylphenethylamines, a class of synthetic hallucinogens collectively called “N-Bomb” on the street.
+
+ Chúng ta có thể có một thiên đường trên tảng đá này của chúng ta trôi nổi trong không gian".
+
+
+ “There were tons of young scientists lining up out in the hall,” he says, with a touch of awe.
+
+ Tại cuộc họp mùa xuân năm 2022 của Hiệp hội Hóa học Hoa Kỳ, Wallach đã thu hút một đám đông chỉ có chỗ đứng.
+
+
+This hype, and the worry of falling into what Wallach calls “the trap of being a celebrity scientist,” doesn’t follow him back to the lab.
+
+ Họ đã đến Trung tâm Hội nghị San Diego để nghe ông giải thích về mối quan hệ cấu trúc - hoạt động của n-benzylphenethylamines, một lớp chất gây ảo giác tổng hợp được gọi chung là "N-Bomb" trên đường phố.
+
+
+ He has plenty to take care of, as Big Neuropharma’s patent land grab ramps up and data piles high on his desk.
+
+ "Có rất nhiều nhà khoa học trẻ xếp hàng trong hội trường," anh nói, với một chút kinh ngạc.
+
+
+ Sitting in his office in West Philly, he shows me a graph on his computer.
+
+ Sự cường điệu này, và nỗi lo lắng rơi vào cái mà Wallach gọi là "cái bẫy của việc trở thành một nhà khoa học nổi tiếng", không theo anh ta trở lại phòng thí nghiệm.
+
+
+ It’s recent head-twitch data, charting how mice responded to various doses of a new drug, the chemical composition of which he cannot legally disclose.
+
+ Anh ấy có rất nhiều thứ để chăm sóc, khi việc lấy đất bằng sáng chế của Big Neuropharma tăng lên và dữ liệu chất đống cao trên bàn làm việc của anh ấy.
+
+
+ The curve slopes gently upward before accelerating steeply, peaking, and driving back down, like the arc of a roller coaster.
+
+ Ngồi trong văn phòng của anh ấy ở Tây Philly, anh ấy chỉ cho tôi một biểu đồ trên máy tính của anh ấy.
+
+
+ The line tops out at a dose of 10 mg/kg, or “mig per kig,” as chemists pronounce it.
+
+ Đó là dữ liệu co giật đầu gần đây, lập biểu đồ cách chuột phản ứng với các liều lượng khác nhau của một loại thuốc mới, thành phần hóa học mà anh ta không thể tiết lộ một cách hợp pháp.
+
+
+ I ask Wallach if that’s any good.
+
+ Đường cong dốc nhẹ nhàng lên trên trước khi tăng tốc dốc, đạt đỉnh và lái xe trở lại, giống như vòng cung của tàu lượn siêu tốc.
+
+
+ His eyes widen a bit, like he’s practically dying to tell me something.
+
+ Dòng này đứng đầu với liều 10 mg / kg, hoặc "mig mỗi kig", như các nhà hóa học phát âm nó.
+
+
+ “It’s a good response,” he says.
+
+ Tôi hỏi Wallach liệu điều đó có tốt không.
+
+
+ He plucks a sandy-brown glomp of nicotine gum from between his back molars, nests it back in its blister pack, and nods as he trails off, “Very potent …  yeah … yeah .
+
+ Đôi mắt anh ấy mở to một chút, giống như anh ấy thực sự sắp chết để nói với tôi điều gì đó.
+
+
+.
+
+ "Đó là một phản ứng tốt," anh nói.
+
+
+.
+
+ Anh ta nhổ một đống kẹo cao su nicotine màu nâu cát từ giữa răng hàm sau lưng của mình, nhét nó trở lại trong gói vỉ của nó, và gật đầu khi anh ta đi theo sau, "Rất mạnh .
+
+
+”Maybe, someday soon, that new drug, whatever it is, will be given to human subjects in a Compass-sponsored clinical trial.
+
+.
+
+
+ It may upend pharmacology.
+
+.
+
+
+ Or psychology.
+
+  Có.
+
+
+ It could spark the next revolution in psychedelia.
+
+.
+
+
+ And Wallach can toast his success, with a cigar and a single glass of scotch, as he earns his place among the psychopharmacological saints.
+
+.
+
+
+ Until then, it’s charts and graphs and fastidious inventories of structure-activity relationships on reams of graph paper; it’s inspirational quotes stuck on fridges full of heady chemical analogs, and funky smells, and the head-twitching tempos of tripped-out mice.
+
+ Vâng .
+
+
+This article appears in the September issue.
+
+.
+
+
+ Subscribe now.
+
+.
+
+
+Let us know what you think about this article.
+
+"Có lẽ, một ngày nào đó sẽ sớm thôi, loại thuốc mới đó, bất kể nó là gì, sẽ được trao cho các đối tượng con người trong một thử nghiệm lâm sàng do La bàn tài trợ.
+
+
+ Submit a letter to the editor at mail@wired.
+
+ Nó có thể làm đảo lộn dược lý.
+
+
+com.
+
+ Hoặc tâm lý học.
+
+
+.
+
+ Nó có thể châm ngòi cho cuộc cách mạng tiếp theo ở psychedelia

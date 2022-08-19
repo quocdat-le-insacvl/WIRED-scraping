@@ -1,0 +1,251 @@
+# The Android 13 Privacy Settings You Should Update Now
+
+
+
+It's late summer in the northern hemisphere, which means new phone operating systems are coming.
+
+Đó là cuối mùa hè ở bán cầu bắc, có nghĩa là các hệ điều hành điện thoại mới đang đến.
+
+
+ In a few weeks, Apple will release iOS 16 to millions of iPhones and iPads around the world.
+
+ Trong vài tuần nữa, Apple sẽ phát hành iOS 16 cho hàng triệu iPhone và iPad trên khắp thế giới.
+
+
+ Google, meanwhile, has already made the latest version of Android available—on some phones you can now download Android 13.
+
+ Trong khi đó, Google đã cung cấp phiên bản Android mới nhất — trên một số điện thoại, bây giờ bạn có thể tải xuống Android 13.
+
+
+The newest version of the Android operating system is more “evolution than revolution,” with the majority of changes smaller than in previous iterations.
+
+Phiên bản mới nhất của hệ điều hành Android là "sự tiến hóa hơn là cuộc cách mạng", với phần lớn các thay đổi nhỏ hơn so với các lần lặp lại trước đó.
+
+
+ But Android’s security team is trying to simplify people’s privacy options throughout Android 13.
+
+ Tuy nhiên, nhóm bảo mật của Android đang cố gắng đơn giản hóa các tùy chọn quyền riêng tư của mọi người trong suốt Android 13.
+
+
+ This version of the OS involves changes under the hood for app developers and some streamlined security options for users.
+
+ Phiên bản hệ điều hành này liên quan đến những thay đổi đối với các nhà phát triển ứng dụng và một số tùy chọn bảo mật được sắp xếp hợp lý cho người dùng.
+
+
+You probably don’t spend a lot of time thinking about the privacy and security settings on your phone.
+
+ Bạn có thể không dành nhiều thời gian để suy nghĩ về cài đặt quyền riêng tư và bảo mật trên điện thoại của mình.
+
+
+ However, whenever you download a new operating system, it’s worth spending a few minutes scrolling and tapping through all the options you haven’t touched in the past 12 months.
+
+ Tuy nhiên, bất cứ khi nào bạn tải xuống một hệ điều hành mới, bạn nên dành vài phút để cuộn và nhấn qua tất cả các tùy chọn mà bạn đã không chạm vào trong 12 tháng qua.
+
+
+ Here’s what you should take a look at on Android 13.
+
+ Dưới đây là những gì bạn nên xem trên Android 13.
+
+
+In Android 12, Google introduced “nearby device” permissions.
+
+In Android 12, Google đã giới thiệu quyền "thiết bị lân cận".
+
+
+ This was designed to stop your headphones app from requesting your precise location when it was trying to wirelessly connect to your headphones.
+
+ Điều này được thiết kế để ngăn ứng dụng tai nghe của bạn yêu cầu vị trí chính xác của bạn khi nó đang cố gắng kết nối không dây với tai nghe của bạn.
+
+
+ Android 13 expands on these controls to stop apps from using Wi-Fi permissions to collect your location data.
+
+ Android 13 mở rộng các tùy chọn kiểm soát này để ngăn các ứng dụng sử dụng quyền truy cập Wi-Fi để thu thập dữ liệu vị trí của bạn.
+
+
+ In their code, app developers have to specify that they will never use Wi-Fi APIs to access location information.
+
+ Trong mã của họ, các nhà phát triển ứng dụng phải chỉ định rằng họ sẽ không bao giờ sử dụng API Wi-Fi để truy cập thông tin vị trí.
+
+
+Android’s Privacy dashboard has also been updated.
+
+ Trang tổng quan quyền riêng tư của Android cũng đã được cập nhật.
+
+
+ The dashboard, which can be accessed through Settings > Privacy, shows the permissions you have given apps to use—this includes the apps that can access your camera, contacts, and multiple other sensors and types of data.
+
+ Bảng điều khiển, có thể được truy cập thông qua Cài đặt > Quyền riêng tư, hiển thị các quyền bạn đã cấp cho ứng dụng để sử dụng—điều này bao gồm các ứng dụng có thể truy cập vào máy ảnh, danh bạ cũng như nhiều cảm biến và loại dữ liệu khác của bạn.
+
+
+ It will now show which apps have used each permission over the past seven days, rather than just 24 hours.
+
+ Giờ đây, nó sẽ hiển thị những ứng dụng nào đã sử dụng từng quyền trong bảy ngày qua, thay vì chỉ 24 giờ.
+
+
+Some of the privacy changes in Android 13 don’t require you to do anything, but it is worth knowing about them anyway.
+
+ Một số thay đổi về quyền riêng tư trong Android 13 không yêu cầu bạn phải làm bất cứ điều gì, nhưng dù sao thì bạn cũng nên biết về chúng.
+
+
+ For instance, the OS will start deleting your clipboard history automatically after a short period of time so that apps don’t snoop on the information you previously copied.
+
+ Ví dụ: HĐH sẽ bắt đầu tự động xóa lịch sử khay nhớ tạm của bạn sau một khoảng thời gian ngắn để các ứng dụng không rình mò thông tin bạn đã sao chép trước đó.
+
+
+ Also, from now on, apps that use Google’s advertising ID, which is a unique code assigned to your device, must declare the ad ID permission in their documentation.
+
+ Ngoài ra, kể từ bây giờ, các ứng dụng sử dụng ID quảng cáo của Google, là mã duy nhất được gán cho thiết bị của bạn, phải khai báo quyền id quảng cáo trong tài liệu của họ.
+
+
+ “If your app does not declare this permission when targeting Android 13 or higher, the advertising ID is automatically removed and replaced with a string of zeroes,” Google says.
+
+ Google cho biết: "Nếu ứng dụng của bạn không khai báo quyền này khi nhắm mục tiêu Android 13 trở lên, id quảng cáo sẽ tự động bị xóa và thay thế bằng một chuỗi số không.
+
+
+When you want to use a photo you’ve taken in another app—for instance, as a Twitter profile photo or to share images with friends—your device uses Photo Picker.
+
+ Khi bạn muốn sử dụng ảnh mình đã chụp trong một ứng dụng khác—ví dụ: dưới dạng ảnh hồ sơ Twitter hoặc để chia sẻ hình ảnh với bạn bè—thiết bị của bạn sẽ sử dụng Trình chọn ảnh.
+
+
+ This loads up a screen that includes the photos on your device and gives you the option to use them in the app you’re in.
+
+ Thao tác này sẽ tải lên màn hình bao gồm các ảnh trên thiết bị của bạn và cung cấp cho bạn tùy chọn sử dụng chúng trong ứng dụng bạn đang sử dụng.
+
+
+ The new privacy changes in Android 13 mean you won’t automatically give an app access to all your photos and videos.
+
+ Những thay đổi mới về quyền riêng tư trong Android 13 có nghĩa là bạn sẽ không tự động cấp cho ứng dụng quyền truy cập vào tất cả ảnh và video của mình.
+
+
+ Instead, the photo picker will now only give the app access to the photos you allow it.
+
+ Thay vào đó, trình chọn ảnh bây giờ sẽ chỉ cấp cho ứng dụng quyền truy cập vào các ảnh bạn cho phép.
+
+
+In addition, Android’s developer pages state that if apps want to use images, audio, or video that other apps have created, they must explicitly say the type of files they want access to and give you clear prompts that this will happen.
+
+ Ngoài ra, các trang dành cho nhà phát triển Android tuyên bố rằng nếu ứng dụng muốn sử dụng hình ảnh, âm thanh hoặc video mà các ứng dụng khác đã tạo, ứng dụng phải cho biết rõ loại tệp mà họ muốn truy cập và cung cấp cho bạn lời nhắc rõ ràng rằng điều này sẽ xảy ra.
+
+
+Few things are more infuriating than apps that send a constant barrage of notifications.
+
+ Rất ít điều gây phẫn nộ hơn các ứng dụng gửi hàng loạt thông báo liên tục.
+
+
+ And there are some notifications you may not want appearing on your screen for anyone nearby to see.
+
+ Và có một số thông báo bạn có thể không muốn xuất hiện trên màn hình của mình cho bất kỳ ai ở gần xem.
+
+
+ While it has been possible to control app notifications for some time, Android 13 is making it easier to do so from the outset.
+
+ Mặc dù đã có thể kiểm soát thông báo ứng dụng trong một thời gian, nhưng Android 13 đang giúp bạn làm điều đó dễ dàng hơn ngay từ đầu.
+
+
+ Now, when you open up an app for the first time or use it for the first time in a while, you’ll be asked if you want it to send you notifications.
+
+ Bây giờ, khi bạn mở một ứng dụng lần đầu tiên hoặc sử dụng nó lần đầu tiên sau một thời gian, bạn sẽ được hỏi liệu bạn có muốn nó gửi thông báo cho bạn không.
+
+
+ Spammy notifications, be gone.
+
+ Thông báo spam, hãy biến mất.
+
+
+While you’re thinking about your phone’s privacy settings, it’s worth taking some time to flick through your device’s other options to boost your overall protection.
+
+ Trong khi bạn đang suy nghĩ về cài đặt quyền riêng tư của điện thoại, bạn nên dành một chút thời gian để lướt qua các tùy chọn khác của thiết bị để tăng cường khả năng bảo vệ tổng thể của mình.
+
+
+ It’s possible there are previous changes that you’ve missed.
+
+ Có thể có những thay đổi trước đó mà bạn đã bỏ lỡ.
+
+
+ The vast majority of the settings below can be changed by visiting Settings on your Android and then following the specific options.
+
+ Phần lớn các cài đặt bên dưới có thể được thay đổi bằng cách truy cập Cài đặt trên Android của bạn và sau đó làm theo các tùy chọn cụ thể.
+
+
+In the Security section, Android provides you with an overview of your device’s status.
+
+ Trong phần Bảo mật, Android cung cấp cho bạn thông tin tổng quan về trạng thái thiết bị của bạn.
+
+
+ It will show you when the last security update was applied, let you set a screen lock and fingerprint or biometric unlocking (if your device supports them), and let you go through Google’s wider security checkup that looks at the current state of your accounts.
+
+ Nó sẽ cho bạn biết khi nào bản cập nhật bảo mật gần đây nhất được áp dụng, cho phép bạn đặt khóa màn hình và mở khóa bằng vân tay hoặc sinh trắc học (nếu thiết bị của bạn hỗ trợ chúng) và cho phép bạn thực hiện kiểm tra bảo mật rộng hơn của Google để xem xét trạng thái hiện tại của tài khoản của bạn.
+
+
+ (Later this year, Android will introduce a new Security & privacy option that will put all of these settings in one place.
+
+ (Cuối năm nay, Android sẽ giới thiệu tùy chọn Bảo mật & quyền riêng tư mới sẽ đặt tất cả các cài đặt này vào một nơi.
+
+
+)In the Privacy menu, there are a few things you should change.
+
+) Trong menu Quyền riêng tư, có một số điều bạn nên thay đổi.
+
+
+ The Privacy dashboard, as described above, will show you which apps have used which sensors and data on your phone in the past seven days.
+
+ Bảng điều khiển Quyền riêng tư, như được mô tả ở trên, sẽ hiển thị cho bạn những ứng dụng nào đã sử dụng cảm biến và dữ liệu nào trên điện thoại của bạn trong bảy ngày qua.
+
+
+ After looking at this, you should tap on Permission manager, where you’ll be presented with all the sensors and types of data that your phone can give to apps.
+
+ Sau khi xem xét điều này, bạn nên nhấn vào Trình quản lý quyền, nơi bạn sẽ được cung cấp tất cả các cảm biến và loại dữ liệu mà điện thoại của bạn có thể cung cấp cho các ứng dụng.
+
+
+ These range from your location and camera access to your calendar and files.
+
+ Chúng bao gồm từ vị trí của bạn và quyền truy cập máy ảnh vào lịch và tệp của bạn.
+
+
+ You should look through each of the permissions and decide if an app really needs access to them to function.
+
+ Bạn nên xem qua từng quyền và quyết định xem một ứng dụng có thực sự cần quyền truy cập vào chúng để hoạt động hay không.
+
+
+Next in Privacy, you should open Google location history and Activity controls.
+
+ Tiếp theo trong phần Quyền riêng tư, bạn nên mở Lịch sử vị trí trên Google và Kiểm soát hoạt động.
+
+
+ Both of these options are linked to your wider Google account(s), but the settings here allow you to control what data Google keeps about you—it’s a lot.
+
+ Cả hai tùy chọn này đều được liên kết với (các) tài khoản Google rộng hơn của bạn, nhưng cài đặt ở đây cho phép bạn kiểm soát dữ liệu nào Google lưu giữ về bạn — đó là rất nhiều.
+
+
+ Using these options, you can wipe your web and activity data, the locations Google keeps on your movements, and details such as YouTube search history.
+
+ Sử dụng các tùy chọn này, bạn có thể xóa dữ liệu web và hoạt động của mình, các vị trí mà Google lưu giữ về chuyển động của bạn và các chi tiết như lịch sử tìm kiếm trên YouTube.
+
+
+Then head to Privacy and Ads.
+
+ Sau đó, đi tới Quyền riêng tư và Quảng cáo.
+
+
+ Here you can use Reset advertising ID to change the ID Google has assigned to your phone.
+
+ Tại đây, bạn có thể sử dụng Đặt lại ID quảng cáo để thay đổi ID mà Google đã gán cho điện thoại của bạn.
+
+
+ This advertising ID is used by apps and advertisers across the web to track your interests and show you potentially creepy personalized advertising.
+
+ ID quảng cáo này được các ứng dụng và nhà quảng cáo trên web sử dụng để theo dõi sở thích của bạn và hiển thị cho bạn quảng cáo được cá nhân hóa có khả năng rùng rợn.
+
+
+ As well as resetting your ad ID, there’s an option to Delete advertising ID, meaning “apps can no longer use this advertising ID to show you personalized ads.
+
+ Ngoài việc đặt lại ID quảng cáo của bạn, có một tùy chọn để Xóa ID quảng cáo, có nghĩa là "các ứng dụng không còn có thể sử dụng ID quảng cáo này để hiển thị cho bạn quảng cáo được cá nhân hóa".
+
+
+”Finally, while you’re thinking about your digital privacy and security, you should make sure you are using a password manager to protect your online life and using multi-factor authentication wherever possible.
+
+ Cuối cùng, trong khi bạn đang suy nghĩ về quyền riêng tư và bảo mật kỹ thuật số của mình, bạn nên đảm bảo rằng bạn đang sử dụng trình quản lý mật khẩu để bảo vệ cuộc sống trực tuyến của mình và sử dụng xác thực đa yếu tố bất cứ khi nào có thể.
+
+
+.
+

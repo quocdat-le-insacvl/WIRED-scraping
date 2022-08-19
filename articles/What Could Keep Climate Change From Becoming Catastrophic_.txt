@@ -1,0 +1,161 @@
+# What Could Keep Climate Change From Becoming Catastrophic?
+
+
+
+We all know climate change is going to be bad.
+
+Tất cả chúng ta đều biết biến đổi khí hậu sẽ rất tồi tệ.
+
+
+ How bad? Can we stop it from becoming catastrophic? (Choose your own definition of “catastrophic.
+
+ Làm thế nào xấu? Chúng ta có thể ngăn nó trở thành thảm họa? (Chọn định nghĩa của riêng bạn về "thảm khốc.
+
+
+”) Tell me your view in the comments here—and then, if you’re in the Bay Area on September 28, you might enjoy Re:WIRED Green, our one-day event on how human ingenuity can tackle climate change.
+
+") Hãy cho tôi biết quan điểm của bạn trong các bình luận ở đây — và sau đó, nếu bạn ở Vùng Vịnh vào ngày 28 tháng XNUMX, bạn có thể thích Re: WIRED Green, sự kiện kéo dài một ngày của chúng tôi về cách sự khéo léo của con người có thể giải quyết biến đổi khí hậu.
+
+
+ There’ll be talks, demos, and discussions with some of the most interesting researchers, activists, and entrepreneurs working on this problem.
+
+ Sẽ có các cuộc nói chuyện, demo và thảo luận với một số nhà nghiên cứu, nhà hoạt động và doanh nhân thú vị nhất đang làm việc về vấn đề này.
+
+
+ Which brings us nicely to the topic of this month’s update.
+
+ Điều này đưa chúng ta đến chủ đề cập nhật tháng này một cách độc đáo.
+
+
+People who call themselves climate optimists tend to say things like: Yes, it’s really bad, but humans have been pretty good at warding off really bad things.
+
+ Những người tự gọi mình là những người lạc quan về khí hậu có xu hướng nói những điều như: Vâng, nó thực sự tồi tệ, nhưng con người đã khá giỏi trong việc xua đuổi những điều thực sự tồi tệ.
+
+
+ The Malthusian trap, the ozone hole, acid rain.
+
+ Cái bẫy Malthusian, lỗ thủng ozone, mưa axit.
+
+
+ Of course, “We did it before so we’ll do it again” may not be the logic you want to rely on when the fate of billions of people is in the balance.
+
+ Tất nhiên, "Chúng tôi đã làm điều đó trước đây nên chúng tôi sẽ làm lại" có thể không phải là logic bạn muốn dựa vào khi số phận của hàng tỷ người đang ở thế cân bằng.
+
+
+ And switching the entire global economy away from fossil fuels is arguably a tad trickier than those other problems.
+
+ Và việc chuyển đổi toàn bộ nền kinh tế toàn cầu khỏi nhiên liệu hóa thạch được cho là một điều khó khăn hơn một chút so với những vấn đề khác.
+
+
+ (Though who could have guessed at the time?)At WIRED we look pretty frequently at some of the more out-there technological solutions, and the story is usually something like: “This is promising, but there are some nasty trade-offs.
+
+ (Mặc dù ai có thể đoán được vào thời điểm đó?) Tại WIRED, chúng tôi thường xuyên xem xét một số giải pháp công nghệ hiện có hơn và câu chuyện thường là một cái gì đó như: "Điều này đầy hứa hẹn, nhưng có một số đánh đổi khó chịu.
+
+
+” A great example that we wrote about in-depth last December and again last month is carbon capture and storage (CCS): chemically scrubbing carbon dioxide out of the air and locking it underground.
+
+" Một ví dụ tuyệt vời mà chúng tôi đã viết về chuyên sâu vào tháng XNUMX năm ngoái và một lần nữa vào tháng trước là thu giữ và lưu trữ carbon (CCS): lọc hóa học carbon dioxide ra khỏi không khí và khóa nó dưới lòng đất.
+
+
+ Many experts agree this is probably a necessary supplement to pumping out less carbon in the first place.
+
+ Nhiều chuyên gia đồng ý rằng đây có lẽ là một bổ sung cần thiết để bơm ra ít carbon hơn ngay từ đầu.
+
+
+ But the technology is expensive, hard to scale, and—the bit that really rankles—is turning into a gold rush for the very same companies that drill and burn fossil fuels.
+
+ Nhưng công nghệ này đắt tiền, khó mở rộng quy mô và - một chút thực sự xếp hạng - đang biến thành một cơn sốt vàng cho chính các công ty khoan và đốt nhiên liệu hóa thạch.
+
+
+ Well, that’s capitalism for you.
+
+ Chà, đó là chủ nghĩa tư bản dành cho bạn.
+
+
+Or take a slightly older CCS technology: trees.
+
+ Hoặc lấy một công nghệ CCS cũ hơn một chút: cây cối.
+
+
+ Planting more of them would definitely help, but it takes new trees decades or centuries to get as good at absorbing carbon as the rapidly disappearing old-growth forests.
+
+ Trồng nhiều cây trong số chúng chắc chắn sẽ hữu ích, nhưng phải mất nhiều thập kỷ hoặc nhiều thế kỷ mới để có được khả năng hấp thụ carbon tốt như những khu rừng già đang biến mất nhanh chóng.
+
+
+ You might be able to genetically modify trees and other plants to suck up carbon faster, but spreading GM trees all over the world without knowing the long-term effects makes people (rightly) nervous.
+
+ Bạn có thể biến đổi gen cây cối và các loại cây khác để hút carbon nhanh hơn, nhưng việc lan truyền cây biến đổi gen trên toàn thế giới mà không biết những tác động lâu dài khiến mọi người (đúng) lo lắng.
+
+
+ On the other hand, breeding more carbon-hungry trees the non-GM way might take too long.
+
+ Mặt khác, việc nhân giống nhiều cây đói carbon hơn theo cách không biến đổi gen có thể mất quá nhiều thời gian.
+
+
+Then there are biofuels.
+
+ Sau đó là nhiên liệu sinh học.
+
+
+ But switching over has knock-on effects, like requiring more fertilizer to grow biofuel crops, which also produces emissions.
+
+ Nhưng việc chuyển đổi có những tác động mạnh mẽ, như yêu cầu nhiều phân bón hơn để trồng cây nhiên liệu sinh học, điều này cũng tạo ra khí thải.
+
+
+ Or low-carbon beef—but it’s still much higher-carbon than other meat, so marketing it as low-carbon could paradoxically encourage people to eat more of it and produce higher net emissions.
+
+ Hoặc thịt bò carbon thấp — nhưng nó vẫn có lượng carbon cao hơn nhiều so với các loại thịt khác, vì vậy việc tiếp thị nó là carbon thấp có thể nghịch lý khuyến khích mọi người ăn nhiều hơn và tạo ra lượng khí thải ròng cao hơn.
+
+
+ Or growing special crops to burn as fuel while capturing and storing the emissions from that; but then again, you need more fertilizer and farming infrastructure.
+
+ Hoặc trồng các loại cây trồng đặc biệt để đốt làm nhiên liệu trong khi thu giữ và lưu trữ khí thải từ đó; nhưng một lần nữa, bạn cần thêm phân bón và cơ sở hạ tầng canh tác.
+
+
+Overall, we’re not lacking in ingenuity.
+
+ Nhìn chung, chúng tôi không thiếu sự khéo léo.
+
+
+ The technologies exist, including some that aren’t as controversial as the ones above.
+
+ Các công nghệ tồn tại, bao gồm một số công nghệ không gây tranh cãi như những công nghệ trên.
+
+
+ If properly applied, they could keep the world under 2 degrees of warming.
+
+ Nếu được áp dụng đúng cách, chúng có thể giữ cho thế giới dưới 2 độ nóng lên.
+
+
+ What’s missing? Mainly financing, and the political will to get countries to stick to their promises.
+
+ Còn thiếu gì? Chủ yếu là tài chính, và ý chí chính trị để khiến các quốc gia tuân thủ lời hứa của họ.
+
+
+ The climate bill that passed in the US Senate on Sunday is a promising start.
+
+ Dự luật khí hậu được thông qua tại Thượng viện Mỹ hôm Chủ nhật là một khởi đầu đầy hứa hẹn.
+
+
+The future of Western democracy is something I think about a lot these days, and our September cover story is a glimpse of part of that future, where political stances are sold like sneakers, jewelry, and beach holidays by an army of online influencers preaching to their followers.
+
+ Tương lai của nền dân chủ phương Tây là điều tôi nghĩ rất nhiều trong những ngày này, và câu chuyện trang bìa tháng XNUMX của chúng tôi là một cái nhìn thoáng qua về một phần của tương lai đó, nơi các lập trường chính trị được bán như giày thể thao, đồ trang sức và kỳ nghỉ trên bãi biển bởi một đội quân những người có ảnh hưởng trực tuyến rao giảng cho những người theo dõi họ.
+
+
+ Ben Wofford digs into Urban Legend, a company that has cornered the market on influencer marketing for political purposes.
+
+ Ben Wofford đào sâu vào Urban Legend, một công ty đã dồn thị trường vào tiếp thị người ảnh hưởng vì mục đích chính trị.
+
+
+ Through some digital sleuthing, he dug up some remarkable data on the kinds of campaigns it has been running, mostly on conservative culture-war favorites like “critical race theory,” gun control, and vaccine mandates, but also some liberal ones like the minimum wage.
+
+ Thông qua một số hoạt động kỹ thuật số, ông đã đào được một số dữ liệu đáng chú ý về các loại chiến dịch mà nó đã và đang thực hiện, chủ yếu là về các chiến dịch được yêu thích trong cuộc chiến tranh văn hóa bảo thủ như "lý thuyết chủng tộc quan trọng", kiểm soát súng và nhiệm vụ vắc xin, nhưng cũng có một số chiến dịch tự do như mức lương tối thiểu.
+
+
+ Most people won’t know they’re seeing paid political advertising because such marketing can easily sidestep the negligible enforcement of disclosure rules.
+
+ Hầu hết mọi người sẽ không biết họ đang xem quảng cáo chính trị trả phí vì tiếp thị như vậy có thể dễ dàng bỏ qua việc thực thi không đáng kể các quy tắc tiết lộ.
+
+
+.
+

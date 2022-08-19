@@ -1,0 +1,257 @@
+# This Laser-Firing Truck Could Help Make Hot Cities More Livable
+
+
+
+When you go on a road trip, you pack snacks and drinks and make sure you have good music to queue.
+
+Khi bạn thực hiện một chuyến đi trên đường, bạn đóng gói đồ ăn nhẹ và đồ uống và đảm bảo rằng bạn có âm nhạc hay để xếp hàng.
+
+
+ Climate scientist Katia Lamer, on the other hand, packs party balloons loaded with atmospheric sensors, then climbs into a laser-firing observatory on wheels.
+
+ Mặt khác, nhà khoa học khí hậu Katia Lamer đóng gói các quả bóng bay của bữa tiệc chứa đầy cảm biến khí quyển, sau đó leo lên một đài quan sát bắn laser trên bánh xe.
+
+
+Lamer—director of operations at the Brookhaven National Laboratory’s Center for Multiscale Applied Sensing—recently completed a 1,700-mile road trip from Upton, New York, to Houston, Texas, in a specially designed science truck while taking a bevy of measurements, from air temperature to humidity to wind.
+
+ Lamer — giám đốc điều hành tại Trung tâm Cảm biến Ứng dụng Đa cấp của Phòng thí nghiệm Quốc gia Brookhaven — gần đây đã hoàn thành chuyến đi đường dài 1,700 dặm từ Upton, New York, đến Houston, Texas, trong một chiếc xe tải khoa học được thiết kế đặc biệt trong khi thực hiện một loạt các phép đo, từ nhiệt độ không khí đến độ ẩm đến gió.
+
+
+ The big plan: better understanding the complex climate dynamics of cities, where conditions can vary wildly not only from neighborhood to neighborhood, but door to door.
+
+ Kế hoạch lớn: hiểu rõ hơn về động lực khí hậu phức tạp của các thành phố, nơi các điều kiện có thể thay đổi rất nhiều không chỉ từ khu phố này sang vùng lân cận khác, mà còn từ cửa này sang cửa khác.
+
+
+ “The big difference with urban environments is that they're much more heterogeneous than natural environments.
+
+ "Sự khác biệt lớn với môi trường đô thị là chúng không đồng nhất hơn nhiều so với môi trường tự nhiên.
+
+
+ What that means is that there are more elements, like individual buildings, that create these canyons,” says Lamer, referring to the corridors between structures.
+
+ Điều đó có nghĩa là có nhiều yếu tố hơn, như các tòa nhà riêng lẻ, tạo ra những hẻm núi này, "Lamer nói, đề cập đến các hành lang giữa các cấu trúc.
+
+
+ “So if the surface is more complicated, that drives some changes in the meteorology at a much finer scale than we would have if you were looking at an ocean, which is uniform.
+
+ "Vì vậy, nếu bề mặt phức tạp hơn, điều đó thúc đẩy một số thay đổi trong khí tượng học ở quy mô tốt hơn nhiều so với chúng ta sẽ có nếu bạn đang nhìn vào một đại dương, một đại dương đồng nhất.
+
+
+”Climate scientists have a good handle on how natural expanses of greenery like grasslands and forests affect their local conditions: When plants photosynthesize, they exhale both oxygen and water vapor, which cools the air—the vegetation is sweating, essentially.
+
+" Các nhà khoa học khí hậu đã xử lý tốt cách thức mở rộng tự nhiên của cây xanh như đồng cỏ và rừng ảnh hưởng đến điều kiện địa phương của họ: Khi thực vật quang hợp, chúng thở ra cả oxy và hơi nước, làm mát không khí — thảm thực vật đang đổ mồ hôi, về cơ bản.
+
+
+ By contrast, the built environment of a city—concrete, glass, brick—is highly efficient at absorbing the sun’s energy, heating urban areas up to 20 degrees Fahrenheit above surrounding rural areas.
+
+ Ngược lại, môi trường được xây dựng của một thành phố — bê tông, kính, gạch — có hiệu quả cao trong việc hấp thụ năng lượng của mặt trời, sưởi ấm các khu vực đô thị lên đến 20 độ F so với các khu vực nông thôn xung quanh.
+
+
+ This is known as the urban heat island effect, a complicated phenomenon that Lamer is trying to measure with her observatory on wheels.
+
+ Đây được gọi là hiệu ứng đảo nhiệt đô thị, một hiện tượng phức tạp mà Lamer đang cố gắng đo lường bằng đài quan sát của mình trên các bánh xe.
+
+
+ The truck sports a lidar sensor, which fires lasers to track floating particles, thus measuring air flow.
+
+ Chiếc xe tải có một cảm biến lidar, bắn tia laser để theo dõi các hạt nổi, do đó đo lưu lượng không khí.
+
+
+ (Self-driving cars also use lidar to map their surroundings in 3D, but those lasers are bouncing off obstacles like other cars.
+
+ (Những chiếc xe tự lái cũng sử dụng lidar để lập bản đồ môi trường xung quanh ở chế độ 3D, nhưng những tia laser đó đang bật ra khỏi chướng ngại vật như những chiếc xe khác.
+
+
+) This flow can vary significantly depending on the size and orientation of buildings in a given area.
+
+) Dòng chảy này có thể thay đổi đáng kể tùy thuộc vào kích thước và hướng của các tòa nhà trong một khu vực nhất định.
+
+
+ Two side-by-side structures of the same height, for instance, form a vortex that runs up the side of one and down the other.
+
+ Ví dụ, hai cấu trúc cạnh nhau có cùng chiều cao tạo thành một vòng xoáy chạy lên phía bên này và xuống bên kia.
+
+
+ “What if you stack two buildings in a row, like if they're different heights from one another, how does that all influence the local weather? So that's kind of the frontier,” says Lamer.
+
+ "Điều gì sẽ xảy ra nếu bạn xếp chồng hai tòa nhà liên tiếp, chẳng hạn như nếu chúng có độ cao khác nhau với nhau, tất cả những điều đó ảnh hưởng đến thời tiết địa phương như thế nào? Vì vậy, đó là loại biên giới, "Lamer nói.
+
+
+ “In each neighborhood, each side of each building sees its own microclimate.
+
+ " "Trong mỗi khu phố, mỗi bên của mỗi tòa nhà nhìn thấy vi khí hậu của riêng mình.
+
+
+”As the sun heats up one side of a building, it further complicates this movement of air, since hot air rises.
+
+" Khi mặt trời nóng lên một bên của tòa nhà, nó càng làm phức tạp thêm sự chuyển động của không khí này, vì không khí nóng tăng lên.
+
+
+ But on the shaded side of the building, there might not be this same upward motion.
+
+ Nhưng ở phía bóng mờ của tòa nhà, có thể không có chuyển động đi lên tương tự.
+
+
+ Add winds to the mix and you’ve got atmospheric dynamics changing on very fine scales, both spatially and over time.
+
+ Thêm gió vào hỗn hợp và bạn đã có động lực khí quyển thay đổi trên quy mô rất tốt, cả về không gian và theo thời gian.
+
+
+ “It's a very turbulent process, as the wind moves through this urban canopy,” says Vivek Shandas, who studies the urban heat island effect at Portland State University but wasn’t involved in this new research.
+
+ "Đó là một quá trình rất hỗn loạn, khi gió di chuyển qua tán cây đô thị này," Vivek Shandas, người nghiên cứu hiệu ứng đảo nhiệt đô thị tại Đại học Bang Portland cho biết nhưng không tham gia vào nghiên cứu mới này.
+
+
+ “The science behind this really hasn't gotten a good grasp on the way the roughness moves the wind, and how it actually acts across an entire urban landscape.
+
+ "Khoa học đằng sau điều này thực sự đã không nắm bắt tốt về cách độ thô di chuyển của gió và cách nó thực sự hoạt động trên toàn bộ cảnh quan đô thị.
+
+
+”In addition to sensing with lidar, Lamer releases helium-filled party balloons that carry still more sensors, which beam atmospheric data back to the truck—so she gets measurements not only at ground level, but up to 3 miles above the city.
+
+" Ngoài việc cảm biến bằng lidar, Lamer còn thả những quả bóng bay tiệc chứa đầy heli mang theo nhiều cảm biến hơn, truyền dữ liệu khí quyển trở lại xe tải — vì vậy cô ấy nhận được các phép đo không chỉ ở mặt đất, mà còn lên đến 3 dặm so với thành phố.
+
+
+Releasing one of the miniature weather balloonsAll this data will inform two main pursuits.
+
+ Phát hành một trong những khinh khí cầu thời tiết thu nhỏTất cả dữ liệu này sẽ thông báo cho hai mục tiêu chính.
+
+
+ The first is better understanding how cities actually influence the weather: As the sun heats up the land, the rising air might also carry moisture into the atmosphere, potentially influencing rainfall.
+
+ Đầu tiên là hiểu rõ hơn về cách các thành phố thực sự ảnh hưởng đến thời tiết: Khi mặt trời làm nóng đất, không khí tăng lên cũng có thể mang hơi ẩm vào khí quyển, có khả năng ảnh hưởng đến lượng mưa.
+
+
+ Scientists understand how this works across bodies of water like an ocean, but not how the heat coming off an urban area like Houston might affect the weather above.
+
+ Các nhà khoa học hiểu làm thế nào điều này hoạt động trên các vùng nước như một đại dương, nhưng không phải là sức nóng tỏa ra từ một khu vực đô thị như Houston có thể ảnh hưởng đến thời tiết ở trên như thế nào.
+
+
+ More data will in turn give researchers a better way to represent cities in larger climate models.
+
+ Nhiều dữ liệu hơn sẽ lần lượt cung cấp cho các nhà nghiên cứu một cách tốt hơn để đại diện cho các thành phố trong các mô hình khí hậu lớn hơn.
+
+
+ (Lamer hasn’t fully analyzed the data from the road trip, so she’s not ready to share results.
+
+ (Lamer chưa phân tích đầy đủ dữ liệu từ chuyến đi trên đường, vì vậy cô ấy chưa sẵn sàng chia sẻ kết quả.
+
+
+)Generally, though, as the atmosphere gets warmer, it’s able to hold more moisture, increasing the chances of extreme rain events and more flooding—which is yet another challenge for cities.
+
+) Tuy nhiên, nhìn chung, khi bầu khí quyển trở nên ấm hơn, nó có thể giữ được nhiều độ ẩm hơn, làm tăng khả năng xảy ra các sự kiện mưa cực đoan và lũ lụt nhiều hơn — đó là một thách thức khác đối với các thành phố.
+
+
+ “Transport of moisture is something that's really understudied in urban environments,” says Shandas.
+
+ Shandas nói: "Vận chuyển độ ẩm là thứ thực sự thiếu hiểu biết trong môi trường đô thị.
+
+
+ “As we start seeing greater levels of humidity, generally speaking—because of climate change, because there's just more moisture in the air—understanding moisture dynamics in urban environments will become a much bigger field.
+
+ " "Khi chúng ta bắt đầu thấy mức độ ẩm cao hơn, nói chung - vì biến đổi khí hậu, bởi vì chỉ có nhiều độ ẩm hơn trong không khí - hiểu được động lực độ ẩm trong môi trường đô thị sẽ trở thành một lĩnh vực lớn hơn nhiều.
+
+
+”The second scientific pursuit of the rolling observatory—and potentially others like it—will be to provide ultra-fine-resolution data on urban heat.
+
+" Mục tiêu khoa học thứ hai của đài quan sát lăn — và có khả năng là những đài quan sát khác tương tự — sẽ là cung cấp dữ liệu có độ phân giải cực cao về nhiệt đô thị.
+
+
+ “This kind of higher-resolution monitoring network can provide you neighborhood-level and street-level urban heat, rather than just a citywide average,” says Lei Zhao, a climate scientist at the University of Illinois at Urbana-Champaign, who studies urban climates but isn’t involved in this new work.
+
+ Lei Zhao, một nhà khoa học khí hậu tại Đại học Illinois tại Urbana-Champaign, người nghiên cứu khí hậu đô thị ở cấp độ lân cận và cấp đường phố, thay vì chỉ tham gia vào công việc mới này, cho biết: "Loại mạng lưới giám sát có độ phân giải cao hơn này có thể cung cấp cho bạn sức nóng đô thị ở cấp độ lân cận và cấp đường phố, thay vì chỉ là mức trung bình trên toàn thành phố".
+
+
+ “With a citywide average, you can hardly tell which neighborhoods are undergoing more climate threats, and it's hard for people to try to improve environmental justice.
+
+ Với mức trung bình trên toàn thành phố, bạn khó có thể biết được khu vực lân cận nào đang trải qua nhiều mối đe dọa khí hậu hơn và thật khó để mọi người cố gắng cải thiện công bằng môi trường.
+
+
+”Previous research, for instance, has shown that poorer neighborhoods are consistently and significantly hotter than wealthier ones, exposing residents to more deadly heat.
+
+" Ví dụ, nghiên cứu trước đây đã chỉ ra rằng các khu dân cư nghèo hơn luôn nóng hơn và nóng hơn đáng kể so với những khu vực giàu có hơn, khiến cư dân phải chịu cái nóng chết người hơn.
+
+
+ That’s because richer parts of town tend to have more green spaces, which cool the air, whereas low-income areas tend to have more heavy industry and big-box stores with huge parking lots, all of which absorb the sun’s energy.
+
+ Đó là bởi vì các khu vực giàu có hơn của thị trấn có xu hướng có nhiều không gian xanh hơn, làm mát không khí, trong khi các khu vực thu nhập thấp có xu hướng có nhiều ngành công nghiệp nặng hơn và các cửa hàng lớn với các bãi đậu xe khổng lồ, tất cả đều hấp thụ năng lượng của mặt trời.
+
+
+ (More problematic still, poorer people have less access to air-conditioning.
+
+ (Vẫn còn nhiều vấn đề hơn, những người nghèo hơn ít được tiếp cận với điều hòa không khí.
+
+
+) That said, there’s never any one part of town that is always cool or always hot, because temperatures can vary, even among blocks or buildings.
+
+) Điều đó nói rằng, không bao giờ có bất kỳ phần nào của thị trấn luôn mát mẻ hoặc luôn nóng, bởi vì nhiệt độ có thể thay đổi, ngay cả giữa các khối hoặc tòa nhà.
+
+
+ “That's why urban heat is challenging,” says Zhao.
+
+ "Đó là lý do tại sao sức nóng đô thị là một thách thức," Zhao nói.
+
+
+ “It's just so heterogeneous—neighborhoods-wise, buildings-wise, materials-wise, heights-wise.
+
+ "Nó quá không đồng nhất — khu phố khôn ngoan, tòa nhà khôn ngoan, vật liệu khôn ngoan, độ cao.
+
+
+ So it's not like forest or agriculture, which are more homogeneous.
+
+ Vì vậy, nó không giống như rừng hay nông nghiệp, những thứ đồng nhất hơn ".
+
+
+”Luckily, scientists know full well how to mitigate the heat island effect: with green spaces.
+
+ May mắn thay, các nhà khoa học biết rõ cách giảm thiểu hiệu ứng đảo nhiệt: với không gian xanh.
+
+
+ They not only cool the air but beautify neighborhoods and help soak up rainwater to avoid flooding.
+
+ Chúng không chỉ làm mát không khí mà còn làm đẹp các khu dân cư và giúp hấp thụ nước mưa để tránh lũ lụt.
+
+
+ Researchers are also investigating how painting roofs white and deploying reflective roadways might further bring down temperatures.
+
+ Các nhà nghiên cứu cũng đang điều tra làm thế nào sơn mái nhà màu trắng và triển khai các tuyến đường phản chiếu có thể làm giảm nhiệt độ hơn nữa.
+
+
+ At the moment, Lamer’s Brookhaven truck is the only one of its kind, wielding a unique array of instruments—although she thinks it would be useful to have a much bigger network of trackers.
+
+ Hiện tại, chiếc xe tải Brookhaven của Lamer là chiếc duy nhất thuộc loại này, sử dụng một loạt các công cụ độc đáo — mặc dù cô ấy nghĩ rằng sẽ rất hữu ích nếu có một mạng lưới theo dõi lớn hơn nhiều.
+
+
+ For example, she thinks sensors mounted on city buses might be a good way to take readings one day.
+
+ Ví dụ, cô ấy nghĩ rằng các cảm biến được gắn trên xe buýt thành phố có thể là một cách tốt để đọc một ngày nào đó.
+
+
+ Her next plan is to build another mobile observatory to cover more ground, with the idea of sending both vehicles to drive around New York City.
+
+ Kế hoạch tiếp theo của cô là xây dựng một đài quan sát di động khác để bao phủ nhiều mặt đất hơn, với ý tưởng gửi cả hai phương tiện để lái quanh thành phố New York.
+
+
+ Together, they could gather enough data to inform where to put permanent weather stations for long-term climate monitoring.
+
+ Cùng nhau, họ có thể thu thập đủ dữ liệu để thông báo nơi đặt các trạm thời tiết cố định để giám sát khí hậu lâu dài.
+
+
+ With more journeys around cities, Lamer can build better maps of how heat differs across urban areas, and how the heat island effect might influence the weather, and what that means for regional climates.
+
+ Với nhiều hành trình hơn xung quanh các thành phố, Lamer có thể xây dựng bản đồ tốt hơn về sự khác biệt của nhiệt độ giữa các khu vực đô thị và hiệu ứng đảo nhiệt có thể ảnh hưởng đến thời tiết như thế nào và điều đó có ý nghĩa như thế nào đối với khí hậu khu vực.
+
+
+ “Which neighborhoods have more vulnerable populations that need more support?” Lamer asks.
+
+ "Những khu vực lân cận nào có nhiều nhóm dân cư dễ bị tổn thương hơn cần được hỗ trợ nhiều hơn?" Lamer hỏi.
+
+
+ “I think that's why urban research is picking up some steam, because there's a need now to intervene to create mitigation strategies in cities.
+
+ Tôi nghĩ đó là lý do tại sao nghiên cứu đô thị đang tăng lên một chút, bởi vì bây giờ cần phải can thiệp để tạo ra các chiến lược giảm thiểu ở các thành phố.
+
+
+”.
+
+"

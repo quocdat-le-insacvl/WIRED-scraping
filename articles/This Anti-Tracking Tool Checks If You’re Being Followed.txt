@@ -1,0 +1,287 @@
+# This Anti-Tracking Tool Checks If You’re Being Followed
+
+
+
+Matt Edmondson, a federal agent with the Department of Homeland Security for the last 21 years, got a call for help last year.
+
+Matt Edmondson, một đặc vụ liên bang của Bộ An ninh Nội địa trong 21 năm qua, đã nhận được một lời kêu gọi giúp đỡ vào năm ngoái.
+
+
+ A friend working in another part of government—he won’t say which one—was worried that someone might have been tailing them when they were meeting a confidential informant who had links to a terrorist organization.
+
+ Một người bạn làm việc trong một bộ phận khác của chính phủ - anh ta sẽ không nói cái nào - đã lo lắng rằng ai đó có thể đã theo đuôi họ khi họ gặp một người cung cấp thông tin bí mật có liên kết với một tổ chức khủng bố.
+
+
+ If they were being followed, their source’s cover may have been blown.
+
+ Nếu họ bị theo dõi, vỏ bọc nguồn của họ có thể đã bị thổi bay.
+
+
+ “It was literally a matter of life and death,” Edmondson says.
+
+ "Đó thực sự là vấn đề của sự sống và cái chết," Edmondson nói.
+
+
+“If you’re trying to tell whether you’re being followed, there are surveillance detection routes,” Edmondson says.
+
+ Nếu bạn đang cố gắng biết liệu bạn có đang bị theo dõi hay không, có những tuyến đường phát hiện giám sát, "Edmondson nói.
+
+
+ If you’re driving, you can change lanes on a freeway, perform a U-turn, or change your route.
+
+ " Nếu bạn đang lái xe, bạn có thể chuyển làn đường trên đường cao tốc, quay đầu xe hoặc thay đổi tuyến đường của mình.
+
+
+ Each can help determine whether a car is following you.
+
+ Mỗi cái đều có thể giúp xác định xem một chiếc xe có đang theo dõi bạn hay không.
+
+
+ But it didn’t feel like enough, Edmondson says.
+
+ Nhưng nó cảm thấy như không đủ, Edmondson nói.
+
+
+ “He had those skills, but he was just looking for an electronic supplement,” Edmondson explains.
+
+ "Anh ấy có những kỹ năng đó, nhưng anh ấy chỉ đang tìm kiếm một chất bổ sung điện tử," Edmondson giải thích.
+
+
+ “He was worried about the safety of the confidential informant.
+
+ "Anh ấy lo lắng về sự an toàn của người cung cấp thông tin bí mật.
+
+
+”After not finding any existing tools that could help, Edmondson, a hacker and digital forensics expert, decided to build his own anti-tracking tool.
+
+" Sau khi không tìm thấy bất kỳ công cụ hiện có nào có thể giúp ích, Edmondson, một hacker và chuyên gia pháp y kỹ thuật số, đã quyết định xây dựng công cụ chống theo dõi của riêng mình.
+
+
+ The Raspberry Pi-powered system, which can be carried around or sit in a car, scans for nearby devices and alerts you if the same phone is detected multiple times within the past 20 minutes.
+
+ Hệ thống hỗ trợ Raspberry Pi, có thể được mang theo hoặc ngồi trong ô tô, quét các thiết bị gần đó và cảnh báo bạn nếu cùng một điện thoại được phát hiện nhiều lần trong vòng 20 phút qua.
+
+
+ In theory it can alert you if a car is tailing you.
+
+ Về lý thuyết, nó có thể cảnh báo bạn nếu một chiếc ô tô đang bám đuôi bạn.
+
+
+ Edmondson built the system using parts that cost around $200 in total, and will present the research project at the Black Hat security conference in Las Vegas this week.
+
+ Edmondson đã xây dựng hệ thống bằng cách sử dụng các bộ phận có tổng giá khoảng 200 đô la và sẽ trình bày dự án nghiên cứu tại hội nghị bảo mật Black Hat ở Las Vegas trong tuần này.
+
+
+ He’s also open-sourced its underlying code.
+
+ Anh ấy cũng có nguồn mở mã cơ bản của nó.
+
+
+The anti-tracking tool is made up of a Raspberry Pi, wireless signal detectors, and a battery pack.
+
+ Công cụ chống theo dõi được tạo thành từ Raspberry Pi, máy dò tín hiệu không dây và bộ pin.
+
+
+In recent years there’s been an explosion in the number of ways people can be tracked by domestic abusers, stalkers, or those in the murky world of government-backed espionage.
+
+ Trong những năm gần đây, đã có một sự bùng nổ về số lượng cách mọi người có thể bị theo dõi bởi những kẻ lạm dụng gia đình, những kẻ theo dõi hoặc những người trong thế giới âm u của hoạt động gián điệp do chính phủ hậu thuẫn.
+
+
+ Tracking can either be software- or hardware-based.
+
+ Theo dõi có thể dựa trên phần mềm hoặc phần cứng.
+
+
+ Stalkerware and spyware that can be installed directly on people’s phones can give attackers access to all your location data, messages, photos, videos, and more, while physical trackers—such as Apple’s AirTags—have been used to track where people are in real time.
+
+ Phần mềm theo dõi và phần mềm gián điệp có thể được cài đặt trực tiếp trên điện thoại của mọi người có thể cung cấp cho những kẻ tấn công quyền truy cập vào tất cả dữ liệu vị trí, tin nhắn, ảnh, video của bạn, v.
+
+
+ (In response to criticism, Apple has added some anti-tracking tools to AirTags.
+
+v.
+
+
+)A quick search online reveals plenty of tracking tools, which are easy to buy.
+
+, trong khi trình theo dõi vật lý — chẳng hạn như AirTags của Apple — đã được sử dụng để theo dõi vị trí của mọi người trong thời gian thực.
+
+
+ “There’s so much out there to spy on people, and so little to help people who are wondering whether they're being spied on,” Edmondson says.
+
+ (Đáp lại những lời chỉ trích, Apple đã thêm một số công cụ chống theo dõi vào AirTags.
+
+
+The homemade system works by scanning for wireless devices around it and then checking its logs to see whether they also were present within the past 20 minutes.
+
+) Tìm kiếm nhanh trực tuyến cho thấy rất nhiều công cụ theo dõi, rất dễ mua.
+
+
+ It was designed to be used while people are on the move rather than sitting in, say, a coffee shop, where it would pick up too many false readings.
+
+ Edmondson nói: "Có rất nhiều thứ ngoài kia để theo dõi mọi người, và rất ít để giúp đỡ những người đang tự hỏi liệu họ có đang bị theo dõi hay không.
+
+
+The anti-tracking tool, which can sit inside a shoebox-sized case, is made up of a few components.
+
+ " Hệ thống tự chế hoạt động bằng cách quét các thiết bị không dây xung quanh nó và sau đó kiểm tra nhật ký của nó để xem liệu chúng có còn hiện diện trong vòng 20 phút qua hay không.
+
+
+ A Raspberry Pi 3 runs its software, a Wi-Fi card looks for nearby devices, a small waterproof case protects it, and a portable charger powers the system.
+
+ Nó được thiết kế để sử dụng trong khi mọi người đang di chuyển thay vì ngồi trong một quán cà phê, nơi nó sẽ thu thập quá nhiều bài đọc sai.
+
+
+ A touchscreen shows the alerts the device produces.
+
+ Công cụ chống theo dõi, có thể nằm bên trong hộp đựng cỡ hộp đựng giày, được tạo thành từ một vài thành phần.
+
+
+ Each alert may be a sign that you are being tailed.
+
+ Raspberry Pi 3 chạy phần mềm của nó, thẻ Wi-Fi tìm kiếm các thiết bị gần đó, một vỏ chống nước nhỏ bảo vệ nó và bộ sạc di động cung cấp năng lượng cho hệ thống.
+
+
+The device runs Kismet, which is a wireless network detector, and is able to detect smartphones and tablets around it that are looking for Wi-Fi or Bluetooth connections.
+
+ Màn hình cảm ứng hiển thị các cảnh báo mà thiết bị tạo ra.
+
+
+ The phones we use are constantly looking for wireless networks around them, including networks they’ve connected to before as well as new networks.
+
+ Mỗi cảnh báo có thể là một dấu hiệu cho thấy bạn đang bị theo đuôi.
+
+
+Edmondson says Kismet makes a record of the first time it sees a device and then the most recent time it was detected.
+
+ Thiết bị chạy Kismet, là một máy dò mạng không dây và có thể phát hiện điện thoại thông minh và máy tính bảng xung quanh nó đang tìm kiếm kết nối Wi-Fi hoặc Bluetooth.
+
+
+ But to make the anti-tracking system work, he had to write code in Python to create lists of what Kismet detects over time.
+
+ Các điện thoại chúng tôi sử dụng liên tục tìm kiếm các mạng không dây xung quanh chúng, bao gồm các mạng mà chúng đã kết nối trước đây cũng như các mạng mới.
+
+
+ There are lists for devices spotted in the past five to 10 minutes, 10 to 15 minutes, and 15 to 20 minutes.
+
+ Edmondson cho biết Kismet lập kỷ lục về lần đầu tiên nhìn thấy một thiết bị và sau đó là lần gần đây nhất nó được phát hiện.
+
+
+ If a device appears twice, an alert flashes up on the screen.
+
+ Nhưng để làm cho hệ thống chống theo dõi hoạt động, anh phải viết mã bằng Python để tạo danh sách những gì Kismet phát hiện theo thời gian.
+
+
+ The system can show a phone’s MAC address, although this is not much use if it’s been randomized.
+
+ Có danh sách các thiết bị được phát hiện trong năm đến 10 phút qua, 10 đến 15 phút và 15 đến 20 phút.
+
+
+ It can also record the names of Wi-Fi networks that devices around it are looking for—a phone that’s trying to connect to a Wi-Fi network called Langley may give some clues about its owner.
+
+ Nếu một thiết bị xuất hiện hai lần, một cảnh báo sẽ nhấp nháy trên màn hình.
+
+
+ “If you have a device on you, I should see it,” he says.
+
+ Hệ thống có thể hiển thị địa chỉ MAC của điện thoại, mặc dù điều này không được sử dụng nhiều nếu nó được ngẫu nhiên hóa.
+
+
+ In an example, he showed WIRED that a device was looking for a network called SAMSUNGSMART.
+
+ Nó cũng có thể ghi lại tên của các mạng Wi-Fi mà các thiết bị xung quanh nó đang tìm kiếm — một chiếc điện thoại đang cố gắng kết nối với mạng Wi-Fi có tên Langley có thể cung cấp một số manh mối về chủ sở hữu của nó.
+
+
+To stop the system from detecting your own phone or those of other people traveling with you, it has an “ignore” list.
+
+ "Nếu bạn có một thiết bị trên người, tôi sẽ thấy nó," anh nói.
+
+
+ By tapping one of the device’s onscreen buttons, it’s possible to “ignore everything that it has already seen.
+
+ Trong một ví dụ, anh ấy đã cho WIRED thấy rằng một thiết bị đang tìm kiếm một mạng có tên SAMSUNGSMART.
+
+
+” Edmondson says that in the future, the device could be modified to send a text alert instead of showing them on the screen.
+
+To ngăn hệ thống phát hiện điện thoại của chính bạn hoặc của những người khác đi cùng bạn, nó có danh sách "bỏ qua".
+
+
+ He is also interested in adding the capability to detect tire-pressure monitoring systems that could show recurring nearby vehicles.
+
+ Bằng cách nhấn vào một trong các nút trên màn hình của thiết bị, bạn có thể "bỏ qua mọi thứ mà thiết bị đã thấy".
+
+
+ A GPS unit could also be added so you can see where you were when you were being tracked, he says.
+
+ Edmondson nói rằng trong tương lai, thiết bị có thể được sửa đổi để gửi cảnh báo bằng văn bản thay vì hiển thị chúng trên màn hình.
+
+
+“It’s purely designed to try to tell you that you’re seeing something now that you were also seeing a few minutes ago,” Edmondson says.
+
+ Ông cũng quan tâm đến việc bổ sung khả năng phát hiện các hệ thống giám sát áp suất lốp có thể hiển thị các phương tiện định kỳ gần đó.
+
+
+ “This isn’t designed to follow people in any way, shape, or form.
+
+ Một thiết bị GPS cũng có thể được thêm vào để bạn có thể biết mình đã ở đâu khi bị theo dõi, anh ấy nói.
+
+
+” The hacker says he lives near the desert, so he tested the system in his car while driving around places where nobody else was, carrying multiple phones with him that could be detected by the tool.
+
+ Nó hoàn toàn được thiết kế để cố gắng nói với bạn rằng bạn đang nhìn thấy thứ gì đó bây giờ mà bạn cũng đã nhìn thấy vài phút trước, "Edmondson nói.
+
+
+ Edmondson says he believes the tool can be effective, since even spies working for a government still carry devices.
+
+ " "Điều này không được thiết kế để theo dõi mọi người theo bất kỳ cách nào, hình dạng hay hình thức nào.
+
+
+“You still have your phone in your pocket,” he says.
+
+" Tin tặc nói rằng anh ta sống gần sa mạc, vì vậy anh ta đã thử nghiệm hệ thống trong ô tô của mình khi lái xe quanh những nơi không có ai khác, mang theo nhiều điện thoại bên mình có thể bị công cụ phát hiện.
+
+
+ “You still have your phone on the seat sitting next to you, or in the center console.
+
+ Edmondson nói rằng ông tin rằng công cụ này có thể hiệu quả, vì ngay cả các điệp viên làm việc cho một chính phủ vẫn mang theo thiết bị ".
+
+
+”Edmondson has no plans to make the device into a commercial product, but he says the design could easily be copied and reused by anyone with some technical knowledge.
+
+ Bạn vẫn còn điện thoại trong túi," anh nói.
+
+
+ Many of the parts involved are easy to obtain or may be lying around the homes of people in tech communities.
+
+ "Bạn vẫn để điện thoại trên ghế ngồi bên cạnh hoặc trong bảng điều khiển trung tâm.
+
+
+Ultimately, he says, the tech community needs to take tech-enabled tracking and surveillance more seriously.
+
+" Edmondson không có kế hoạch biến thiết bị thành một sản phẩm thương mại, nhưng ông nói rằng thiết kế có thể dễ dàng được sao chép và tái sử dụng bởi bất kỳ ai có một số kiến thức kỹ thuật.
+
+
+ “It was really kind of disheartening and depressing to look at the ratio of tools to spy on people versus tools to help you not get spied on,” he says, adding that a person close to him has been the victim of a stalker in the past.
+
+ Nhiều bộ phận liên quan rất dễ kiếm hoặc có thể nằm xung quanh nhà của những người trong cộng đồng công nghệ.
+
+
+ In the case of his clandestine friend in another government department, the anti-tracking device was useful.
+
+ Cuối cùng, ông nói, cộng đồng công nghệ cần phải theo dõi và giám sát hỗ trợ công nghệ nghiêm túc hơn.
+
+
+ “It was really designed to help someone who came to me asking for help,” he says.
+
+ "Thật sự là một điều đáng thất vọng và chán nản khi nhìn vào tỷ lệ các công cụ để theo dõi mọi người so với các công cụ để giúp bạn không bị theo dõi," anh nói và nói thêm rằng một người thân thiết với anh đã từng là nạn nhân của một kẻ theo dõi trong quá khứ.
+
+
+ Fortunately for Edmondson’s friend (and his source), they used it in the real world, and the device didn’t find anyone following them.
+
+ Trong trường hợp của người bạn bí mật của mình trong một cơ quan chính phủ khác, thiết bị chống theo dõi rất hữu ích.
+
+
+.
+
+ "Nó thực sự được thiết kế để giúp đỡ một người nào đó đã đến gặp tôi để yêu cầu giúp đỡ," anh nói

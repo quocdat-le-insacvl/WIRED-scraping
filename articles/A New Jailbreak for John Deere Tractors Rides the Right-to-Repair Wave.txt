@@ -1,0 +1,191 @@
+# A New Jailbreak for John Deere Tractors Rides the Right-to-Repair Wave
+
+
+
+farmers around the world have turned to tractor hacking so they can bypass the digital locks that manufacturers impose on their vehicles.
+
+nông dân trên khắp thế giới đã chuyển sang hack máy kéo để họ có thể vượt qua các khóa kỹ thuật số mà các nhà sản xuất áp đặt cho phương tiện của họ.
+
+
+ Like insulin pump “looping” and iPhone jailbreaking, this allows farmers to modify and repair the expensive equipment that’s vital to their work, the way they could with analog tractors.
+
+ Giống như "vòng lặp" bơm insulin và bẻ khóa iPhone, điều này cho phép nông dân sửa đổi và sửa chữa các thiết bị đắt tiền quan trọng đối với công việc của họ, theo cách họ có thể làm với máy kéo analog.
+
+
+ At the DefCon security conference in Las Vegas on Saturday, the hacker known as Sick Codes is presenting a new jailbreak for John Deere & Co.
+
+ Tại hội nghị bảo mật DefCon ở Las Vegas hôm thứ Bảy, hacker được gọi là Sick Codes đang trình bày một bản bẻ khóa mới cho máy kéo John Deere &Co.
+
+
+ tractors that allows him to take control of multiple models through their touchscreens.
+
+ cho phép anh ta kiểm soát nhiều mô hình thông qua màn hình cảm ứng của họ.
+
+
+The finding underscores the security implications of the right-to-repair movement.
+
+ Phát hiện này nhấn mạnh ý nghĩa an ninh của phong trào quyền sửa chữa.
+
+
+ The tractor exploitation that Sick Codes uncovered isn't a remote attack, but the vulnerabilities involved represent fundamental insecurities in the devices that could be exploited by malicious actors or potentially chained with other vulnerabilities.
+
+ Việc khai thác máy kéo mà Sick Codes phát hiện ra không phải là một cuộc tấn công từ xa, nhưng các lỗ hổng liên quan thể hiện sự bất an cơ bản trong các thiết bị có thể bị khai thác bởi các tác nhân độc hại hoặc có khả năng bị xiềng xích với các lỗ hổng khác.
+
+
+ Securing the agriculture industry and food supply chain is crucial, as incidents like the 2021 JBS Meat ransomware attack have shown.
+
+ Đảm bảo ngành nông nghiệp và chuỗi cung ứng thực phẩm là rất quan trọng, vì các sự cố như cuộc tấn công ransomware JBS Meat năm 2021 đã cho thấy.
+
+
+ At the same time, though, vulnerabilities like the ones that Sick Codes found help farmers do what they need to do with their own equipment.
+
+ Tuy nhiên, đồng thời, các lỗ hổng như những lỗ hổng mà Sick Codes tìm thấy giúp nông dân làm những gì họ cần làm với thiết bị của chính họ.
+
+
+John Deere did not respond to WIRED's request for comment about the research.
+
+ John Deere đã không trả lời yêu cầu bình luận của WIRED về nghiên cứu.
+
+
+ Sick Codes, an Australian who lives in Asia, presented at DefCon in 2021 about tractor application programming interfaces and operating system bugs.
+
+ Sick Codes, một người Úc sống ở châu Á, đã trình bày tại DefCon vào năm 2021 về giao diện lập trình ứng dụng máy kéo và lỗi hệ điều hành.
+
+
+ After he made his research public, tractor companies, including John Deere, started fixing some of the flaws.
+
+ Sau khi ông công khai nghiên cứu của mình, các công ty máy kéo, bao gồm cả John Deere, bắt đầu sửa chữa một số sai sót.
+
+
+ “The right-to-repair side was a little bit opposed to what I was trying to do,” he tells WIRED.
+
+ "Phía quyền sửa chữa có một chút trái ngược với những gì tôi đang cố gắng làm," anh nói với WIRED.
+
+
+ “I heard from some farmers; one guy emailed me and was like ‘You’re fucking up all of our stuff!’ So I figured I would put my money where my mouth is and actually prove to farmers that they can root the devices.
+
+ "Tôi đã nghe từ một số nông dân; một anh chàng đã gửi email cho tôi và giống như 'Bạn đang làm hỏng tất cả những thứ của chúng tôi!' Vì vậy, tôi nghĩ rằng tôi sẽ đặt tiền của mình ở nơi miệng của tôi và thực sự chứng minh với nông dân rằng họ có thể root các thiết bị.
+
+
+"This year, Sick Codes says that while he is primarily concerned about world food security and the exposure that comes from vulnerable farming equipment, he also sees important value in letting farmers fully control their own equipment.
+
+ Năm nay, Sick Codes nói rằng trong khi ông chủ yếu quan tâm đến an ninh lương thực thế giới và sự tiếp xúc đến từ các thiết bị canh tác dễ bị tổn thương, ông cũng nhận thấy giá trị quan trọng trong việc cho phép nông dân kiểm soát hoàn toàn thiết bị của chính họ.
+
+
+ “Liberate the tractors!” he says.
+
+ "Giải phóng máy kéo!" anh nói.
+
+
+After years of controversy in the US over the “right to repair” the equipment one purchases, the movement seems to have reached a turning point.
+
+ Sau nhiều năm tranh cãi ở Mỹ về "quyền sửa chữa" thiết bị mà người ta mua, phong trào này dường như đã đạt đến một bước ngoặt.
+
+
+ The White House issued an executive order last year directing the Federal Trade Commission to increase enforcement efforts over practices like voiding warranties for outside repair.
+
+ Nhà Trắng đã ban hành một lệnh hành pháp vào năm ngoái chỉ đạo Ủy ban Thương mại Liên bang tăng cường các nỗ lực thực thi đối với các hoạt động như vô hiệu hóa bảo hành cho việc sửa chữa bên ngoài.
+
+
+ That, combined with New York state passing its own right-to-repair law and creative activist pressure, has generated unprecedented momentum for the movement.
+
+ Điều đó, kết hợp với việc bang New York thông qua luật sửa chữa quyền của riêng mình và áp lực của các nhà hoạt động sáng tạo, đã tạo ra động lực chưa từng có cho phong trào.
+
+
+ Facing mounting pressure, John Deere announced in March that it would make more of its repair software available to equipment owners.
+
+ Đối mặt với áp lực ngày càng tăng, John Deere tuyên bố vào tháng XNUMX rằng họ sẽ cung cấp nhiều phần mềm sửa chữa hơn cho các chủ sở hữu thiết bị.
+
+
+ The company also said at the time that it will release an “enhanced customer solution” next year so customers and mechanics can download and apply official software updates for Deere equipment themselves, rather than having John Deere unilaterally apply the patches remotely or force farmers to bring products to authorized dealerships.
+
+ Công ty cũng cho biết vào thời điểm đó rằng họ sẽ phát hành "giải pháp khách hàng nâng cao" vào năm tới để khách hàng và thợ máy có thể tải xuống và áp dụng các bản cập nhật phần mềm chính thức cho chính thiết bị Deere, thay vì để John Deere đơn phương áp dụng các bản vá lỗi từ xa hoặc buộc nông dân mang sản phẩm đến các đại lý được ủy quyền".
+
+
+“Farmers prefer the older equipment simply because they want reliability.
+
+ Nông dân thích các thiết bị cũ hơn đơn giản vì họ muốn độ tin cậy.
+
+
+ They don’t want stuff to go wrong at the most important part of the year when they have to pull stuff out of the ground,” Sick Codes says.
+
+ Họ không muốn mọi thứ trở nên sai lầm vào khoảng thời gian quan trọng nhất trong năm khi họ phải kéo mọi thứ ra khỏi mặt đất, "Sick Codes nói.
+
+
+ “So that's what we should all want too.
+
+ " "Vì vậy, đó cũng là điều mà tất cả chúng ta cũng nên muốn.
+
+
+ We want farmers to be able to repair their stuff for when things go wrong, and now that means being able to repair or make decisions about the software in their tractors.
+
+ Chúng tôi muốn nông dân có thể sửa chữa đồ đạc của họ khi có sự cố, và bây giờ điều đó có nghĩa là có thể sửa chữa hoặc đưa ra quyết định về phần mềm trong máy kéo của họ ".
+
+
+”To develop his jailbreak, Sick Codes got his hands on numerous generations of John Deere tractor control touchscreen consoles.
+
+ Để phát triển bản bẻ khóa của mình, Sick Codes đã có trong tay nhiều thế hệ bảng điều khiển màn hình cảm ứng điều khiển máy kéo John Deere.
+
+
+ But ultimately he focused on a few models, including the widely deployed 2630 and 4240 models, for the exploit he is presenting.
+
+ Nhưng cuối cùng, ông tập trung vào một vài mô hình, bao gồm các mô hình 2630 và 4240 được triển khai rộng rãi, cho việc khai thác mà ông đang trình bày.
+
+
+ It took experimentation on a number of touchscreen circuit boards over many months to find bypasses to John Deere's dealer authentication requirements, but eventually Sick Codes was able to game a reboot check to restore the device as if it were being accessed by a certified dealer.
+
+ Phải mất thử nghiệm trên một số bảng mạch màn hình cảm ứng trong nhiều tháng để tìm ra các đường vòng cho các yêu cầu xác thực đại lý của John Deere, nhưng cuối cùng Sick Codes đã có thể chơi kiểm tra khởi động lại để khôi phục thiết bị như thể nó đang được truy cập bởi một đại lý được chứng nhận.
+
+
+ He found that when the system thought it was in such an environment, it would offer more than 1.
+
+ Ông phát hiện ra rằng khi hệ thống nghĩ rằng nó ở trong một môi trường như vậy, nó sẽ cung cấp hơn 1.
+
+
+5 GB worth of logs that were meant to help authorized service providers diagnose problems.
+
+5 GB nhật ký nhằm giúp các nhà cung cấp dịch vụ được ủy quyền chẩn đoán sự cố.
+
+
+ The logs also revealed the path to another potential timing attack that might grant deeper access.
+
+ Các bản ghi cũng tiết lộ đường dẫn đến một cuộc tấn công thời gian tiềm năng khác có thể cấp quyền truy cập sâu hơn.
+
+
+ Sick Codes soldered controllers directly onto the circuit board and eventually got his attack to bypass the system's protections.
+
+ Sick Codes đã hàn các bộ điều khiển trực tiếp lên bảng mạch và cuối cùng đã tấn công để vượt qua các biện pháp bảo vệ của hệ thống.
+
+
+ “I launched the attack, and two minutes later a terminal pops up,” Sick Codes says of the program used to access a computer's command-line interface.
+
+ "Tôi đã khởi động cuộc tấn công và hai phút sau, một thiết bị đầu cuối bật lên," Sick Codes nói về chương trình được sử dụng để truy cập giao diện dòng lệnh của máy tính.
+
+
+ “I had root access, which is rare in Deere land.
+
+ "Tôi đã có quyền truy cập root, điều hiếm thấy ở vùng đất Deere.
+
+
+”The approach requires physical access to the circuit board, but Sick Codes says it would be possible to develop a tool based on the vulnerabilities to more easily execute the jailbreak.
+
+" Cách tiếp cận này yêu cầu quyền truy cập vật lý vào bảng mạch, nhưng Sick Codes cho biết có thể phát triển một công cụ dựa trên các lỗ hổng để thực hiện bẻ khóa dễ dàng hơn.
+
+
+ Mostly he says he is curious to see how John Deere will react.
+
+ Chủ yếu là anh ấy nói rằng anh ấy tò mò muốn xem John Deere sẽ phản ứng như thế nào.
+
+
+ He's unsure how comprehensively the company can patch the flaws without implementing full disk encryption, an addition that would mean a significant system overhaul in new tractor designs and likely wouldn't be deployed in existing equipment.
+
+ Anh ấy không chắc công ty có thể vá các lỗ hổng một cách toàn diện như thế nào mà không cần triển khai mã hóa toàn bộ đĩa, một bổ sung có nghĩa là một cuộc đại tu hệ thống quan trọng trong các thiết kế máy kéo mới và có khả năng sẽ không được triển khai trong các thiết bị hiện có.
+
+
+The first priority? Running custom farm-themed Doom on the tractor, of course.
+
+ Ưu tiên hàng đầu? Tất nhiên, chạy Doom theo chủ đề trang trại tùy chỉnh trên máy kéo.
+
+
+.
+

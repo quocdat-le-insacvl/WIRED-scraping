@@ -1,0 +1,183 @@
+# A Flaw in the VA’s Medical Records Platform May Put Patients at Risk
+
+
+
+the U.
+
+Bộ Cựu chiến binh Hoa Kỳ điều hành một số chương trình công nghệ thú vị, nhưng nó không được biết đến là một tổ chức linh hoạt hoặc nhanh nhẹn.
+
+
+S.
+
+ Và khi nói đến hồ sơ y tế điện tử, VA đã có một bộ phim truyền hình chậm nhưng cổ phần cao diễn ra trong nhiều năm.
+
+
+ Department of Veterans Affairs runs some interesting technology programs, but it's not known for being a flexible or nimble organization.
+
+ Nền tảng hồ sơ của bộ, VistA, được thành lập lần đầu tiên vào cuối những năm 1970, được ca ngợi là hiệu quả, đáng tin cậy và thậm chí là sáng tạo, nhưng nhiều thập kỷ đầu tư kém đã làm xói mòn nền tảng này.
+
+
+ And when it comes to electronic medical records, the VA has had a slow but high-stakes drama playing out for years.
+
+ Nhiều lần trong suốt những năm 2010, VA đã cho biết họ sẽ thay thế VistA (viết tắt của Hệ thống Thông tin và Kiến trúc Công nghệ Cựu chiến binh) bằng một sản phẩm thương mại và lần lặp lại mới nhất của nỗ lực này hiện đang diễn ra.
+
+
+ The department's records platform, VistA, first instituted in the late 1970s, is lauded as effective, reliable, and even innovative, but decades of underinvestment have eroded the platform.
+
+ Tuy nhiên, trong khi đó, các nhà nghiên cứu bảo mật đang tìm ra các vấn đề bảo mật thực sự ở VistA có thể ảnh hưởng đến việc chăm sóc bệnh nhân.
+
+
+ Multiple times throughout the 2010s, the VA has said it will replace VistA (short for Veterans Information Systems and Technology Architecture) with a commercial product, and the latest iteration of this effort is currently ongoing.
+
+ Họ muốn tiết lộ chúng cho VA và khắc phục các vấn đề, nhưng họ chưa tìm ra cách để làm điều đó vì bản thân VistA đang bị kết án tử hình.
+
+
+ In the meantime, however, security researchers are finding real security issues in VistA that could affect patient care.
+
+ Tại hội nghị bảo mật DefCon ở Las Vegas hôm thứ Bảy, Zachary Minneker, một nhà nghiên cứu bảo mật có kiến thức nền tảng về CNTT chăm sóc sức khỏe, đã trình bày những phát hiện về một điểm yếu đáng lo ngại trong cách VistA mã hóa thông tin đăng nhập nội bộ.
+
+
+ They want to disclose them to the VA and get the issues fixed, but they haven't found a way to do it because VistA itself is on death row.
+
+ Nếu không có thêm một lớp mã hóa mạng (như TLS, hiện đang phổ biến trên web), Minneker nhận thấy rằng mã hóa tự phát triển được phát triển cho VistA vào những năm 1990 để bảo vệ kết nối giữa máy chủ mạng và các máy tính cá nhân có thể dễ dàng bị đánh bại.
+
+
+At the DefCon security conference in Las Vegas on Saturday, Zachary Minneker, a security researcher with a background in health care IT, presented findings about a worrying weakness in how VistA encrypts internal credentials.
+
+ Trên thực tế, điều này có thể cho phép kẻ tấn công trong mạng lưới của bệnh viện mạo danh nhà cung cấp dịch vụ chăm sóc sức khỏe trong VistA và có thể sửa đổi hồ sơ bệnh nhân, gửi chẩn đoán hoặc thậm chí kê đơn thuốc về mặt lý thuyết".
+
+
+ Without an additional layer of network encryption (like TLS, which is now ubiquitous across the web), Minneker found that the home-brewed encryption developed for VistA in the 1990s to protect the connection between the network server and individual computers can be easily defeated.
+
+ Nếu bạn ở liền kề trên mạng mà không có TLS, bạn có thể bẻ khóa mật khẩu, thay thế các gói, sửa đổi cơ sở dữ liệu.
+
+
+ In practice, this could allow an attacker on a hospital's network to impersonate a health care provider within VistA, and possibly modify patient records, submit diagnoses, or even theoretically prescribe medications.
+
+ Trong trường hợp xấu nhất, về cơ bản bạn sẽ có thể giả dạng bác sĩ, "Minneker nói với WIRED.
+
+
+“If you were adjacent on the network without TLS, you could crack passwords, replace packets, make modifications to the database.
+
+ "Đây không phải là một cơ chế kiểm soát truy cập tốt cho một hệ thống hồ sơ y tế điện tử trong kỷ nguyên hiện đại.
+
+
+ In the worst-case scenario, you'd essentially be able to masquerade as a doctor,” Minneker tells WIRED.
+
+" Minneker, một kỹ sư bảo mật tại công ty security innovation tập trung vào phần mềm, chỉ thảo luận ngắn gọn về những phát hiện trong bài nói chuyện DefCon của mình, chủ yếu tập trung vào đánh giá bảo mật rộng hơn về VistA và ngôn ngữ lập trình cơ sở dữ liệu MUMPS làm nền tảng cho nó.
+
+
+ “This is just not a good access control mechanism for an electronic medical record system in the modern era.
+
+ Anh ấy đã cố gắng chia sẻ phát hiện với VA kể từ tháng XNUMX thông qua chương trình tiết lộ lỗ hổng của bộ và tùy chọn tiết lộ của bên thứ ba Bugcrowd.
+
+
+”Minneker, who is a security engineer at the software-focused firm Security Innovation, only briefly discussed the findings during his DefCon talk, which was mostly focused on a broader security assessment of VistA and the database programming language MUMPS that underlies it.
+
+ Nhưng VistA nằm ngoài phạm vi cho cả hai chương trình.
+
+
+ He has been attempting to share the finding with the VA since January through the department's vulnerability disclosure program and Bugcrowd third-party disclosure option.
+
+ Điều này có thể là do VA hiện đang cố gắng loại bỏ VistA bằng cách sử dụng một hệ thống hồ sơ y tế mới do Cerner Corporation thiết kế.
+
+
+ But VistA is out of scope for both programs.
+
+ Vào tháng 2023, VA thông báo rằng họ sẽ trì hoãn việc triển khai chung hệ thống Cerner trị giá 10 tỷ đô la cho đến năm XNUMX, bởi vì việc triển khai thí điểm đã bị cản trở bởi sự cố ngừng hoạt động và đã dẫn đến gần 150 trường hợp bệnh nhân có thể bị tổn hại.
+
+
+ This may be because the VA is currently attempting to phase out VistA using a new medical records system designed by Cerner Corporation.
+
+ VA đã không trả lại nhiều yêu cầu bình luận của WIRED về những phát hiện của Minneker hoặc tình huống rộng lớn hơn với việc tiết lộ các lỗ hổng trong VistA.
+
+
+ In June, the VA announced that it would delay a general rollout of the $10 billion Cerner system until 2023, because pilot deployments have been plagued by outages and have led to almost 150 cases in which patients could potentially have been harmed.
+
+ Tuy nhiên, trong khi đó, VistA không chỉ được triển khai trên toàn hệ thống chăm sóc sức khỏe VA mà còn được sử dụng ở những nơi khác".
+
+
+ The VA did not return WIRED's multiple requests for comment about Minneker's findings or the broader situation with disclosing vulnerabilities in VistA.
+
+ Có tất cả các loại vấn đề với VA, nhưng mọi người đều yêu thích VistA.
+
+
+ In the meantime, though, VistA is not only deployed across the VA health care system, it is also used elsewhere.
+
+ Đó là một trong những EMR tốt nhất trên thế giới.
+
+
+“There are all sorts of problems with the VA, but everybody loves VistA.
+
+ Nó cực kỳ linh hoạt, trong khi hầu hết các EMR hoàn toàn không linh hoạt, "Minneker nói.
+
+
+ It's one of the best EMRs in the world.
+
+ " "Và có những bệnh viện khác đang điều hành VistA không liên quan đến VA.
+
+
+ It’s extremely flexible, whereas most EMRs are totally inflexible,” Minneker says.
+
+" Minneker đã thực hiện đánh giá của mình về VistA bằng cách sử dụng một kỹ thuật kiểm tra phần mềm tự động được gọi là fuzzing, cũng như xem xét mã thủ công.
+
+
+ “And there are other hospitals that are running VistA that are not VA-related.
+
+ Ông đã có thể đánh giá mã nguồn của VistA vì VA thường xuyên đăng phiên bản "Đạo luật Tự do Thông tin" bao gồm tất cả các bản vá được phát hành cho VistA.
+
+
+”Minneker did his assessment of VistA using an automated software-testing technique known as fuzzing, as well as manual code review.
+
+Các nhà nghiên cứu khác đã cố gắng nâng cao nhận thức về tầm quan trọng của việc bảo mật QUAI BỊ và VistA bằng cách đầu tư nhiều hơn vào công nghệ thay vì ít hơn.
+
+
+ He was able to assess VistA's source code because the VA regularly posts a “Freedom of Information Act” version that includes all patches released for VistA.
+
+ Tại hội nghị phần mềm nguồn mở OSCON năm 2010, nhà nghiên cứu dữ liệu chăm sóc sức khỏe Fred Trotter đã lập luận rằng VistA không nên bị xóa sổ, với giá trị của nó".
+
+
+Other researchers have attempted to raise awareness about the importance of securing MUMPS and VistA by investing more in the technology instead of less.
+
+ Một trong những điều thực sự khiến tôi thất vọng với những lời chỉ trích về QUAI BỊ và VistA là, 'Đó là phần mềm cũ,' Trotter nói.
+
+
+ At the open source software conference OSCON in 2010, health-care data researcher Fred Trotter argued that VistA shouldn't be written off, given its value.
+
+ "Điều này thật khó hiểu đối với tôi vì nó không giống như một già.
+
+
+“One of the things that really frustrates me with criticisms of MUMPS and VistA is, ‘It’s old software,’” Trotter said.
+
+ đó sẽ không săn mồi nữa vì nó quá già.
+
+
+ “This is confusing to me because it’s not like an old dog.
+
+ Chà, nếu phần mềm chỉ đơn thuần là cũ nhưng vẫn hoạt động thực sự tốt, chúng tôi có một cái tên cho điều đó: Nó 'ổn định.
+
+
+ That dog won’t hunt anymore because it’s too old.
+
+'" Câu hỏi đặt ra cho Minneker bây giờ là liệu bài thuyết trình của ông ấy có thúc đẩy cuộc thảo luận công khai về bảo mật VistA hay không và minh họa sự cần thiết phải tiếp tục hỗ trợ và bảo vệ hệ thống khổng lồ miễn là nó còn được sử dụng ".
+
+
+ Well, if software is merely old but still works really well, we have a name for that: It’s ‘stable.
+
+ VistA là một hiện tượng, và nó có thể được sử dụng rộng rãi hơn thay vì ngừng hoạt động - đó là một giấc mơ đẹp, "Minneker nói.
+
+
+’”The question for Minneker now is whether his presentation will spur public discussion about VistA security and illustrate the need to continue supporting and defending the massive system as long as it is in use.
+
+ " "Tôi chỉ không thể có lương tâm tốt để im lặng về vấn đề này.
+
+
+“VistA is phenomenal, and it could be used more broadly instead of being decommissioned—it’s a beautiful dream,” Minneker says.
+
+".
+
+
+ “I just couldn't in good conscience be quiet about this problem.
+
+
+”

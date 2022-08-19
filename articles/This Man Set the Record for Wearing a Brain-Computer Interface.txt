@@ -1,0 +1,375 @@
+# This Man Set the Record for Wearing a Brain-Computer Interface
+
+
+
+Nathan Copeland considers himself a cyborg.
+
+Nathan Copeland tự coi mình là một người máy.
+
+
+ The 36-year-old has lived with a brain-computer interface for more than seven years and three months.
+
+ Người đàn ông 36 tuổi đã sống với giao diện não-máy tính trong hơn bảy năm và ba tháng.
+
+
+ As of today—August 17—that’s the longest anyone has had an implant like this.
+
+ Tính đến hôm nay - ngày 17 tháng XNUMX - đó là thời gian dài nhất mà bất kỳ ai đã cấy ghép như thế này.
+
+
+ An electrode array the size of a pencil eraser, surgically installed in his motor cortex, translates his neural impulses into commands that allow him to control external devices: a computer, video games, and a robotic arm he can move with just his thoughts.
+
+ Một mảng điện cực có kích thước bằng một cục tẩy bút chì, được phẫu thuật cài đặt trong vỏ não vận động của anh ta, chuyển các xung thần kinh của anh ta thành các lệnh cho phép anh ta điều khiển các thiết bị bên ngoài: một máy tính, trò chơi điện tử và một cánh tay robot mà anh ta có thể di chuyển chỉ với suy nghĩ của mình.
+
+
+A car accident in 2004 left Copeland paralyzed from the chest down, unable to move or feel his limbs.
+
+ Một vụ tai nạn xe hơi vào năm 2004 đã khiến Copeland bị liệt từ ngực trở xuống, không thể di chuyển hoặc cảm nhận được chân tay của mình.
+
+
+ In 2014, he joined a study at the University of Pittsburgh for people with major spinal cord injuries to see whether a brain-computer interface, or BCI, could restore some of the functionality he’d lost.
+
+ Vào năm 2014, anh ấy đã tham gia một nghiên cứu tại Đại học Pittsburgh dành cho những người bị chấn thương tủy sống lớn để xem liệu giao diện não-máy tính, hoặc BCI, có thể khôi phục một số chức năng mà anh ấy đã mất hay không.
+
+
+ He didn’t hesitate to sign up, even though it would require brain surgery—and nobody knew how long the device would keep working.
+
+ Anh ấy đã không ngần ngại đăng ký, mặc dù nó sẽ yêu cầu phẫu thuật não — và không ai biết thiết bị sẽ tiếp tục hoạt động trong bao lâu.
+
+
+ “When I started, they said, ‘Oh, it’ll probably last five years.
+
+ "Khi tôi bắt đầu, họ nói, 'Ồ, nó có thể sẽ kéo dài năm năm.
+
+
+’ And that five years was based on monkey data, because no human had ever done it,” he says.
+
+' Và 5 năm đó dựa trên dữ liệu của khỉ, bởi vì chưa có con người nào từng làm điều đó", ông nói.
+
+
+Nathan Copeland controls a tablet using just his thoughts.
+
+ Nathan Copeland điều khiển một máy tính bảng chỉ bằng suy nghĩ của mình.
+
+
+That Copeland’s implant is still working—and hasn’t caused any major side effects or complications—is promising for the field.
+
+ Việc cấy ghép Copeland vẫn đang hoạt động — và không gây ra bất kỳ tác dụng phụ hoặc biến chứng lớn nào — đầy hứa hẹn cho lĩnh vực này.
+
+
+ It’s a sign that the devices, which have been in development since the 1960s but are still experimental, are moving closer to commercial reality for patients with severe disabilities.
+
+ Đó là một dấu hiệu cho thấy các thiết bị, đã được phát triển từ những năm 1960 nhưng vẫn đang được thử nghiệm, đang tiến gần hơn đến thực tế thương mại cho bệnh nhân khuyết tật nặng.
+
+
+ “It feels like it’s on the borderline of being practical,” says Jane Huggins, director of the University of Michigan Direct Brain Interface Laboratory, who’s not affiliated with the Pittsburgh study.
+
+ Jane Huggins, giám đốc Phòng thí nghiệm Giao diện Não Trực tiếp của Đại học Michigan, người không liên kết với nghiên cứu của Pittsburgh, cho biết: "Có cảm giác như nó đang ở ranh giới của việc thực tế.
+
+
+But questions still remain about the long-term durability of the implanted arrays—how much their performance will erode over time, and whether they could be upgraded.
+
+ " Nhưng vẫn còn nhiều câu hỏi về độ bền lâu dài của các mảng được cấy ghép — hiệu suất của chúng sẽ bị xói mòn bao nhiêu theo thời gian và liệu chúng có thể được nâng cấp hay không.
+
+
+ “It would be utterly maddening to have function restored for years, then lose it again.
+
+ "Sẽ là hoàn toàn điên rồ nếu chức năng được khôi phục trong nhiều năm, sau đó mất nó một lần nữa.
+
+
+ And that is always a concern with implanted devices that may require service,” Huggins says.
+
+ Và đó luôn là mối quan tâm với các thiết bị cấy ghép có thể yêu cầu dịch vụ," Huggins nói.
+
+
+Copeland received his first array in 2015 and later gained three more as part of the study, giving him a total of four active implants.
+
+ Copeland đã nhận được mảng đầu tiên của mình vào năm 2015 và sau đó đã đạt được thêm ba mảng nữa như một phần của nghiên cứu, mang lại cho anh ta tổng cộng bốn lần cấy ghép đang hoạt động.
+
+
+ Called Utah arrays, they are made of hard silicon and look a bit like the bristly part of a hairbrush.
+
+ Được gọi là mảng Utah, chúng được làm bằng silicon cứng và trông hơi giống phần lông cứng của bàn chải tóc.
+
+
+ A standard array is a square grid with 100 tiny needles, each about a millimeter long and coated with conductive metal.
+
+ Một mảng tiêu chuẩn là một lưới vuông với 100 kim nhỏ, mỗi kim dài khoảng một milimet và được phủ bằng kim loại dẫn điện.
+
+
+ Because neurons produce electrical fields when they communicate with one another, scientists are able to use these arrays to capture and record activity from hundreds of nearby neurons.
+
+ Bởi vì các tế bào thần kinh tạo ra điện trường khi chúng giao tiếp với nhau, các nhà khoa học có thể sử dụng các mảng này để nắm bắt và ghi lại hoạt động từ hàng trăm tế bào thần kinh gần đó.
+
+
+To build a brain-computer interface, researchers have to translate those neural signals into digital commands that let the wearer drive a prosthetic limb or a computer.
+
+ Để xây dựng giao diện não-máy tính, các nhà nghiên cứu phải dịch những tín hiệu thần kinh đó thành các lệnh kỹ thuật số cho phép người đeo lái một chi giả hoặc một máy tính.
+
+
+ The system Copeland uses, called BrainGate, involves an implanted array, a cable that runs from a nickel-sized pedestal on his head to an external device that amplifies his neural signals, and a computer that runs software to decode those signals.
+
+ Hệ thống mà Copeland sử dụng, được gọi là BrainGate, liên quan đến một mảng được cấy ghép, một dây cáp chạy từ bệ có kích thước bằng niken trên đầu đến một thiết bị bên ngoài khuếch đại tín hiệu thần kinh của anh ta và một máy tính chạy phần mềm để giải mã những tín hiệu đó.
+
+
+Richard Normann first conceived of the Utah array in the 1980s as a professor of bioengineering at the University of Utah, where he was interested in finding a way to restore vision.
+
+ Richard Normann lần đầu tiên hình thành mảng Utah vào những năm 1980 với tư cách là giáo sư kỹ thuật sinh học tại Đại học Utah, nơi ông quan tâm đến việc tìm cách khôi phục thị lực.
+
+
+ It’s since become the gold standard for brain-computer interface studies.
+
+ Kể từ đó, nó đã trở thành tiêu chuẩn vàng cho các nghiên cứu giao diện não-máy tính.
+
+
+ “The whole field is built on the Utah array,” says Matt Angle, CEO of Paradromics, a Texas-based BCI company.
+
+ "Toàn bộ lĩnh vực được xây dựng trên mảng Utah," Matt Angle, Giám đốc điều hành của Paradromics, một công ty BCI có trụ sở tại Texas cho biết.
+
+
+ “The fact that we’ve gone so long on a device that was designed in the ’80s and ’90s speaks to how much ahead of its time it was.
+
+ "Thực tế là chúng tôi đã đi quá lâu trên một thiết bị được thiết kế vào những năm 80 và 90 nói lên rằng nó đã đi trước thời đại bao nhiêu.
+
+
+”A close-up of a Utah array.
+
+" Cận cảnh một mảng Utah.
+
+
+The Utah array is a 4.
+
+ Mảng Utah là một lưới vuông 4,2 mm với 100 điện cực silicon.
+
+
+2 millimeter square grid with 100 silicon electrodes.
+
+ Năm 2004, Matt Nagle trở thành người bị liệt đầu tiên được cấy ghép với một mảng Utah; nó cho phép anh ta di chuyển một con trỏ máy tính, vận hành TV, kiểm tra email và làm cho một bàn tay giả mở và đóng.
+
+
+In 2004, Matt Nagle became the first paralyzed person to be implanted with a Utah array; it allowed him to move a computer cursor, operate a TV, check email, and make a prosthetic hand open and close.
+
+ Cấy ghép của Nagle đã được loại bỏ sau một năm, theo giao thức của nghiên cứu mà anh ấy đang tham gia.
+
+
+ Nagle’s implant was removed after a year, following the protocol of the study he was participating in.
+
+ Bây giờ có hơn 30 người tham gia nghiên cứu trên khắp thế giới mặc BCI cấy ghép.
+
+
+ Now there are more than 30 study participants around the world wearing implanted BCIs.
+
+ Ian Burkhart trước đó đã giữ kỷ lục về cấy ghép BCI lâu nhất cho đến khi anh ta bị loại bỏ vào năm 2021 khi nghiên cứu của anh ta kết thúc.
+
+
+ Ian Burkhart previously held the record for the longest BCI implant until he had his removed in 2021 when his research study ended.
+
+ Với rất ít người được trang bị những thiết bị này, tuổi thọ của chúng vẫn chưa được biết.
+
+
+ With so few people outfitted with these devices, their longevity is still unknown.
+
+ Cho đến nay, mảng Utah đã tồn tại đến 10 năm ở khỉ.
+
+
+ So far, the Utah array has lasted up to 10 years in monkeys.
+
+ Trong trường hợp của Copeland, các mảng của anh ấy vẫn đang hoạt động, nhưng không tốt như trong năm đầu tiên hoặc lâu hơn sau khi được cấy ghép, Robert Gaunt, một kỹ sư y sinh tại Đại học Pittsburgh và là thành viên của nhóm nghiên cứu copeland cho biết.
+
+
+ In Copeland’s case, his arrays are still working, but not as well as in the first year or so after being implanted, says Robert Gaunt, a biomedical engineer at the University of Pittsburgh and a member of Copeland’s research team.
+
+ Gaunt nói: "Cơ thể là một nơi rất khó để đưa các thiết bị điện tử và hệ thống được thiết kế vào.
+
+
+ “The body is a very difficult place to put electronics and engineered systems into,” Gaunt says.
+
+ " "Đó là một môi trường hung hăng, và cơ thể luôn cố gắng loại bỏ những thứ này.
+
+
+ “It’s an aggressive environment, and the body is always trying to get rid of these things.
+
+" Các mảng được cấy ghép có thể kích thích phản ứng miễn dịch trong mô thần kinh bao quanh các điện cực — các đầu dò nhọn dính vào não.
+
+
+”Implanted arrays can provoke an immune response in the neural tissue that surrounds the electrodes—the spiky probes that stick into the brain.
+
+ Các nghiên cứu đã chỉ ra rằng tình trạng viêm này có thể dẫn đến giảm chất lượng tín hiệu.
+
+
+ Studies have shown that this inflammation can lead to decreased signal quality.
+
+ Và mô sẹo có thể hình thành xung quanh cấy ghép não, điều này cũng ảnh hưởng đến khả năng thu tín hiệu từ các tế bào thần kinh gần đó.
+
+
+ And scar tissue can form around brain implants, which also affects their ability to pick up signals from nearby neurons.
+
+ Càng ít thông tin mà BCI có thể giải thích từ các tế bào thần kinh, thì nó càng kém hiệu quả trong việc thực hiện các chức năng dự định của nó.
+
+
+ The less information that a BCI can interpret from neurons, the less effective it is at carrying out its intended functions.
+
+ Một cách mà các nhà khoa học đang cố gắng làm cho cấy ghép tồn tại lâu hơn là thử nghiệm với các loại vật liệu khác nhau.
+
+
+One way scientists are trying to make implants last longer is by experimenting with different kinds of materials.
+
+ Mảng Utah được cách nhiệt bằng parylene, một lớp phủ polymer bảo vệ được sử dụng trong ngành công nghiệp thiết bị y tế vì tính ổn định và độ thấm ẩm thấp.
+
+
+ The Utah array is insulated with parylene, a protective polymer coating used in the medical device industry for its stability and low permeability to moisture.
+
+ Nhưng nó có thể ăn mòn và nứt vỡ theo thời gian, và các vật liệu khác có thể chứng minh là bền hơn.
+
+
+ But it can corrode and crack over time, and other materials may prove to be more durable.
+
+ Florian Solzbacher, đồng sáng lập và chủ tịch của Blackrock Neurotech, công ty sản xuất mảng Utah, cho biết công ty đang thử nghiệm một loại được phủ một lớp kết hợp giữa parylene và silicon carbide, đã tồn tại hơn 100 năm như một vật liệu công nghiệp.
+
+
+Florian Solzbacher, co-founder and chairman of Blackrock Neurotech, which manufactures the Utah arrays, says the company is testing one that’s coated with a combination of parylene and silicon carbide, which has been around for more than 100 years as an industrial material.
+
+ Ông nói: "Chúng tôi đã thấy những cuộc đời trên băng ghế dự bị có thể lên đến 30 năm và chúng tôi đã có một số dữ liệu sơ bộ về động vật ngay bây giờ.
+
+
+ “We’ve seen lifetimes on the benchtop that can reach up to 30 years, and we’ve got some preliminary data in animals right now,” he says.
+
+ Nhưng công ty vẫn chưa cấy ghép nó vào người, vì vậy thử nghiệm thực sự sẽ là cách mô người phản ứng với công thức mới.
+
+
+ But the company has yet to implant it in people, so the real test will be how human tissue reacts to the new formulation.
+
+ Làm cho các điện cực linh hoạt hơn cũng có thể giúp giảm sẹo.
+
+
+Making electrodes more flexible could also help reduce scarring.
+
+ Công ty Paradromics của Angle đang phát triển một bộ cấy tương tự như mảng Utah, nhưng với các điện cực mỏng hơn nhằm mục đích ít gây rối cho mô hơn.
+
+
+ Angle’s company Paradromics is developing an implant similar to the Utah array, but with thinner electrodes intended to be less disruptive to tissue.
+
+ Một số nhà nghiên cứu đang thử các vật liệu mềm hơn có thể tích hợp vào não tốt hơn so với mảng Utah cứng nhắc.
+
+
+Some researchers are trying out softer materials that may be able to better integrate into the brain than the rigid Utah array.
+
+ Một nhóm, tại Viện Công nghệ Massachusetts, đang thử nghiệm với lớp phủ hydrogel được thiết kế để có độ đàn hồi rất giống với độ đàn hồi của não.
+
+
+ One group, at the Massachusetts Institute of Technology, is experimenting with hydrogel coatings designed to have an elasticity very similar to that of the brain.
+
+ Các nhà khoa học tại Đại học Pennsylvania cũng đang phát triển các điện cực "sống", microtissues giống như lông làm từ tế bào thần kinh và sợi thần kinh được phát triển từ tế bào gốc.
+
+
+ Scientists at the University of Pennsylvania are also growing “living” electrodes, hairlike microtissues made of neurons and nerve fibers grown from stem cells.
+
+ Nhưng những cách tiếp cận này cũng có nhược điểm.
+
+
+But these approaches have downsides, too.
+
+ "Bạn có thể đưa một thứ cứng nhắc thành một thứ mềm mại.
+
+
+ “You can get a rigid thing into a soft thing.
+
+ Nhưng nếu bạn đang cố gắng đặt một thứ rất mềm vào một thứ mềm mại khác, thì điều đó rất khó, "Gaunt nói.
+
+
+ But if you’re trying to put a very soft thing into another soft thing, that’s very hard,” Gaunt says.
+
+ " Một cách tiếp cận khác là làm cho cấy ghép nhỏ hơn, và do đó ít xâm lấn hơn.
+
+
+Another approach is to make the implants smaller, and therefore less invasive.
+
+ Ví dụ, các nhà nghiên cứu đang thử nghiệm các hạt thần kinh, những con chip nhỏ có kích thước bằng một hạt cát mà theo giả thuyết có thể được rắc trên bề mặt vỏ não.
+
+
+ For instance, researchers are testing neurograins, tiny chips the size of a grain of sand that could hypothetically be sprinkled across the cortical surface.
+
+ Nhưng không ai đã thử phân tán chúng trên não người; hệ thống này chỉ được thử nghiệm ở những loài gặm nhấm đã được cắt bỏ hộp sọ của chúng.
+
+
+ But no one has tried dispersing them on a human brain; the system has only been tested in rodents that had their skulls removed.
+
+ Một số người tham gia nghiên cứu đã được lấy ra và thay thế các mảng ở Utah của họ, nhưng nhiều cuộc phẫu thuật không phải là lý tưởng, bởi vì mỗi ca phẫu thuật đều có nguy cơ nhiễm trùng hoặc chảy máu tại vị trí cấy ghép.
+
+
+Some research participants have had their Utah arrays taken out and replaced, but multiple surgeries aren’t ideal, because each one carries a risk of infection or bleeding at the implant site.
+
+ Gaunt nói rằng các bác sĩ phẫu thuật có thể sẽ không đặt một bộ cấy mới ở cùng một vị trí với cấy ghép cũ, đặc biệt nếu có sẹo ở khu vực đó.
+
+
+ Gaunt says surgeons probably wouldn’t place a new implant in the exact same place as an old one, especially if there’s scarring in that area.
+
+ Nhưng đảm bảo rằng một sự thay thế được đặt đúng vị trí là một rủi ro khác: Cấy ghép không đúng chỗ có thể gây ra suy giảm nhận thức và giao tiếp.
+
+
+ But making sure that a replacement is put in the right spot is another risk: Implants in the wrong place could cause cognitive and communication impairments.
+
+ Gaunt nói rằng sẽ tốt hơn nếu các thành phần BCI bên ngoài — ví dụ như bộ xử lý hoặc phần mềm — có thể nâng cấp, để bệnh nhân không phải trải qua nhiều cuộc phẫu thuật.
+
+
+Gaunt says it would be better for the external BCI components—the processors or software, for instance—to be upgradable, so that patients wouldn’t have to undergo multiple surgeries.
+
+ Nathan Copeland chơi một trò chơi bằng giao diện não-máy tính của mình.
+
+
+Nathan Copeland plays a game using his brain-computer interface.
+
+ Nhưng trên thực tế, một phần bên ngoài của hầu hết các hệ thống BCI thực sự là một trong những rủi ro lớn nhất đối với cấy ghép não.
+
+
+But in fact, an external part of most BCI systems is actually one of the biggest risks for brain implants.
+
+ Bệ nằm trên đỉnh hộp sọ có xu hướng gây nhiễm trùng, nhưng sự hiện diện của nó là cần thiết để kết nối mảng được cấy ghép với máy tính bên ngoài.
+
+
+ The pedestal that sits atop the skull tends to cause infection, but its presence is necessary to connect the implanted array to the external computer.
+
+ Hiện tại, Copeland và những người tham gia nghiên cứu khác phải cắm vào hệ thống thông qua bệ đỡ đầu của họ để sử dụng BCI của họ.
+
+
+ For now, Copeland and other research participants have to get plugged into the system via their head pedestals to use their BCIs.
+
+ (Các nhà nghiên cứu đang làm việc để loại bỏ các dây cáp.
+
+
+ (Researchers are working on getting rid of the cables.
+
+) Đối với Copeland, đó là một sự khó chịu nhẹ để đổi lấy việc phải làm những việc anh ta có thể làm với BCI của mình — mặc dù anh ta hy vọng các hệ thống trong tương lai sẽ không dây và mang lại cho những người bị tê liệt một phạm vi khả năng rộng lớn hơn.
+
+
+) For Copeland, it’s a mild annoyance in exchange for getting to do the things he can do with his BCI—although he hopes future systems will be wireless and give paralyzed people an even broader range of abilities.
+
+ Với những ẩn số về tuổi thọ của BCI, Copeland biết rằng bộ cấy của mình có thể ngừng hoạt động vào một ngày nào đó.
+
+
+Given the unknowns of BCI longevity, Copeland knows his implant could stop working some day.
+
+ Nhưng anh cố gắng không lo lắng về điều đó.
+
+
+ But he tries not to worry about it.
+
+ "Tôi rất lạnh lùng về hầu hết mọi thứ.
+
+
+ “I’m super chill about most things.
+
+ Tôi chỉ đi theo dòng chảy, "anh nói.
+
+
+ I just go with the flow,” he says.
+
+ " Điều đó nói rằng, anh ấy sẽ không từ chối nâng cấp: "Trong năm hoặc 10 năm nữa, nếu có điều gì đó có thể cải thiện đáng kể, tôi sẽ thực hiện phẫu thuật một lần nữa và chỉ cần thực hiện nó.
+
+
+ That said, he wouldn’t turn down an upgrade: “In five or 10 years, if there is something that would have significant improvements, I would do the surgery again and just go for it.
+
+".
+
+
+”

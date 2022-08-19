@@ -1,0 +1,642 @@
+# To Fix Tech, Democracy Needs to Grow Up
+
+
+
+There isn’t much we can agree on these days.
+
+Không có nhiều điều chúng ta có thể đồng ý trong những ngày này.
+
+
+ But two sweeping statements that might garner broad support are “We need to fix technology” and “We need to fix democracy.
+
+ Nhưng hai tuyên bố sâu rộng có thể thu hút được sự ủng hộ rộng rãi là "Chúng ta cần sửa chữa công nghệ" và "Chúng ta cần sửa chữa nền dân chủ.
+
+
+”There is growing recognition that rapid technology development is producing society-scale risks: state and private surveillance, widespread labor automation, ascending monopoly and oligopoly power, stagnant productivity growth, algorithmic discrimination, and the catastrophic risks posed by advances in fields like AI and biotechnology.
+
+ " Ngày càng có nhiều người thừa nhận rằng sự phát triển nhanh chóng của công nghệ đang tạo ra những rủi ro quy mô xã hội: giám sát nhà nước và tư nhân, tự động hóa lao động trên diện rộng, độc quyền tăng dần và quyền lực độc quyền, tăng trưởng năng suất trì trệ, phân biệt đối xử theo thuật toán và những rủi ro thảm khốc do những tiến bộ trong các lĩnh vực như AI và công nghệ sinh học gây ra.
+
+
+ Less often discussed, but in my view no less important, is the loss of potential advances that lack short-term or market-legible benefits.
+
+ Ít được thảo luận hơn, nhưng theo quan điểm của tôi không kém phần quan trọng, là mất đi những tiến bộ tiềm năng thiếu lợi ích ngắn hạn hoặc dễ đọc trên thị trường.
+
+
+ These include vaccine development for emerging diseases and open source platforms for basic digital affordances like identity and communication.
+
+ Chúng bao gồm phát triển vắc-xin cho các bệnh mới nổi và các nền tảng nguồn mở cho các khả năng chi trả kỹ thuật số cơ bản như danh tính và truyền thông.
+
+
+At the same time, as democracies falter in the face of complex global challenges, citizens (and increasingly, elected leaders) around the world are losing trust in democratic processes and are being swayed by autocratic alternatives.
+
+ Đồng thời, khi các nền dân chủ chùn bước trước những thách thức toàn cầu phức tạp, công dân (và ngày càng nhiều, các nhà lãnh đạo được bầu) trên khắp thế giới đang mất niềm tin vào các quá trình dân chủ và đang bị ảnh hưởng bởi các lựa chọn thay thế chuyên quyền.
+
+
+ Nation-state democracies are, to varying degrees, beset by gridlock and hyper-partisanship, little accountability to the popular will, inefficiency, flagging state capacity, inability to keep up with emerging technologies, and corporate capture.
+
+ Các nền dân chủ quốc gia-nhà nước, ở các mức độ khác nhau, bị bao vây bởi bế tắc và siêu đảng phái, ít chịu trách nhiệm trước ý chí phổ biến, kém hiệu quả, đánh dấu năng lực nhà nước, không có khả năng theo kịp các công nghệ mới nổi và nắm bắt doanh nghiệp.
+
+
+ While smaller-scale democratic experiments are growing, locally and globally, they remain far too fractured to handle consequential governance decisions at scale.
+
+ Trong khi các thử nghiệm dân chủ quy mô nhỏ hơn đang phát triển, tại địa phương và trên toàn cầu, chúng vẫn còn quá rạn nứt để xử lý các quyết định quản trị hậu quả trên quy mô lớn.
+
+
+This puts us in a bind.
+
+ Điều này đặt chúng ta vào một ràng buộc.
+
+
+ Clearly, we could be doing a better job directing the development of technology towards collective human flourishing—in fact, this may be one of the greatest challenges of our time.
+
+ Rõ ràng, chúng ta có thể đang làm tốt hơn việc hướng sự phát triển của công nghệ theo hướng phát triển tập thể của con người — trên thực tế, đây có thể là một trong những thách thức lớn nhất của thời đại chúng ta.
+
+
+ If actually existing democracy is so riddled with flaws, it doesn’t seem up to the task.
+
+ Nếu thực sự nền dân chủ hiện tại có nhiều sai sót như vậy, thì nó dường như không hoàn thành nhiệm vụ.
+
+
+ This is what rings hollow in many calls to “democratize technology”: Given the litany of complaints, why subject one seemingly broken system to governance by another?At the same time, as we deal with everything from surveillance to space travel, we desperately need ways to collectively negotiate complex value trade-offs with global consequences, and ways to share in their benefits.
+
+ Đây là những gì vòng rỗng trong nhiều lời kêu gọi "dân chủ hóa công nghệ": Với những lời phàn nàn, tại sao lại khiến một hệ thống dường như bị phá vỡ phải quản lý bởi một hệ thống khác? Đồng thời, khi chúng ta đối phó với mọi thứ, từ giám sát đến du hành vũ trụ, chúng ta rất cần những cách để cùng nhau đàm phán đánh đổi giá trị phức tạp với hậu quả toàn cầu và cách chia sẻ lợi ích của chúng.
+
+
+ This definitely seems like a job for democracy, albeit a much better iteration.
+
+ Điều này chắc chắn có vẻ như là một công việc cho nền dân chủ, mặc dù lặp lại tốt hơn nhiều.
+
+
+ So how can we radically update democracy so that we can successfully navigate toward long-term, shared positive outcomes?To answer these questions, we must realize that our current forms of democracy are only early and highly imperfect manifestations of collective intelligence—coordination systems that incorporate and process decentralized, agentic, and meaningful decisionmaking across individuals and communities to produce best-case decisions for the collective.
+
+ Vậy làm thế nào chúng ta có thể cập nhật triệt để nền dân chủ để chúng ta có thể điều hướng thành công hướng tới những kết quả tích cực được chia sẻ, lâu dài? Để trả lời những câu hỏi này, chúng ta phải nhận ra rằng các hình thức dân chủ hiện tại của chúng ta chỉ là những biểu hiện sớm và rất không hoàn hảo của trí tuệ tập thể — các hệ thống điều phối kết hợp và xử lý việc ra quyết định phi tập trung, mang tính đại lý và có ý nghĩa giữa các cá nhân và cộng đồng để đưa ra quyết định tốt nhất cho tập thể.
+
+
+Collective intelligence, or CI, is not the purview of humans alone.
+
+ Trí tuệ tập thể, hay CI, không phải là mục đích của một mình con người.
+
+
+ Networks of trees, enabled by mycelia, can exhibit intelligent characteristics, sharing nutrients and sending out distress signals about drought or insect attacks.
+
+ Mạng lưới cây cối, được kích hoạt bởi sợi nấm, có thể thể hiện các đặc tính thông minh, chia sẻ chất dinh dưỡng và gửi tín hiệu cấp cứu về hạn hán hoặc côn trùng tấn công.
+
+
+ Bees and ants manifest swarm intelligence through complex processes of selection, deliberation, and consensus, using the vocabulary of physical movement and pheromones.
+
+ Ong và kiến biểu hiện trí thông minh bầy đàn thông qua các quá trình lựa chọn, cân nhắc và đồng thuận phức tạp, sử dụng từ vựng về chuyển động vật lý và pheromone.
+
+
+ In fact, humans are not even the only animals that vote.
+
+ Trên thực tế, con người thậm chí không phải là động vật duy nhất bỏ phiếu.
+
+
+ African wild dogs, when deciding whether to move locations, will engage in a bout of sneezing to determine whether quorum has been reached, with the tipping point determined by context—for example, lower-ranked individuals require a minimum of 10 sneezes to achieve what a higher-ranked individual could get with only three.
+
+ Những hoang châu Phi, khi quyết định có nên di chuyển địa điểm hay không, sẽ tham gia vào một cơn hắt hơi để xác định xem đã đạt đến nhóm túc số hay chưa, với điểm bùng phát được xác định theo ngữ cảnh — ví dụ: những cá thể được xếp hạng thấp hơn yêu cầu tối thiểu 10 lần hắt hơi để đạt được những gì một cá thể có thứ hạng cao hơn có thể nhận được chỉ với ba.
+
+
+ Buffaloes, baboons, and meerkats also make decisions via quorum, with flexible “rules” based on behavior and negotiation.
+
+ Trâu, khỉ đầu chó và meerkats cũng đưa ra quyết định thông qua nhóm túc số, với các "quy tắc" linh hoạt dựa trên hành vi và đàm phán.
+
+
+ But humans, unlike meerkats or ants, don’t have to rely on the pathways to CI that our biology has hard-coded into us, or wait until the slow, invisible hand of evolution tweaks our processes.
+
+ Nhưng con người, không giống như meerkats hoặc kiến, không phải dựa vào các con đường dẫn đến CI mà sinh học của chúng ta đã mã hóa cứng vào chúng ta, hoặc đợi cho đến khi bàn tay tiến hóa chậm chạp, vô hình điều chỉnh các quá trình của chúng ta.
+
+
+ We can do better on purpose, recognizing that progress and participation don’t have to trade off.
+
+ Chúng ta có thể làm tốt hơn một cách có chủ đích, nhận ra rằng sự tiến bộ và sự tham gia không cần phải đánh đổi.
+
+
+ (This is the thesis on which my organization, the Collective Intelligence Project, is predicated.
+
+ (Đây là luận điểm mà tổ chức của tôi, Dự án Trí tuệ Tập thể, được dự đoán.
+
+
+)Our stepwise innovations in CI systems—such as representative, nation-state democracy, capitalist and noncapitalist markets, and bureaucratic technocracy—have already shaped the modern world.
+
+) Những đổi mới từng bước của chúng tôi trong các hệ thống CI — chẳng hạn như đại diện, dân chủ quốc gia-nhà nước, thị trường tư bản và phi tư bản, và kỹ trị quan liêu — đã định hình thế giới hiện đại.
+
+
+ And yet, we can do much better.
+
+ Tuy nhiên, chúng tôi có thể làm tốt hơn nhiều.
+
+
+ These existing manifestations of collective intelligence are only crude versions of the structures we could build to make better collective decisions over collective resources.
+
+ Những biểu hiện hiện có của trí tuệ tập thể này chỉ là phiên bản thô sơ của các cấu trúc mà chúng ta có thể xây dựng để đưa ra quyết định tập thể tốt hơn về tài nguyên tập thể.
+
+
+In some sense, the democratic structures we have now, such as majority voting, lifetime appointments, and archaic levels of representation, operate by even cruder rules than many algorithms.
+
+ Theo một nghĩa nào đó, các cấu trúc dân chủ mà chúng ta có bây giờ, chẳng hạn như bỏ phiếu đa số, bổ nhiệm trọn đời và mức độ đại diện cổ xưa, hoạt động theo các quy tắc thậm chí còn thô sơ hơn nhiều thuật toán.
+
+
+ So do our markets, which ignore a wide array of subtle value negotiations in favor of rudimentary optimizations for cost, profit, or share price.
+
+ Thị trường của chúng tôi cũng vậy, vốn bỏ qua một loạt các cuộc đàm phán giá trị tinh tế để ủng hộ các tối ưu hóa thô sơ về chi phí, lợi nhuận hoặc giá cổ phiếu.
+
+
+ These badly need to be updated.
+
+ Những điều này rất cần phải được cập nhật.
+
+
+ While some people worry about runaway AI models over-optimizing misaligned outcomes and destroying humanity, it may actually be more dangerous to continue relying on the primitive optimizations we now use to guide decisions.
+
+ Trong khi một số người lo lắng về việc các mô hình AI bỏ trốn tối ưu hóa quá mức các kết quả sai lệch và hủy diệt nhân loại, thực sự có thể nguy hiểm hơn nếu tiếp tục dựa vào các tối ưu hóa nguyên thủy mà chúng ta hiện đang sử dụng để hướng dẫn các quyết định.
+
+
+Adopting a frame of collective intelligence lets us see existing democracy as a starting point, rather than as a finished project.
+
+ Áp dụng một khung trí tuệ tập thể cho phép chúng ta xem nền dân chủ hiện có là điểm khởi đầu, thay vì là một dự án đã hoàn thành.
+
+
+ We mustn’t relinquish democratic ideals—without which we are left with pure technocracy, and an erosion of shared political judgment into mere technical expertise.
+
+ Chúng ta không được từ bỏ những lý tưởng dân chủ — mà không có nó, chúng ta bị bỏ lại với kỹ trị thuần túy, và sự xói mòn của phán quyết chính trị được chia sẻ thành chuyên môn kỹ thuật đơn thuần.
+
+
+ But to tackle the challenges of technological advances, we will need to do far more than simply shore up our crumbling democratic institutions.
+
+ Nhưng để giải quyết những thách thức của những tiến bộ công nghệ, chúng ta sẽ cần phải làm nhiều hơn là chỉ đơn giản là củng cố các thể chế dân chủ đang sụp đổ của chúng ta.
+
+
+ Instead, we must leverage emerging technology towards building better, more intelligent collective institutions for the deeper exercise of collective agency.
+
+ Thay vào đó, chúng ta phải tận dụng công nghệ mới nổi để xây dựng các thể chế tập thể tốt hơn, thông minh hơn để thực hiện sâu hơn các cơ quan tập thể.
+
+
+To understand how to construct better building blocks for collective intelligence, we can break the CI “stack” down into mechanisms, technologies, and systems.
+
+ Để hiểu cách xây dựng các khối xây dựng tốt hơn cho trí tuệ tập thể, chúng ta có thể chia "ngăn xếp" CI thành các cơ chế, công nghệ và hệ thống.
+
+
+Mechanisms elicit, process, and aggregate collective intelligence from diverse sources.
+
+ Các cơ chế gợi ra, xử lý và tổng hợp trí tuệ tập thể từ các nguồn khác nhau.
+
+
+ They let us combine people’s preferences and local information into decisions.
+
+ Chúng cho phép chúng tôi kết hợp sở thích của mọi người và thông tin địa phương thành các quyết định.
+
+
+ Direct majority voting is an example of a basic CI mechanism.
+
+ Bỏ phiếu đa số trực tiếp là một ví dụ về cơ chế CI cơ bản.
+
+
+ Others include various modes of price-setting and exchange, consensus-based deliberation, top-down agenda setting, delegation to representatives, jury selection, and so on.
+
+ Những phương thức khác bao gồm các phương thức thiết lập và trao đổi giá khác nhau, cân nhắc dựa trên sự đồng thuận, thiết lập chương trình nghị sự từ trên xuống, ủy quyền cho đại diện, lựa chọn ban giám khảo, v.
+
+
+Building toward better collective intelligence could begin with fairly minor updates, like replacing direct majority voting with ranked-choice voting or quadratic voting.
+
+v.
+
+
+ These can allow for more granular expression of preferences (by taking into account second and third choices, or enabling different allocations of “voice credits” to different issues).
+
+ Xây dựng hướng tới trí tuệ tập thể tốt hơn có thể bắt đầu bằng những cập nhật khá nhỏ, như thay thế bỏ phiếu đa số trực tiếp bằng bỏ phiếu lựa chọn có xếp hạng hoặc bỏ phiếu bậc hai.
+
+
+ This could expand into a range of mechanisms, combining elements from things like prediction markets (which incentivize predicting the probability of future events), auctions and exchange mechanisms (which can triangulate notions of shared value), retroactive funding (which enables post hoc allocation of resources), liquid democracy (which allows a polity to dynamically allocate representation), and sortition (in which a representative sample of stakeholders make deliberative decisions).
+
+ Những điều này có thể cho phép thể hiện chi tiết hơn các tùy chọn (bằng cách tính đến các lựa chọn thứ hai và thứ ba hoặc cho phép phân bổ "tín dụng thoại" khác nhau cho các vấn đề khác nhau).
+
+
+These possibilities are brought to life via technologies, which help CI mechanisms scale and interoperate across contexts.
+
+ Điều này có thể mở rộng thành một loạt các cơ chế, kết hợp các yếu tố từ những thứ như thị trường dự đoán (khuyến khích dự đoán xác suất của các sự kiện trong tương lai), đấu giá và cơ chế trao đổi (có thể tam giác các khái niệm về giá trị chung), tài trợ hồi tố (cho phép phân bổ nguồn lực sau hoc), dân chủ thanh khoản (cho phép một chính thể phân bổ linh hoạt đại diện) và phân loại (trong đó một mẫu đại diện của các bên liên quan đưa ra quyết định cân nhắc).
+
+
+ Take Wikipedia, an extraordinarily valuable manifestation of CI (accounting for almost half of the value of all Google searches) that is itself run via nested CI mechanisms for entry editing, expansion, and dispute resolution.
+
+ Những khả năng này được đưa vào cuộc sống thông qua các công nghệ, giúp các cơ chế CI mở rộng quy mô và tương tác giữa các bối cảnh.
+
+
+ Wikipedia didn’t invent the idea of a collaborative encyclopedia—in fact, the Oxford English Dictionary arguably adopted a similar, albeit analog, process of volunteer contributions in the late 19th century—but technology like basic internet protocols enabling hyperlinks and wiki structures made it possible at scale in a way previously unimaginable.
+
+ Lấy Wikipedia, một biểu hiện cực kỳ có giá trị của CI (chiếm gần một nửa giá trị của tất cả các tìm kiếm trên Google) được điều hành thông qua các cơ chế CI lồng nhau để chỉnh sửa, mở rộng mục nhập và giải quyết tranh chấp.
+
+
+Recent advances in coordination technologies could have similar stepwise effects—the key to governing rapidly advancing tech may come in the form of utilizing this technology for governance.
+
+ Wikipedia đã không phát minh ra ý tưởng về một bách khoa toàn thư hợp tác — trên thực tế, Từ điển tiếng Anh Oxford được cho là đã áp dụng một quy trình đóng góp tình nguyện tương tự, mặc dù tương tự, vào cuối thế kỷ 19 — nhưng công nghệ như các giao thức internet cơ bản cho phép các siêu liên kết và cấu trúc wiki đã làm cho nó có thể ở quy mô lớn theo cách mà trước đây không thể tưởng tượng được.
+
+
+ For example, decentralized organizations using blockchain-based technologies are experimenting with token-based delegation, quadratic voting, impact certificates, non-transferable voting tokens, and the like.
+
+ Những tiến bộ gần đây trong công nghệ điều phối có thể có những tác động từng bước tương tự — chìa khóa để quản lý công nghệ phát triển nhanh chóng có thể đến dưới hình thức sử dụng công nghệ này để quản trị.
+
+
+Deliberative democratic platforms, like pol.
+
+ Ví dụ: các tổ chức phi tập trung sử dụng các công nghệ dựa trên blockchain đang thử nghiệm ủy quyền dựa trên mã thông báo, bỏ phiếu bậc hai, chứng chỉ tác động, mã thông báo bỏ phiếu không thể chuyển nhượng và những thứ tương tự.
+
+
+is, have already found great success using basic machine-learning algorithms to determine points of consensus among large groups with differing opinions.
+
+ Các nền tảng dân chủ cân nhắc, như pol.
+
+
+ Future augmentative applications of artificial intelligence could change the landscape of effective CI by representing preferences in deliberative contexts, using language models to identify argumentation gaps or points of consensus, or computing consensus across clusters of opinions.
+
+is, đã tìm thấy thành công lớn bằng cách sử dụng các thuật toán học máy cơ bản để xác định các điểm đồng thuận giữa các nhóm lớn với các ý kiến khác nhau.
+
+
+This brings us to CI systems, which are the crux of where radical improvements can manifest.
+
+ Các ứng dụng tăng cường trong tương lai của trí tuệ nhân tạo có thể thay đổi bối cảnh của CI hiệu quả bằng cách thể hiện các sở thích trong bối cảnh cân nhắc, sử dụng các mô hình ngôn ngữ để xác định khoảng trống lập luận hoặc các điểm đồng thuận hoặc tính toán sự đồng thuận trên các cụm ý kiến.
+
+
+ Without well-designed systems, there may never be consequences for bad decisions, or mechanisms may just surface insights that are never used (as happens with many “send information to your representative”-style technology projects).
+
+ Điều này đưa chúng ta đến các hệ thống CI, đó là mấu chốt của nơi những cải tiến triệt để có thể biểu hiện.
+
+
+ Expanding CI systems would allow us to move far beyond existing, nation-state notions of democratic participation into a rich web of participation and progress across sectors, borders, and scales.
+
+ Nếu không có các hệ thống được thiết kế tốt, có thể không bao giờ có hậu quả cho các quyết định tồi hoặc các cơ chế có thể chỉ hiển thị thông tin chi tiết không bao giờ được sử dụng (như xảy ra với nhiều dự án công nghệ kiểu "gửi thông tin đến đại diện của bạn").
+
+
+These systems can take the form of:Small-scale experiments have already shown the possibility of each of these ingredients.
+
+ Mở rộng hệ thống CI sẽ cho phép chúng tôi vượt xa các khái niệm hiện có, quốc gia-nhà nước về sự tham gia dân chủ vào một mạng lưới tham gia phong phú và tiến bộ giữa các lĩnh vực, biên giới và quy mô.
+
+
+ This could look like a CI-enabled workplace that incorporates inputs from internal prediction markets (as has been previously attempted at Google), as well as team deliberation processes (enabled by a deliberation platform such as Loomio) and collective ownership structures (as developed by Exit to Community).
+
+ Các hệ thống này có thể ở dạng:Các thí nghiệm quy mô nhỏ đã cho thấy khả năng của từng thành phần này.
+
+
+This can be taken even farther.
+
+ Điều này có thể trông giống như một nơi làm việc hỗ trợ CI kết hợp đầu vào từ các thị trường dự đoán nội bộ (như đã được cố gắng trước đây tại Google), cũng như các quy trình cân nhắc nhóm (được kích hoạt bởi một nền tảng cân nhắc như Loomio) và cấu trúc sở hữu tập thể (như được phát triển bởi Exit to Community).
+
+
+ Imagine a world of abundant public goods, funded via consortium-based taxes coupled with active participation in investment based on shared need.
+
+ Điều này có thể được thực hiện thậm chí xa hơn.
+
+
+ Right now, many projects with incredible social-value returns, from transportation infrastructure to small businesses that would benefit many in a community, can languish in an innovation valley of death because they’re not well set up for pure public funding, and yet are misaligned with the incentives of private capital.
+
+ Hãy tưởng tượng một thế giới hàng hóa công cộng dồi dào, được tài trợ thông qua thuế dựa trên tập đoàn cùng với sự tham gia tích cực vào đầu tư dựa trên nhu cầu chung.
+
+
+ CI mechanisms for pooled funding could address this gap, redirecting state and philanthropic resources into financially supporting these projects in proportion to their deemed benefit to a given community, and dynamically reallocating when necessary.
+
+ Ngay bây giờ, nhiều dự án với lợi nhuận giá trị xã hội đáng kinh ngạc, từ cơ sở hạ tầng giao thông đến các doanh nghiệp nhỏ sẽ mang lại lợi ích cho nhiều người trong cộng đồng, có thể mòn mỏi trong một thung lũng chết chóc đổi mới vì chúng không được thiết lập tốt để có nguồn tài trợ công thuần túy, nhưng lại bị sai lệch với các ưu đãi của vốn tư nhân.
+
+
+ This could better direct scientific and research funding, creating massive positive externalities not well incentivized in the current system, or direct public funding for industrial policy (instead of direct subsidies, which can miss necessary local information or be prone to capture and cronyism).
+
+ Các cơ chế CI để tài trợ tổng hợp có thể giải quyết khoảng cách này, chuyển hướng các nguồn lực của tiểu bang và từ thiện sang hỗ trợ tài chính cho các dự án này tương ứng với lợi ích được coi là của chúng cho một cộng đồng nhất định và phân bổ lại năng động khi cần thiết.
+
+
+Or imagine a world of CI-enabled firms prioritizing collective provision at scale through effective economic democracy.
+
+ Điều này tốt hơn có thể chỉ đạo tài trợ khoa học và nghiên cứu, tạo ra những ngoại cảnh tích cực lớn không được khuyến khích tốt trong hệ thống hiện tại, hoặc chỉ đạo tài trợ công cho chính sách công nghiệp (thay vì trợ cấp trực tiếp, có thể bỏ lỡ thông tin địa phương cần thiết hoặc dễ bị nắm bắt và chủ nghĩa thân hữu).
+
+
+ Advanced CI mechanisms could expand collective input and ownership beyond voice in a single workplace, or a vote every four years.
+
+ Hoặc hãy tưởng tượng một thế giới của các công ty hỗ trợ CI ưu tiên cung cấp tập thể ở quy mô lớn thông qua dân chủ kinh tế hiệu quả.
+
+
+ Imagine networks of production run with input from local and global stakeholders, using transaction fees as taxlike sources of funding for long-term investment—radically updating the regulated monopoly.
+
+ Các cơ chế CI nâng cao có thể mở rộng đầu vào và quyền sở hữu tập thể ngoài tiếng nói trong một nơi làm việc duy nhất hoặc một cuộc bỏ phiếu bốn năm một lần.
+
+
+ Or AI assistants helping communities navigate value trade-offs, scaling up commons-based governance practices while computing a range of quantitative and qualitative measures to optimize—instead of just maximizing share price.
+
+ Hãy tưởng tượng các mạng lưới sản xuất hoạt động với đầu vào từ các bên liên quan địa phương và toàn cầu, sử dụng phí giao dịch làm nguồn tài trợ giống như thuế để đầu tư dài hạn — cập nhật triệt để sự độc quyền được quy định.
+
+
+ Or platforms that enable individuals and communities to track the effects of new technologies, internalizing externalities from environmental degradation to pandemic risk.
+
+ Hoặc các trợ lý AI giúp cộng đồng điều hướng sự đánh đổi giá trị, mở rộng các hoạt động quản trị dựa trên commons trong khi tính toán một loạt các biện pháp định lượng và định tính để tối ưu hóa — thay vì chỉ tối đa hóa giá cổ phiếu.
+
+
+Of course, getting there won’t be easy—changing power structures never is.
+
+ Hoặc các nền tảng cho phép các cá nhân và cộng đồng theo dõi tác động của các công nghệ mới, nội tâm hóa các yếu tố bên ngoài từ suy thoái môi trường đến rủi ro đại dịch.
+
+
+ Scholars from John Dewey to Helene Landemore have emphasized the material changes and conditions of “education and freedom”—from access to basic necessities to economic security—needed for democracies to truly enable collective intelligence.
+
+ Tất nhiên, để đạt được điều đó sẽ không dễ dàng — việc thay đổi cấu trúc quyền lực không bao giờ là như vậy.
+
+
+ Incentive-alignment work, political shifts, base-building, and public advocacy are essential for conveying the urgency of shifting transformative technology toward collective intelligence and input.
+
+ Các học giả từ John Dewey đến Helene Landemore đã nhấn mạnh những thay đổi và điều kiện vật chất của "giáo dục và tự do" - từ việc tiếp cận các nhu cầu cơ bản đến an ninh kinh tế - cần thiết cho các nền dân chủ để thực sự kích hoạt trí tuệ tập thể.
+
+
+For a deeper dive into building a CI system, we can turn to the example of data governance, an area that is doubly important given the centrality of information flows to enabling CI across contexts.
+
+ Công việc liên kết khuyến khích, thay đổi chính trị, xây dựng cơ sở và vận động công chúng là những điều cần thiết để truyền đạt tính cấp thiết của việc chuyển đổi công nghệ chuyển đổi sang trí tuệ tập thể và đầu vào.
+
+
+The existing data economy (mirroring the digital economy as a whole) is a primary engine of shared growth and progress—and a leaky, power-concentrating, fractured mess.
+
+ Để đi sâu hơn vào việc xây dựng hệ thống CI, chúng ta có thể chuyển sang ví dụ về quản trị dữ liệu, một lĩnh vực quan trọng gấp đôi do tính trung tâm của các luồng thông tin để cho phép CI trong các bối cảnh.
+
+
+ Data brokers sell and resell personal data with little oversight.
+
+ Nền kinh tế dữ liệu hiện tại (phản ánh toàn bộ nền kinh tế kỹ thuật số) là động cơ chính của sự tăng trưởng và tiến bộ chung — và là một mớ hỗn độn bị rò rỉ, tập trung vào quyền lực, bị rạn nứt.
+
+
+ Huge networks like Facebook and Google capture the information of billions of people and use it in the service of a few shareholders’ narrow interests.
+
+ Các nhà môi giới dữ liệu bán và bán lại dữ liệu cá nhân với ít sự giám sát.
+
+
+ It is only during brief moments of generosity during a crisis, like when  Google provided mobility data to cities during the Covid pandemic, that the public can even see how vast these data stores are, and how helpful they might be in building shared safety and prosperity.
+
+ Các mạng lưới khổng lồ như Facebook và Google nắm bắt thông tin của hàng tỷ người và sử dụng nó để phục vụ lợi ích hẹp hòi của một vài cổ đông.
+
+
+This has led to a resurgence of interest in antitrust and firm breakup.
+
+ Chỉ trong những khoảnh khắc hào phóng ngắn ngủi trong một cuộc khủng hoảng, chẳng hạn như khi Google cung cấp dữ liệu di chuyển cho các thành phố trong đại dịch Covid, công chúng thậm chí có thể thấy các kho dữ liệu này rộng lớn như thế nào và chúng có thể hữu ích như thế nào trong việc xây dựng sự an toàn và thịnh vượng chung.
+
+
+ But these remedies are highly imperfect.
+
+ Điều này đã dẫn đến sự trỗi dậy của sự quan tâm đến chống độc quyền và chia tay vững chắc.
+
+
+ They may entrench existing business models and misunderstand the reality of network effects and capital costs underlying emerging tech.
+
+ Nhưng những biện pháp khắc phục này rất không hoàn hảo.
+
+
+ And given that they must be carried out by nation-states, they often do not take into account global stakeholders, who may have very different views on what a good outcome is than, say, an American senator.
+
+ Họ có thể cố thủ các mô hình kinh doanh hiện có và hiểu sai thực tế về hiệu ứng mạng và chi phí vốn làm cơ sở cho công nghệ mới nổi.
+
+
+ Top-down regulation by nation-states is certainly necessary to curb the harms of the current system, but it cannot build a better system, particularly when fractured across borders.
+
+ Và cho rằng chúng phải được thực hiện bởi các quốc gia-quốc gia, họ thường không tính đến các bên liên quan toàn cầu, những người có thể có quan điểm rất khác nhau về kết quả tốt hơn, chẳng hạn như một thượng nghị sĩ Mỹ.
+
+
+ Other alternatives aren’t particularly promising either.
+
+ Quy định từ trên xuống của các quốc gia-quốc gia chắc chắn là cần thiết để hạn chế tác hại của hệ thống hiện tại, nhưng nó không thể xây dựng một hệ thống tốt hơn, đặc biệt là khi bị rạn nứt xuyên biên giới.
+
+
+ Proposed “data marketplaces” re-create the network effects that lead to current monopolies, while adjacent “own your own data”-style proposals are infeasible and mostly serve to further enclose the digital commons.
+
+ Các lựa chọn thay thế khác cũng không đặc biệt hứa hẹn.
+
+
+ Neither of these pure state- or market-based approaches provide real ways to either incorporate collective input or build toward collective outcomes.
+
+ Các "thị trường dữ liệu" được đề xuất tái tạo các hiệu ứng mạng dẫn đến độc quyền hiện tại, trong khi các đề xuất kiểu "sở hữu dữ liệu của riêng bạn" liền kề là không khả thi và chủ yếu phục vụ để bao bọc thêm các điểm chung kỹ thuật số.
+
+
+A CI-based ecosystem of data governance would enable greater privacy, greater control, and greater access.
+
+ Cả hai cách tiếp cận dựa trên nhà nước hoặc thị trường thuần túy này đều không cung cấp những cách thực sự để kết hợp đầu vào của tập thể hoặc xây dựng hướng tới kết quả tập thể.
+
+
+ We might start with mechanisms for decentralized governance, like the digital identity-based delegation systems being piloted in decentralized organizations.
+
+ Một hệ sinh thái quản trị dữ liệu dựa trên CI sẽ cho phép quyền riêng tư lớn hơn, kiểm soát tốt hơn và truy cập nhiều hơn.
+
+
+ These can provide a platform to delegate responsibility to a trusted fiduciary or to choose to spend time voting on specific proposals that one deems of high importance (maybe you trust your local credit union to handle your financial data, except in cases of cross-border transfers, where you want to have more input).
+
+ Chúng ta có thể bắt đầu với các cơ chế quản trị phi tập trung, chẳng hạn như các hệ thống ủy quyền dựa trên danh tính kỹ thuật số đang được thử nghiệm trong các tổ chức phi tập trung.
+
+
+ As a result, larger numbers of people could participate productively in data stewardship,Choosing the right fiduciary might take some up-front engagement—more than we’re used to in a world of single-click “I Agree” buttons, which are now used to justify tracking and black-box data marketplaces.
+
+ Những điều này có thể cung cấp một nền tảng để ủy thác trách nhiệm cho một người được ủy thác đáng tin cậy hoặc chọn dành thời gian bỏ phiếu cho các đề xuất cụ thể mà một người cho là có tầm quan trọng cao (có thể bạn tin tưởng liên minh tín dụng địa phương xử lý dữ liệu tài chính của bạn, ngoại trừ trong trường hợp chuyển khoản xuyên biên giới, nơi bạn muốn có thêm thông tin đầu vào).
+
+
+ But after initial allocations, a shifting set of data intermediaries would be well placed to look out for your interests, with pathways for updates over time.
+
+ Do đó, số lượng người lớn hơn có thể tham gia hiệu quả vào việc quản lý dữ liệu,Việc chọn người được ủy thác phù hợp có thể cần một số tương tác trước — nhiều hơn những gì chúng ta đã quen thuộc trong thế giới các nút "Tôi đồng ý" bằng một cú nhấp chuột, hiện được sử dụng để biện minh cho việc theo dõi và thị trường dữ liệu hộp đen.
+
+
+ Eventually, these decisions might be supported by augmentative AI assistants to navigate the complexity.
+
+ Nhưng sau khi phân bổ ban đầu, một tập hợp các trung gian dữ liệu thay đổi sẽ được đặt đúng chỗ để theo dõi sở thích của bạn, với các lộ trình cập nhật theo thời gian.
+
+
+This allows for shared governance of data networks, rather than responsibility for one’s “own” data, which is practically impossible.
+
+ Cuối cùng, những quyết định này có thể được hỗ trợ bởi các trợ lý AI bổ sung để điều hướng sự phức tạp.
+
+
+ After all, which individual “owns” an email, or a Wikipedia page, or even genomic data that inherently contains family information? As our inputs into digital ecosystems grow, so do the networks of data that we might have privacy, financial, or other shared interests over.
+
+ Điều này cho phép quản trị chung các mạng dữ liệu, thay vì chịu trách nhiệm về dữ liệu "riêng" của một người, điều này thực tế là không thể.
+
+
+ CI-based data governance would more closely mirror citizen science initiatives, allowing for the pooling of high-quality information to solve problems that data holders find important.
+
+ Rốt cuộc, cá nhân nào "sở hữu" một email, hoặc một trang Wikipedia, hoặc thậm chí dữ liệu bộ gen vốn có chứa thông tin gia đình? Khi đầu vào của chúng tôi vào hệ sinh thái kỹ thuật số phát triển, các mạng dữ liệu mà chúng tôi có thể có quyền riêng tư, tài chính hoặc các lợi ích chung khác cũng tăng theo.
+
+
+ Of course, this requires a range of privacy protections.
+
+ Quản trị dữ liệu dựa trên CI sẽ phản ánh chặt chẽ hơn các sáng kiến khoa học công dân, cho phép tổng hợp thông tin chất lượng cao để giải quyết các vấn đề mà chủ sở hữu dữ liệu thấy quan trọng.
+
+
+ In particular, this would incorporate machine-learning techniques that have made it easier to share data insights, without sharing the underlying data sets, making information transfer possible with lower privacy costs.
+
+ Tất nhiên, điều này đòi hỏi một loạt các biện pháp bảo vệ quyền riêng tư.
+
+
+Such CI systems for data governance are in early stages, with ongoing experiments across distributed data governance (e.
+
+ Đặc biệt, điều này sẽ kết hợp các kỹ thuật học máy đã giúp chia sẻ thông tin chi tiết về dữ liệu dễ dàng hơn mà không cần chia sẻ các tập dữ liệu cơ bản, giúp có thể truyền thông tin với chi phí bảo mật thấp hơn.
+
+
+g.
+
+ Các hệ thống CI như vậy để quản trị dữ liệu đang ở giai đoạn đầu, với các thử nghiệm liên tục trên quản trị dữ liệu phân tán (ví dụ: PoolData), chia sẻ dữ liệu bảo vệ quyền riêng tư (ví dụ: OpenMined), liên minh dữ liệu và hợp tác xã (ví dụ: Đạo luật Tự do Dữ liệu) và đổi mới thể chế (ví dụ: Đạo luật Dữ liệu ở EU).
+
+
+, PoolData), privacy-preserving data sharing (e.
+
+ Những nỗ lực này được hỗ trợ bởi sự quan tâm ngày càng tăng của học thuật và nghiên cứu đối với các trung gian dữ liệu.
+
+
+g.
+
+ Nhưng cần nhiều công việc hơn nữa.
+
+
+, OpenMined), data coalitions and cooperatives (e.
+
+ Điều này đặc biệt quan trọng trong thời đại AI biến đổi.
+
+
+g.
+
+ Các mô hình quy mô lớn như GPT-3 của OpenAI được đào tạo trên hàng trăm tỷ từ do mọi người viết, nắm bắt hàng thế kỷ kiến thức, suy nghĩ và cái nhìn sâu sắc của con người, mọi thứ từ sách, blog đến wiki.
+
+
+, the Data Freedom Act), and institutional innovation (e.
+
+ Những mô hình này cực kỳ có khả năng, vâng, nhưng đó là bởi vì chúng là động cơ của trí tuệ tập thể, không chỉ là trí tuệ nhân tạo.
+
+
+g.
+
+ Chưa hết, họ đã thu được hàng tỷ đô la đầu tư mà không có sự đền bù cho những người tạo ra nội dung.
+
+
+, the Data Act in the EU).
+
+ Trong tương lai, các mô hình như vậy có thể nhằm mục đích làm mọi thứ, từ tự động hóa lao động quy mô lớn đến ngầm kiểm soát các quy trình quyết định.
+
+
+ These efforts are supported by growing academic and research interest in data intermediaries.
+
+ Phát triển các cơ chế, công cụ và hệ thống để thực hiện cách tiếp cận CI để quản trị dữ liệu có thể là một bước đệm để thực hiện các cách tiếp cận tương tự đối với AI biến đổi — chắc chắn là nhận ra đầu vào kinh tế và lợi ích tài chính, nhưng cũng sử dụng các cách có thể mở rộng để xây dựng theo sở thích, giá trị và nhu cầu của con người làm cho hệ thống trở nên như vậy.
+
+
+ But far more work is needed.
+
+ Trong khi các động cơ tiến bộ cho các lĩnh vực công nghệ khác được bôi trơn tốt, nhiều biểu hiện của CI bị thiếu vốn khi so sánh với lời hứa của họ.
+
+
+This is particularly important in the age of transformative AI.
+
+ Nhưng khi được cung cấp nguồn lực và vô địch một cách thích hợp, cách tiếp cận CI đã thành công đáng kể.
+
+
+ Large-scale models like OpenAI’s GPT-3 are trained on hundreds of billions of words written by people, capturing centuries of human knowledge, thought, and insight, everything from books to blogs to wikis.
+
+ Chỉ cần nhìn vào Estonia, nơi đã xây dựng một nền dân chủ kỹ thuật số toàn diện.
+
+
+ These models are incredibly capable, yes, but it is because they are engines of collective intelligence, not just artificial intelligence.
+
+ Hoặc đến Đài Loan, nơi đã triển khai các thử nghiệm tiên tiến trong quản trị cân nhắc, điều phối phi tập trung và đổi mới công nghệ, trong đó hơn một nửa trong số 24 triệu cư dân của đất nước đã tham gia.
+
+
+ And yet, they garner billions of dollars of investment with no recompense for those creating the content.
+
+ Các quốc gia này đang mở rộng khái niệm của chúng tôi về những gì có thể: Họ đã xây dựng các nền tảng cho bỏ phiếu kỹ thuật số, đầu vào lập pháp và hợp tác, bên cạnh các cải cách bao gồm chính sách thuế sáng tạo, đầu tư vào cơ sở hạ tầng công cộng và các giải pháp kỹ thuật nguồn mở, hợp tác cho các vấn đề từ quy định giao thông vận tải đến biến đổi khí hậu.
+
+
+ In the future, such models may aim to do everything from large-scale labor automation to implicitly controlling decision processes.
+
+ Từ vị trí thuận lợi của tôi trong hệ sinh thái quản trị công nghệ của Hoa Kỳ, tình hình thường cảm thấy phân cực như hệ thống chính trị rộng lớn hơn của chúng ta.
+
+
+ Developing the mechanisms, tools, and systems to take a CI approach to data governance can be a stepping stone into taking similar approaches to transformative AI—recognizing economic input and financial interests, to be sure, but also utilizing scalable ways to build toward the preferences, values, and needs of the humans that make the system what it is.
+
+ Các nhà giải pháp công nghệ tránh dân chủ trong khi những người bi quan công nghệ tránh công nghệ, dẫn đến một hệ sinh thái công nghệ ngày càng tách rời khỏi lợi ích tập thể và chính trị của công nghệ ngày càng chống lại ngay cả khả năng tiến bộ chung.
+
+
+ While the engines of progress for other technological fields are well oiled, many manifestations of CI are underfunded when compared to their promise.
+
+ Nhưng trên thực tế, chúng ta còn lâu mới có những hệ thống dân chủ tốt nhất mà chúng ta có thể có cũng như chúng ta đến từ biên giới của sự phát triển mạnh mẽ dựa trên công nghệ.
+
+
+ But when appropriately resourced and championed, the CI approach has been remarkably successful.
+
+ Và chúng ta không thể có cái này nếu không có cái kia - ít nhất, không phải không chấp nhận một dystopia kỹ trị hoặc một cái trì trệ.
+
+
+ Just look to Estonia, which has built a full-stack digital democracy.
+
+ Điều này có nghĩa là chúng ta không chỉ cần "sửa chữa nền dân chủ" và "sửa chữa công nghệ", mà còn tìm cách tận dụng từng cách để theo đuổi người kia.
+
+
+ Or to Taiwan, which has rolled out cutting-edge experiments in deliberative governance, decentralized coordination, and technological innovation, in which more than half of the country’s 24 million residents have participated.
+
+ Để đạt được điều đó sẽ đòi hỏi các nhà hoạch định chính sách phải khởi xướng và tài trợ cho các giải pháp thay thế tích cực, không chỉ ban hành quy định để hạn chế tác hại của hệ thống hiện tại.
+
+
+ These nations are expanding our notions of what's possible: They’ve built platforms for digital voting, legislative input, and collaboration, alongside reforms including innovative tax policy, investments in public infrastructure, and collaborative, open source technical solutions for issues from transportation regulation to climate change.
+
+ Nó sẽ đòi hỏi các hệ thống chính trị sẵn sàng và có thể huy động và triển khai tài trợ vào thử nghiệm trí tuệ tập thể, thông qua trợ cấp, hộp cát để đổi mới nhanh chóng và đầu tư vào tài trợ nghiên cứu cơ bản và cơ sở hạ tầng công cộng kỹ thuật số.
+
+
+From my vantage point within the tech governance ecosystem of the US, the situation often feels as polarized as our broader political system.
+
+ Nó sẽ yêu cầu các nhà công nghệ và nhà nghiên cứu phát triển các chỉ số ngoài các tiêu chuẩn nhân tạo hoặc tối đa hóa mức độ tương tác; đổi lại, nó sẽ yêu cầu các nhà tài trợ và tạp chí thưởng cho những đột phá nghiên cứu nhằm tăng cường trí tuệ tập thể và sự hợp tác.
+
+
+ Techno-solutionists eschew democracy while techno-pessimists eschew technology, resulting in a tech ecosystem increasingly divorced from the collective interest and a politics of technology increasingly against even the possibility of shared progress.
+
+ Nó sẽ yêu cầu các tổ chức xã hội dân sự mở rộng ra ngoài những lời chỉ trích (cần thiết) đối với các hệ sinh thái công nghệ hiện có để triệu tập các cộng đồng để tưởng tượng và đóng góp vào tương lai tốt đẹp hơn, có thể hành động.
+
+
+ But in reality, we are as far from the best democratic systems we could have as we are from the frontiers of technology-enabled flourishing.
+
+ Và nó sẽ đòi hỏi các thí nghiệm trí tuệ tập thể thuộc mọi loại — từ địa phương đến toàn cầu, từ kỹ thuật số đến vật lý, từ lý thuyết đến thực hành.
+
+
+ And we can’t have one without the other—at least, not without embracing either a technocratic dystopia or a stagnant one.
+
+ Đây không chỉ là một công việc cho các tổ chức; đó là một công việc cho tất cả chúng ta, những người được đầu tư vào cả sự tham gia và tiến bộ.
+
+
+This means we need to not only “fix democracy” and “fix technology,” but find ways to leverage each toward the pursuit of the other.
+
+ Đối với tất cả các sai sót của nó, internet ban đầu, nền tảng của nhiều trường hợp CI ngày nay, được xây dựng với tài trợ công cộng, nghiên cứu, đầu vào xã hội dân sự và đổi mới tư nhân.
+
+
+ Getting there will require policymakers to initiate and finance positive alternatives, not just enact regulation to curb the harms of the current system.
+
+ Nó đã tiếp tục tái cấu trúc thời đại của chúng ta.
+
+
+ It will require political systems willing and able to raise and deploy funding into collective intelligence experimentation, via subsidies, sandboxes for fast innovation, and investment into basic research funding and digital public infrastructure.
+
+ Những thách thức gần như không thể vượt qua của thế kỷ này sẽ đòi hỏi sự phối hợp trên quy mô lớn hơn nữa.
+
+
+ It will require technologists and researchers to develop metrics beyond artificial benchmarks or maximizing engagement; in turn, it will require funders and journals to reward research breakthroughs that augment collective intelligence and collaboration.
+
+ Nhưng phần thưởng có thể sẽ còn lớn hơn nữa.
+
+
+ It will require civil society organizations to expand beyond (necessary) criticism of existing technology ecosystems into convening communities to imagine and contribute to actionable, better futures.
+
+ Chúng ta nên đầu tư cho phù hợp.
+
+
+ And it will require collective intelligence experiments of all kinds—from the local to the global, from the digital to the physical, from theory to practice.
+
+.
+
+
+ This isn’t just a job for institutions; it’s a job for all of us who are invested in both participation and progress.
+
+
+For all its flaws, the early internet, the foundation of many CI instances today, was built with public funding, research, civil society input, and private innovation.
+
+
+ It has gone on to restructure our age.
+
+
+ The almost insurmountable challenges of this century will require coordination on an even more massive scale.
+
+
+ But the rewards are likely to be even greater.
+
+
+ We should invest accordingly.
+
+

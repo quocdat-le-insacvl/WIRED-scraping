@@ -1,0 +1,1421 @@
+# Meet the Lobbyist Next Door
+
+
+
+At first glance, the posts appeared to have nothing in common.
+
+Thoạt nhìn, các bài đăng dường như không có gì chung.
+
+
+ A Philadelphia-area attorney who proffers financial advice urged her 1,700 Twitter followers to sign up for a credit union.
+
+ Một luật sư khu vực Philadelphia, người đưa ra lời khuyên tài chính đã kêu gọi 1,700 người theo dõi Twitter của cô đăng ký một liên minh tín dụng.
+
+
+ A 23-year-old climate activist in Texas rallied her 49,000 fans on TikTok and Instagram to join a mailing list promoting Democrats in statewide offices.
+
+ Một nhà hoạt động khí hậu 23 tuổi ở Texas đã tập hợp 49,000 người hâm mộ của mình trên TikTok và Instagram để tham gia một danh sách gửi thư quảng bá đảng Dân chủ tại các văn phòng trên toàn tiểu bang.
+
+
+ A physical therapist for the elderly in Florida prodded her 3,900 Instagram followers to sign a petition demanding that Congress pass paid medical leave, sharing the story of her grandmother’s battle with dementia.
+
+ Một nhà trị liệu vật lý cho người già ở Florida đã thúc đẩy 3,900 người theo dõi cô trên Instagram ký vào một bản kiến nghị yêu cầu Quốc hội thông qua nghỉ phép y tế có lương, chia sẻ câu chuyện về cuộc chiến của bà cô với chứng mất trí nhớ.
+
+
+ Each of these posts was funded by a well-heeled advocacy organization: the Credit Union National Association, the Democratic Association of Secretaries of State, and UsAgainstAlzheimer’s Action.
+
+ Mỗi bài đăng trong số này được tài trợ bởi một tổ chức vận động có uy tín: Hiệp hội Quốc gia Liên minh Tín dụng, Hiệp hội Dân chủ Ngoại trưởng và Hành động của UsAgainstAlzheimer.
+
+
+Even though none of the people reading these posts knew it, however, they were all made possible by the same company: Urban Legend, a small ad-tech startup operating out of a loft in Alexandria, Virginia.
+
+Mặc dù không ai trong số những người đọc các bài đăng này biết điều đó, tuy nhiên, tất cả chúng đều được thực hiện bởi cùng một công ty: Urban Legend, một công ty khởi nghiệp công nghệ quảng cáo nhỏ hoạt động từ một gác xép ở Alexandria,  Virginia.
+
+
+Launched in 2020 by a pair of former Trump administration staffers, Urban Legend pledges on its website to “help brands run accountable and impactful influencer campaigns.
+
+Ra mắt vào năm 2020 bởi một cặp cựu nhân viên chính quyền Trump, Urban Legend cam kết trên trang web của mình sẽ "giúp các thương hiệu thực hiện các chiến dịch có ảnh hưởng có trách nhiệm và có tác động.
+
+
+” Its more comprehensive mission, one rarely articulated in public, is slightly more ambitious.
+
+" Nhiệm vụ toàn diện hơn của nó, một nhiệm vụ hiếm khi được trình bày rõ ràng trước công chúng, có tham vọng hơn một chút.
+
+
+Staffed by a plucky 14-person team, Urban Legend keeps its largest asset carefully hidden away inside its servers: an army of 700 social media influencers who command varying degrees of allegiance from audiences that collectively number in the tens of millions.
+
+ Được biên chế bởi một nhóm 14 người gan dạ, Urban Legend giấu tài sản lớn nhất của mình một cách cẩn thận bên trong các máy chủ của mình: một đội quân gồm 700 người có ảnh hưởng trên mạng xã hội, những người có mức độ trung thành khác nhau từ khán giả với tổng số hàng chục triệu người.
+
+
+ The company has painstakingly cultivated this roster to reflect every conceivable niche of society reflected on the internet: makeup artists, Nascar drivers, home improvement gurus, teachers, doulas, Real Housewives stars, mommy bloggers, NFL quarterbacks, Olympians, and the occasional Fox News pundit.
+
+ Công ty đã chăm chỉ trau dồi danh sách này để phản ánh mọi thị trường ngách có thể tưởng tượng được của xã hội được phản ánh trên internet: nghệ sĩ trang điểm, tài xế Nascar, chuyên gia cải thiện nhà cửa, giáo viên, doulas, ngôi sao Real Housewives, blogger mẹ, tiền vệ NFL, vận động viên Olympic và thỉnh thoảng là chuyên gia của Fox News.
+
+
+These influencers are paired with clients on Urban Legend’s private platform, the Exchange, where buyers spell out the parameters of the message they want to push to the public and set a budget.
+
+ Những người có ảnh hưởng này được ghép nối với khách hàng trên nền tảng riêng của Urban Legend, Sàn giao dịch, nơi người mua nêu ra các thông số của thông điệp mà họ muốn đẩy ra công chúng và đặt ngân sách.
+
+
+ Influencers snatch the best available offers from a menu and are then free to craft the campaign’s message, molding it to the rhythms and vernacular of their followers.
+
+ Những người có ảnh hưởng giành lấy các ưu đãi tốt nhất hiện có từ thực đơn và sau đó được tự do tạo thông điệp của chiến dịch, uốn nắn nó theo nhịp điệu và tiếng bản địa của những người theo dõi họ.
+
+
+ Clients only pay for each “conversion” an influencer nets—$1.
+
+ Khách hàng chỉ trả tiền cho mỗi lần "chuyển đổi" mà một người có ảnh hưởng ròng — 1.
+
+
+25, say, for every follower who joins a newsletter.
+
+25 đô la, giả sử, cho mỗi người theo dõi tham gia bản tin.
+
+
+ In two years, Urban Legend’s influencers have run more than 400 campaigns, connecting people to its clients millions of times.
+
+ Trong hai năm, những người có ảnh hưởng của Urban Legend đã chạy hơn 400 chiến dịch, kết nối mọi người với khách hàng của mình hàng triệu lần.
+
+
+ Henri Makembe, a veteran Democratic campaign strategist in Washington who has worked with Urban Legend several times, compared the concept to “unboxing” videos—when an influencer unwraps and showcases a product sent to them by a brand.
+
+ Henri Makembe, một chiến lược gia chiến dịch kỳ cựu của đảng Dân chủ ở Washington, người đã làm việc với Urban Legend nhiều lần, đã so sánh khái niệm này với các video "mở hộp" — khi một người có ảnh hưởng mở ra và giới thiệu một sản phẩm do một thương hiệu gửi cho họ.
+
+
+ Such product influencers are a $15 billion marketing industry.
+
+ Những người có ảnh hưởng đến sản phẩm như vậy là một ngành công nghiệp tiếp thị trị giá 15 tỷ đô la.
+
+
+ “Now we’re realizing, ‘Oh: We can do that with an idea,’” Makembe says.
+
+ "Bây giờ chúng tôi đang nhận ra, 'Ồ: Chúng tôi có thể làm điều đó với một ý tưởng,' Makembe nói.
+
+
+This model is the brainchild of Urban Legend’s 35-year-old founder and CEO, Ory Rinat.
+
+ Mô hình này là đứa con tinh thần của người sáng lập và Giám đốc điều hành 35 tuổi của Urban Legend, Ory Rinat.
+
+
+ Rinat spent the early part of his career working in Washington’s media circles before becoming director of digital strategy for the Trump White House.
+
+ Rinat đã dành phần đầu sự nghiệp của mình để làm việc trong giới truyền thông của Washington trước khi trở thành giám đốc chiến lược kỹ thuật số cho Nhà Trắng của Trump.
+
+
+ The idea for Urban Legend arose from many currents in American public life, including “the rise of influencer marketing, the increase in trust in those people, and also the rise of individuals to be their own media brand,” he says.
+
+ Ý tưởng cho Urban Legend nảy sinh từ nhiều dòng chảy trong cuộc sống công cộng của Mỹ, bao gồm "sự gia tăng của tiếp thị người ảnh hưởng, sự gia tăng niềm tin vào những người đó và cả sự trỗi dậy của các cá nhân để trở thành thương hiệu truyền thông của riêng họ," ông nói.
+
+
+ In both retail and influencer politics, he says, small is big: “Our creators range from 3,000 to 14 million followers,” Rinat tells me, but the majority are “micro-influencers” (those with 100,000 or fewer followers) and “nano-influencers” (fewer than 10,000).
+
+ Trong cả chính trị bán lẻ và người có ảnh hưởng, anh ấy nói, nhỏ là rất lớn: "Những người sáng tạo của chúng tôi dao động từ 3,000 đến 14 triệu người theo dõi," Rinat nói với tôi, nhưng phần lớn là "những người có ảnh hưởng vi mô" (những người có 100,000 người theo dõi trở xuống) và "những người có ảnh hưởng nano" (dưới 10,000).
+
+
+Like baseball, selling influence is a pastime that rarely gets reinvented.
+
+ Giống như bóng chày, bán ảnh hưởng là một trò tiêu khiển hiếm khi được phát minh lại.
+
+
+ There are only so many ways to get a person to do the thing you want.
+
+ Chỉ có rất nhiều cách để khiến một người làm điều bạn muốn.
+
+
+ In politics, the more solicitous methods include robocalls and email spam with increasingly audacious subject lines (“Hey, it’s Barack”).
+
+ Trong chính trị, các phương pháp hấp dẫn hơn bao gồm cuộc gọi tự động và thư rác email với các dòng tiêu đề ngày càng táo bạo ("Này, đó là Barack").
+
+
+ “The most impactful messaging strategies have always been the most personalized,” says Anat Shenker-Osorio, a progressive campaign consultant based in California.
+
+ "Các chiến lược nhắn tin có tác động mạnh mẽ nhất luôn được cá nhân hóa nhiều nhất," Anat Shenker-Osorio, một nhà tư vấn chiến dịch tiến bộ có trụ sở tại California cho biết.
+
+
+ Peer-to-peer outreach has long proven the most effective at persuading or mobilizing—appeals that create “the feeling like this is a real person talking to me.
+
+ Tiếp cận ngang hàng từ lâu đã được chứng minh là hiệu quả nhất trong việc thuyết phục hoặc huy động — những lời kêu gọi tạo ra "cảm giác như đây là một người thực sự đang nói chuyện với tôi.
+
+
+” Urban Legend’s approach reflects this insight, embracing influencers less as celebrity spokespeople than as peers for hire.
+
+" Cách tiếp cận của Urban Legend phản ánh cái nhìn sâu sắc này, ít chấp nhận những người có ảnh hưởng với tư cách là người phát ngôn của người nổi tiếng hơn là những người đồng nghiệp cho thuê.
+
+
+ If an influencer’s financial advice helped you save for a vacation or their fashion tips earned you compliments, maybe their view on the minimum wage, or critical race theory, is worth considering too.
+
+ Nếu lời khuyên tài chính của một người có ảnh hưởng giúp bạn tiết kiệm cho một kỳ nghỉ hoặc các mẹo thời trang của họ giúp bạn nhận được lời khen ngợi, có thể quan điểm của họ về mức lương tối thiểu, hoặc lý thuyết chủng tộc quan trọng, cũng đáng để xem xét.
+
+
+ “To then have that person give you information about politics? That’s potentially an incredibly potent and powerful messenger,” says Shenker-Osorio.
+
+ "Để sau đó người đó cung cấp cho bạn thông tin về chính trị? Đó có khả năng là một sứ giả cực kỳ mạnh mẽ và mạnh mẽ, "Shenker-Osorio nói.
+
+
+But the rise of this new messenger has disquieted some.
+
+Nhưng sự trỗi dậy của sứ giả mới này đã khiến một số người lo lắng.
+
+
+ For one, it’s unclear whether influencers are following federal disclosure rules.
+
+ Đầu tiên, không rõ liệu những người có ảnh hưởng có đang tuân theo các quy tắc tiết lộ liên bang hay không.
+
+
+ And as at similar firms, the names of Urban Legend’s influencers and clients are a closely held secret—or were, until recently—creating the prospect of an internet flush with untraceable money, in which Americans can no longer tell an earnest opinion from a paid one.
+
+ Và cũng như tại các công ty tương tự, tên của những người có ảnh hưởng và khách hàng của Urban Legend là một bí mật được giữ chặt chẽ — hoặc cho đến gần đây — tạo ra triển vọng về một internet tràn ngập với số tiền không thể theo dõi được, trong đó người Mỹ không còn có thể nói ý kiến nghiêm túc từ một người được trả tiền.
+
+
+ Initially, Rinat told me that the firm’s clients included a Fortune 50 tech company, a “major labor union,” an “environmental advocacy group,” and one “LGBTQ+ advocacy group.
+
+ Ban đầu, Rinat nói với tôi rằng khách hàng của công ty bao gồm một công ty công nghệ trong danh sách Fortune 50, một "công đoàn lao động lớn", một "nhóm vận động môi trường" và một "nhóm vận động LGBTQ +".
+
+
+”In Washington, there’s been a swell of interest in the influencer business, across the political spectrum.
+
+ Ở Washington, đã có rất nhiều sự quan tâm đến hoạt động kinh doanh có ảnh hưởng, trên toàn bộ phạm vi chính trị.
+
+
+ It bears the signs of an incipient arms race, much like the advent of super PACs a decade ago.
+
+ Nó mang dấu hiệu của một cuộc chạy đua vũ trang mới bắt đầu, giống như sự ra đời của các siêu ỦY BAN một thập kỷ trước.
+
+
+ Hany Farid, a professor of computer science at UC Berkeley who has briefed the Biden administration on social media regulation, predicted that Urban Legend’s model will be recapitulated widely before the 2024 presidential election.
+
+ Hany Farid, giáo sư khoa học máy tính tại UC Berkeley, người đã báo cáo với chính quyền Biden về quy định truyền thông xã hội, dự đoán rằng mô hình của Urban Legend sẽ được tóm tắt lại rộng rãi trước cuộc bầu cử tổng thống năm 2024.
+
+
+ “This is the future,” Farid told me.
+
+ "Đây là tương lai," Farid nói với tôi.
+
+
+Tellingly, both Urban Legend’s boosters and its detractors agree on the presence of a black hole at the center of the internet that’s pulled society into alignment with its goals.
+
+ Đáng nói, cả tên lửa đẩy của Urban Legend và những người gièm pha đều đồng ý về sự hiện diện của một lỗ đen ở trung tâm internet đã kéo xã hội phù hợp với mục tiêu của nó.
+
+
+ “To understand what Urban Legend is doing, you have to look at where we are as a society,” says Makembe.
+
+ Makembe nói: "Để hiểu Những gì Urban Legend đang làm, bạn phải nhìn vào vị trí của chúng ta với tư cách là một xã hội.
+
+
+ “There’s a lack of trust”—in institutions, in media, in each other—a worsening problem that he says Urban Legend is solving.
+
+ " "Có một sự thiếu tin tưởng" - trong các tổ chức, trong truyền thông, lẫn nhau - một vấn đề tồi tệ hơn mà ông nói Urban Legend đang giải quyết.
+
+
+ Others are less sanguine.
+
+ Những người khác thì ít lạc quan hơn.
+
+
+ “You’re getting paid to manipulate your followers,” Farid says flatly.
+
+ "Bạn đang được trả tiền để thao túng những người theo dõi mình," Farid nói thẳng thừng.
+
+
+ “Somebody with 3,000 followers is now, essentially, a lobbyist.
+
+ "Ai đó với 3,000 người theo dõi bây giờ, về cơ bản, là một nhà vận động hành lang.
+
+
+”Raised in Queens, New York, Rinat launched his first business at age 10.
+
+" Lớn lên ở Queens, New York, Rinat bắt đầu công việc kinh doanh đầu tiên của mình ở tuổi 10.
+
+
+ He pasted together several mail-order catalogs from rival home goods sellers and then enlisted preteen influencers—his elementary school peers—to peddle them to their parents.
+
+ Anh ấy đã dán một số danh mục đặt hàng qua thư từ những người bán đồ gia dụng đối thủ và sau đó tranh thủ những người có ảnh hưởng trước mười mấy người — những người bạn học tiểu học của anh ấy — để bán hàng rong cho cha mẹ của họ.
+
+
+ Young Ory managed the orders and took a cut of the sales (“a couple hundred dollars,” he estimates).
+
+ Ory trẻ quản lý các đơn đặt hàng và cắt giảm doanh số bán hàng ("vài trăm đô la", anh ước tính).
+
+
+ The concept is not so different from Urban Legend, knitting sellers together within one convenient ecosystem.
+
+ Khái niệm này không quá khác biệt so với Urban Legend, đan những người bán hàng lại với nhau trong một hệ sinh thái thuận tiện.
+
+
+After graduating from Columbia University in 2009 with a degree in political science and history, Rinat moved to Washington, DC.
+
+ Sau khi tốt nghiệp Đại học Columbia năm 2009 với bằng khoa học chính trị và lịch sử, Rinat chuyển đến Washington, DC.
+
+
+ He attended the night program at Georgetown’s law school while working on the business team of Atlantic Media, the parent company of magazines like The Atlantic and National Journal.
+
+ Anh đã tham dự chương trình ban đêm tại trường luật của Georgetown trong khi làm việc trong nhóm kinh doanh của Atlantic Media, công ty mẹ của các tạp chí như The Atlantic và National Journal.
+
+
+ Rinat and his colleagues were experimenting with how to keep magazines profitable after the internet had torpedoed their ad revenues.
+
+ Rinat và các đồng nghiệp của ông đang thử nghiệm cách giữ cho các tạp chí có lãi sau khi internet đã phóng ngư lôi vào doanh thu quảng cáo của họ.
+
+
+ His team became a pioneer of sponsored content, consulting with big-name companies to create multimedia versions of magazine-style stories.
+
+ Nhóm của ông đã trở thành người tiên phong về nội dung được tài trợ, tư vấn cho các công ty tên tuổi để tạo ra các phiên bản đa phương tiện của những câu chuyện theo phong cách tạp chí.
+
+
+From a business perspective, however, Rinat found aspects of this model to be a bad deal for corporate clients.
+
+ Tuy nhiên, từ góc độ kinh doanh, Rinat nhận thấy các khía cạnh của mô hình này là một thỏa thuận tồi cho các khách hàng doanh nghiệp.
+
+
+ It had what he calls an “authenticity problem,” in that few people raced to read an “article” written by suits at Exxon.
+
+ Nó có cái mà ông gọi là "vấn đề xác thực", trong đó rất ít người chạy đua để đọc một "bài báo" được viết bởi bộ đồ tại Exxon.
+
+
+ There was also an “accountability problem.
+
+ Ngoài ra còn có một "vấn đề trách nhiệm giải trình.
+
+
+” Corporate advertisers paid one lump sum up front, then simply hoped people would see their ad.
+
+" Các nhà quảng cáo công ty đã trả trước một khoản tiền một lần, sau đó chỉ hy vọng mọi người sẽ nhìn thấy quảng cáo của họ.
+
+
+ Rinat recalled one DC trade association that paid a marketing agency $300,000 to place ads on Facebook urging users to email their congressperson.
+
+ Rinat nhớ lại một hiệp hội thương mại DC đã trả cho một công ty tiếp thị 300,000 đô la để đặt quảng cáo trên Facebook kêu gọi người dùng gửi email cho nghị sĩ của họ.
+
+
+ In the end, the group netted 600 emails—$500 per email.
+
+ Cuối cùng, nhóm đã thu về 600 email — 500 đô la cho mỗi email.
+
+
+Rinat speaks the savvy language of internet marketing; in layman’s vocabulary, “accountability” means “getting clients their money’s worth,” and “authenticity” means “making people believe your message is genuine, even though someone paid for it.
+
+ Rinat nói ngôn ngữ hiểu biết về tiếp thị internet; trong từ vựng của giáo dân, "trách nhiệm giải trình" có nghĩa là "nhận được giá trị tiền của khách hàng" và "tính xác thực" có nghĩa là "làm cho mọi người tin rằng thông điệp của bạn là có thật, mặc dù ai đó đã trả tiền cho nó.
+
+
+” Nevertheless, Rinat sensed these challenges had implications beyond journalism.
+
+" Tuy nhiên, Rinat cảm thấy những thách thức này có ý nghĩa ngoài báo chí.
+
+
+ Around Washington, he began asking strange questions—such as the price corporate buyers were willing to pay for, say, a citizen’s heartfelt letter to Congress.
+
+ Xung quanh Washington, ông bắt đầu đặt ra những câu hỏi kỳ lạ — chẳng hạn như cái giá mà những người mua công ty sẵn sàng trả cho, chẳng hạn như bức thư chân thành của một công dân gửi quốc hội.
+
+
+ (One client’s answer: $48.
+
+ (Câu trả lời của một khách hàng: $ 48.
+
+
+) He wondered whether some new development would bridge these problems.
+
+) Ông tự hỏi liệu một số phát triển mới có thể thu hẹp những vấn đề này hay không.
+
+
+ “What was left,” he reasoned, was “finding the mechanism.
+
+ "Những gì còn lại," ông lý luận, là "tìm ra cơ chế.
+
+
+”Rinat kept these ideas alive when he began directing digital strategy for the conservative Heritage Foundation in 2015.
+
+" Rinat đã giữ những ý tưởng này tồn tại khi ông bắt đầu chỉ đạo chiến lược kỹ thuật số cho Quỹ Di sản bảo thủ vào năm 2015.
+
+
+ After Trump’s election, Rinat took an appointment in the State Department for a program combating violent extremism and terrorism online.
+
+ Sau cuộc bầu cử của Trump, Rinat đã nhận một cuộc hẹn trong Bộ Ngoại giao cho một chương trình chống lại chủ nghĩa cực đoan bạo lực và khủng bố trực tuyến.
+
+
+ Two weeks into the job, the incoming White House director of digital strategy reportedly failed an FBI background check, and Rinat was appointed interim director.
+
+ Hai tuần sau khi làm việc, giám đốc chiến lược kỹ thuật số sắp tới của Nhà Trắng được cho là đã thất bại trong việc kiểm tra lý lịch của FBI và Rinat được bổ nhiệm làm giám đốc lâm thời.
+
+
+ Eventually, he stayed on.
+
+ Cuối cùng, anh ấy đã ở lại.
+
+
+ From his office in the Eisenhower Building, he helped redesign the White House website, build a web portal for the response to the opioid crisis, and launch Coronavirus.
+
+ Từ văn phòng của mình trong Tòa nhà Eisenhower, ông đã giúp thiết kế lại trang web của Nhà Trắng, xây dựng một cổng thông tin điện tử để ứng phó với cuộc khủng hoảng opioid và ra mắt Coronavirus.
+
+
+gov.
+
+gov.
+
+
+Rinat situated the company along a spectrum of persuasion.
+
+Rinat đặt công ty theo một loạt các biện pháp thuyết phục.
+
+
+ “What’s the highest possible thing on that spectrum? It’s probably a one-to-one communication—somebody you trust,” he says.
+
+ "Điều cao nhất có thể có trên quang phổ đó là gì? Đó có lẽ là một cuộc giao tiếp xnumx-XNUMX - người mà bạn tin tưởng, "anh nói.
+
+
+ “We’re just below that.
+
+ " "Chúng tôi chỉ ở dưới mức đó.
+
+
+”By then, social media influencers had gained a tighter grip on politics, particularly in Trump’s brand of movement conservatism.
+
+" Vào thời điểm đó, những người có ảnh hưởng trên mạng xã hội đã nắm bắt chặt chẽ hơn về chính trị, đặc biệt là trong thương hiệu chủ nghĩa bảo thủ phong trào của Trump.
+
+
+ Rinat explored ways to unlock their power.
+
+ Rinat đã khám phá các cách để mở khóa sức mạnh của họ.
+
+
+ In 2019, alongside Sondra Clark, the administration’s director of marketing and campaigns, Rinat helped organize the first White House Social Media Summit.
+
+ Vào năm 2019, cùng với Sondra Clark, giám đốc tiếp thị và chiến dịch của chính quyền, Rinat đã giúp tổ chức Hội nghị thượng đỉnh truyền thông xã hội đầu tiên của Nhà Trắng.
+
+
+ At the event, Trump gathered in the East Room with about 200 online “digital leaders” in conservative politics—activists and rabble-rousers including Project Veritas founder James O’Keefe, Turning Point USA’s Charlie Kirk, and Bill Mitchell, a spreader of the then incipient QAnon conspiracy.
+
+ Tại sự kiện này, Trump đã tập trung tại Phòng phía Đông với khoảng 200 "nhà lãnh đạo kỹ thuật số" trực tuyến trong chính trị bảo thủ — các nhà hoạt động và những người theo chủ nghĩa rabble bao gồm người sáng lập Dự án Veritas James O'Keefe, Charlie Kirk của Turning Point USA và Bill Mitchell, một người lan truyền âm mưu QAnon mới bắt đầu.
+
+
+ “The crap you think of,” Trump told the crowd, “is unbelievable.
+
+ "Những điều tào lao mà bạn nghĩ đến," Trump nói với đám đông, "thật không thể tin được.
+
+
+” The event, according to an administration official who attended, was in keeping with a larger strategy in which social media mavens were given “an exclusive-access look at what the administration was doing, and then reaping the benefits” as they posted enthusiastically about their time at the White House.
+
+" Sự kiện này, theo một quan chức chính quyền tham dự, phù hợp với một chiến lược lớn hơn, trong đó các mavens truyền thông xã hội được cung cấp "một cái nhìn độc quyền về những gì chính quyền đang làm, và sau đó gặt hái những lợi ích" khi họ đăng bài nhiệt tình về thời gian của họ tại Nhà Trắng.
+
+
+ “Sondra and Ory,” the person continued, “were really the architects of that.
+
+ "Sondra và Ory," người này tiếp tục, "thực sự là kiến trúc sư của điều đó.
+
+
+”Influencers had become “the mechanism” Rinat was searching for—the ultimate gig labor force, capable of delivering what he called “cost-per-action marketing, with client-set rates.
+
+" Những người có ảnh hưởng đã trở thành "cơ chế" mà Rinat đang tìm kiếm — lực lượng lao động hợp đồng biểu diễn cuối cùng, có khả năng cung cấp cái mà ông gọi là "tiếp thị chi phí cho mỗi hành động, với tỷ lệ do khách hàng đặt ra".
+
+
+” He began floating his business idea to mentors.
+
+ Anh ấy bắt đầu đưa ý tưởng kinh doanh của mình cho những người cố vấn.
+
+
+ (One was Atlantic Media chair David Bradley.
+
+ (Một người là chủ tịch Atlantic Media David Bradley.
+
+
+) In June 2020, Rinat left the White House.
+
+) Vào tháng 2020 năm XNUMX, Rinat rời Nhà Trắng.
+
+
+ Less than a month later he launched Urban Legend, and Clark came on board as president.
+
+ Chưa đầy một tháng sau, ông ra mắt Urban Legend, và Clark tham gia với tư cách là chủ tịch.
+
+
+ One of their first clients was their former boss.
+
+ Một trong những khách hàng đầu tiên của họ là sếp cũ của họ.
+
+
+ In the second half of 2020, according to the Federal Election Commission, the Trump campaign paid Rinat’s firm more than $1 million for “online advertising.
+
+ Trong nửa cuối năm 2020, theo Ủy ban Bầu cử Liên bang, chiến dịch tranh cử của Trump đã trả cho công ty của Rinat hơn 1 triệu đô la cho "quảng cáo trực tuyến".
+
+
+”Rinat was unspooling this history from the corner of Urban Legend’s brick-and-cedar office when I visited on a warm morning this past spring.
+
+ Rinat đang gỡ bỏ lịch sử này từ góc văn phòng gạch và tuyết tùng của Urban Legend khi tôi đến thăm vào một buổi sáng ấm áp vào mùa xuân vừa qua.
+
+
+ The firm occupies the top floor of a townhouse in Alexandria’s colonial-style downtown, wedged between a boutique pizzeria and a clothing store.
+
+ Công ty chiếm tầng cao nhất của một ngôi nhà phố ở trung tâm thành phố theo phong cách thuộc địa của Alexandria, nằm giữa một tiệm bánh pizza boutique và một cửa hàng quần áo.
+
+
+ By turns charming and withdrawn, Rinat has a clean-shaven head and a taciturn, solemn air, except for amused eyes that turn up cheerily at the corners when he is considering some proposition.
+
+ Lần lượt quyến rũ và thu mình lại, Rinat có một cái đầu cạo râu sạch sẽ và một bầu không khí trang trọng, ngầm, ngoại trừ đôi mắt thích thú bật lên một cách vui vẻ ở các góc khi anh ta đang xem xét một số đề xuất.
+
+
+ “The technology we’re talking about is not revolutionary,” he clarifies at the outset.
+
+ "Công nghệ mà chúng ta đang nói đến không phải là một cuộc cách mạng," ông làm rõ ngay từ đầu.
+
+
+ “We just integrated it.
+
+ "Chúng tôi chỉ tích hợp nó.
+
+
+”He led me into the team’s small conference room, which had chic-ish furniture and a small library.
+
+" Anh ấy dẫn tôi vào phòng hội nghị nhỏ của đội, nơi có đồ đạc sang trọng và một thư viện nhỏ.
+
+
+ (Books included Confrontational Politics, by a gun-rights activist, and Rules for Revolutionaries, by two Bernie Sanders consultants.
+
+ (Các cuốn sách bao gồm Chính trị đối đầu, của một nhà hoạt động vì quyền sử dụng súng và Quy tắc cho những người cách mạng, bởi hai chuyên gia tư vấn của Bernie Sanders.
+
+
+) Hanging on the wall was a large television monitor, where Rinat spun through a tour of the Exchange, using me as a hypothetical influencer (or “creator,” as he prefers).
+
+) Treo trên tường là một màn hình truyền hình lớn, nơi Rinat quay qua một chuyến tham quan Sàn giao dịch, sử dụng tôi như một người có ảnh hưởng giả định (hay "người sáng tạo", tùy thích).
+
+
+ We set up my creator account, then clicked on a tab labeled “My Campaigns.
+
+ Chúng tôi thiết lập tài khoản người sáng tạo của tôi, sau đó nhấp vào tab có nhãn "Chiến dịch của tôi".
+
+
+” On prim, eggshell-colored menu panes, I was presented with campaigns from a series of eager advertisers.
+
+ Trên các ngăn menu màu vỏ trứng, tôi đã được giới thiệu với các chiến dịch từ một loạt các nhà quảng cáo háo hức.
+
+
+ One dummy client, called Shipmates, was a sustainable packaging company that wanted my followers to sign up for its newsletter.
+
+ Một khách hàng giả, được gọi là Shipmates, là một công ty đóng gói bền vững muốn những người theo dõi tôi đăng ký nhận bản tin của nó.
+
+
+ The company offered me $1.
+
+ Công ty đã cung cấp cho tôi 1.
+
+
+90 as the “revenue per conversion,” with a limit of 3,000 sign-ups.
+
+90 đô la dưới dạng "doanh thu trên mỗi chuyển đổi", với giới hạn 3,000 lượt đăng ký.
+
+
+ I checked a box, agreeing to the terms and conditions, and clicked “Join Campaign.
+
+ Tôi đã chọn một hộp, đồng ý với các điều khoản và điều kiện và nhấp vào "Tham gia chiến dịch".
+
+
+”“Here’s the irony of this whole thing.
+
+ Đây là điều trớ trêu của toàn bộ điều này.
+
+
+ Urban legend is relying on precisely the same thing”—trust—“that it is arguably destroying.
+
+ Truyền thuyết đô thị đang dựa vào chính xác điều tương tự "— tin tưởng — "rằng nó được cho là đang phá hủy.
+
+
+”Now I was officially influencing for cash.
+
+" Bây giờ tôi đã chính thức ảnh hưởng đến tiền mặt.
+
+
+ Shipmates offered me a “campaign brief”—suggesting rhetoric for getting my followers to “join our sustainability conversation.
+
+ Những người bạn cùng tàu đã đề nghị tôi một "bản tóm tắt chiến dịch" — gợi ý những lời hoa mỹ để thu hút những người theo dõi tôi "tham gia cuộc trò chuyện về tính bền vững của chúng tôi".
+
+
+” But how I crafted this appeal was up to me.
+
+ Nhưng làm thế nào tôi tạo ra sự hấp dẫn này là tùy thuộc vào tôi.
+
+
+ I was given a menu of custom links, each traceable just to me, and each designated to a different platform: Twitter, Instagram, Facebook, YouTube.
+
+ Tôi đã được cung cấp một menu các liên kết tùy chỉnh, mỗi liên kết có thể theo dõi chỉ dành cho tôi và mỗi liên kết được chỉ định cho một nền tảng khác nhau: Twitter, Instagram, Facebook, YouTube.
+
+
+ Rinat had an employee click one of my links, sending their browser to Shipmates’ newsletter page, where they promptly signed up.
+
+ Rinat đã yêu cầu một nhân viên nhấp vào một trong các liên kết của tôi, gửi trình duyệt của họ đến trang bản tin của Shipmates, nơi họ đã nhanh chóng đăng ký.
+
+
+ On my dashboard, a ticker labeled “Your Conversions” flipped from 0 to 1.
+
+ Trên trang tổng quan của tôi, một mã báo giá có nhãn "Chuyển đổi của bạn" đã lật từ 0 xuống 1.
+
+
+ “And look at that,” Rinat said gamely.
+
+ "Và hãy nhìn vào điều đó," Rinat nói một cách trò chơi.
+
+
+ “You just made a dollar ninety.
+
+ "Bạn vừa kiếm được một đô la chín mươi.
+
+
+” Among other tricks, Urban Legend can also track visits to an advertiser’s website, books on Amazon, op-eds in The New York Times, and form emails to Congress.
+
+" Trong số các thủ thuật khác, Urban Legend cũng có thể theo dõi lượt truy cập vào trang web của nhà quảng cáo, sách trên Amazon, op-eds trên The New York Times và tạo email cho Congress.
+
+
+At a cramped desk a few feet away sat Sophia Schreiber, a 26-year-old “creator success coordinator.
+
+At một chiếc bàn chật chội cách đó vài bước chân Sophia Schreiber, một "điều phối viên thành công của người sáng tạo" 26 tuổi.
+
+
+” Schreiber scours the internet for social media personas who have a loyal following and post in areas that advertisers might want to reach.
+
+ Schreiber lùng sục trên internet để tìm kiếm những nhân vật truyền thông xã hội có lượng người theo dõi trung thành và đăng bài ở những khu vực mà các nhà quảng cáo có thể muốn tiếp cận.
+
+
+ (Fast-growing verticals are parenting and wellness—and, lately, cryptocurrency educators, Rinat says.
+
+ (Ngành dọc đang phát triển nhanh chóng là nuôi dạy con cái và sức khỏe — và gần đây, các nhà giáo dục tiền điện tử, Rinat nói.
+
+
+) Sitting inside a white-paneled phone booth was James Hong, the company’s 30-year-old vice president.
+
+) Ngồi bên trong một bốt điện thoại ốp trắng là James Hong, phó chủ tịch 30 tuổi của công ty.
+
+
+ After Schreiber flags the influencers, Hong and others call them to vet their demeanor and professionalism—and to suss out any untapped advertising potential.
+
+ Sau khi Schreiber gắn cờ cho những người có ảnh hưởng, Hong và những người khác gọi họ để kiểm tra phong thái và tính chuyên nghiệp của họ — và để loại bỏ bất kỳ tiềm năng quảng cáo nào chưa được khai thác.
+
+
+ Urban Legend’s influencers “are incredibly multi-faceted,” Rinat explains.
+
+ Những người có ảnh hưởng của Urban Legend "cực kỳ đa diện," Rinat giải thích.
+
+
+ “We might be onboarding a blogger who has cooking tips” but come to learn they also care about climate change or religion—“issues they’re passionate about, but not always posting about,” Rinat says.
+
+ Rinat nói: "Chúng tôi có thể đang giới thiệu một blogger có mẹo nấu ăn" nhưng hãy tìm hiểu rằng họ cũng quan tâm đến biến đổi khí hậu hoặc tôn giáo — "những vấn đề họ đam mê, nhưng không phải lúc nào cũng đăng tải.
+
+
+After a team lunch, Urban Legend’s president, Sondra Clark, joined us at the conference table and explained the delicate art of influencer management.
+
+ " Sau bữa trưa của nhóm, chủ tịch của Urban Legend, Sondra Clark, đã tham gia cùng chúng tôi tại bàn hội nghị và giải thích nghệ thuật tinh tế của quản lý người ảnh hưởng.
+
+
+ Chosen influencers are classified within a large, meticulously maintained database.
+
+ Những người có ảnh hưởng được chọn được phân loại trong một cơ sở dữ liệu lớn, được duy trì tỉ mỉ.
+
+
+ To an extent, Urban Legend can curate the messengers for its corporate clients by sending push notifications that nudge them toward campaigns based on the creators’ profile of causes.
+
+ Ở một mức độ nào đó, Urban Legend có thể quản lý các sứ giả cho khách hàng doanh nghiệp của mình bằng cách gửi thông báo đẩy họ đến các chiến dịch dựa trên hồ sơ nguyên nhân của người sáng tạo.
+
+
+ Set against Rinat’s more austere mode, Clark seemed congenitally sunny, exuding a breezy charm.
+
+ Đặt chống lại chế độ khắc khổ hơn của Rinat, Clark dường như nắng bẩm sinh, toát lên vẻ quyến rũ nhẹ nhàng.
+
+
+ She framed the Exchange as empowering for influencers.
+
+ Cô ấy đã đóng khung Sàn giao dịch là trao quyền cho những người có ảnh hưởng.
+
+
+ “‘I want to talk about human trafficking,’” she says, mimicking an influencer.
+
+ "'Tôi muốn nói về nạn buôn người,' cô nói, bắt chước một người có ảnh hưởng.
+
+
+ “That’s awesome! And they get a text from us—hey, there’s a campaign in your account on this issue.
+
+ "Thật tuyệt vời! Và họ nhận được một tin nhắn từ chúng tôi — này, có một chiến dịch trong tài khoản của bạn về vấn đề này.
+
+
+”In conversation, Rinat and Clark like to emphasize causes with a liberal bent, like climate change, or no bent, like Alzheimer’s awareness, but they left their more conservative campaigns a mystery.
+
+ Trong cuộc trò chuyện, Rinat và Clark muốn nhấn mạnh các nguyên nhân với khuynh hướng tự do, như biến đổi khí hậu hoặc không bị bẻ cong, như nhận thức về bệnh Alzheimer, nhưng họ đã để lại cho các chiến dịch bảo thủ hơn của họ một bí ẩn.
+
+
+ When our conversation neared the subject of partisan influence on the Exchange, Rinat evinced a tactful froideur.
+
+ Khi cuộc trò chuyện của chúng tôi gần đến chủ đề ảnh hưởng của đảng phái đối với Sàn giao dịch, Rinat đã đánh bại một froideur khéo léo.
+
+
+ His vision for the platform was one that can “work with everybody,” he said, somewhat elliptically.
+
+ Tầm nhìn của anh ấy đối với nền tảng này là một tầm nhìn có thể "làm việc với tất cả mọi người", anh ấy nói, hơi elip.
+
+
+ Urban Legend’s staff is almost evenly split between Democrats and Republicans, he said, and most come from the world of marketing.
+
+ Ông nói, nhân viên của Urban Legend gần như phân chia đều giữa đảng Dân chủ và đảng Cộng hòa, và hầu hết đến từ thế giới tiếp thị.
+
+
+ “When you’re talking about hospital price transparency or prenatal health care or Alzheimer’s, it’s not left-right.
+
+ "Khi bạn đang nói về sự minh bạch về giá bệnh viện hoặc chăm sóc sức khỏe trước khi sinh hoặc bệnh Alzheimer, nó không phải là trái phải.
+
+
+ It’s beyond politics,” Rinat said.
+
+ Nó vượt ra ngoài chính trị, "Rinat nói.
+
+
+It would all become clear, supposedly, when I met Rinat’s selected influencers.
+
+ " Tất cả sẽ trở nên rõ ràng, được cho là, khi tôi gặp những người có ảnh hưởng được chọn của Rinat.
+
+
+ One was Zahra Biabani, the 23-year-old creator behind the Instagram and TikTok accounts Soulful Seeds, who was recruited by Urban Legend last fall.
+
+ Một người là Zahra Biabani, người sáng tạo 23 tuổi đứng sau tài khoản Instagram và TikTok Soulful Seeds, người đã được Urban Legend tuyển dụng vào mùa thu năm ngoái.
+
+
+ “I didn’t know that you could be paid for sharing a petition!” she says, laughing.
+
+ "Tôi không biết rằng bạn có thể được trả tiền cho việc chia sẻ một bản kiến nghị!" cô ấy nói, cười.
+
+
+ Biabani has around 30,000 followers on Instagram and 19,000 on TikTok and posts what she calls “climate optimism”—sharing motivating news about climate change, occasionally while grooving to a pop soundtrack.
+
+ Biabani có khoảng 30,000 người theo dõi trên Instagram và 19,000 trên TikTok và đăng cái mà cô ấy gọi là "lạc quan về khí hậu" — chia sẻ tin tức thúc đẩy về biến đổi khí hậu, đôi khi trong khi chuyển sang nhạc pop.
+
+
+ (Instagram’s official account, with 500 million followers, featured one of her dances on Earth Day.
+
+ (Tài khoản chính thức của Instagram, với 500 triệu người theo dõi, đã giới thiệu một trong những điệu nhảy của cô ấy vào Ngày Trái đất.
+
+
+) From Biabani’s point of view, Urban Legend wasn’t asking her to do anything unusual.
+
+) Theo quan điểm của Biabani, Urban Legend không yêu cầu cô ấy làm bất cứ điều gì bất thường.
+
+
+ “You could get paid for promoting things that I would already promote,” she says.
+
+ "Bạn có thể được trả tiền cho việc quảng cáo những thứ mà tôi đã quảng cáo," cô nói.
+
+
+ To her, the Exchange “is a very low-effort and noncontroversial way of leveraging the values-aligned audience that I built as an influencer.
+
+ Đối với cô ấy, Sàn giao dịch "là một cách rất ít nỗ lực và không gây tranh cãi để tận dụng khán giả phù hợp với các giá trị mà tôi đã xây dựng với tư cách là một người có ảnh hưởng.
+
+
+”Leah O’Rourke, a 31-year-old physical therapist for older adults, posts geriatric care advice on her Instagram account, Love to Care For.
+
+" Leah O'Rourke, một nhà vật lý trị liệu 31 tuổi dành cho người lớn tuổi, đăng lời khuyên chăm sóc lão khoa trên tài khoản Instagram của mình, Love to Care For.
+
+
+ “I guess I’m an influencer, which feels weird to say,” she says.
+
+ "Tôi đoán tôi là một người có ảnh hưởng, điều này cảm thấy kỳ lạ khi nói," cô nói.
+
+
+ With 3,900 followers, O’Rourke estimates she made about $500 last year on the Exchange, posting for four campaigns.
+
+ Với 3,900 người theo dõi, O'Rourke ước tính cô đã kiếm được khoảng 500 đô la vào năm ngoái trên Sàn giao dịch, đăng cho bốn chiến dịch.
+
+
+ She seized on one about Alzheimer’s, telling followers how dementia had tormented her grandmother and urging them to sign a petition asking Congress to fund paid medical leave for elder care.
+
+ Cô ấy đã nắm bắt một điều về bệnh Alzheimer, nói với những người theo dõi rằng chứng mất trí nhớ đã hành hạ bà của cô ấy như thế nào và thúc giục họ ký vào một bản kiến nghị yêu cầu Quốc hội tài trợ cho việc nghỉ phép y tế có lương để chăm sóc người cao tuổi.
+
+
+ Then there was LaRese Purnell, a tax accountant from Ohio who has built his brand advising Black families (and recently, several NFL athletes) about financial planning.
+
+ Sau đó, có LaRese Purnell, một kế toán thuế đến từ Ohio, người đã xây dựng thương hiệu của mình để tư vấn cho các gia đình Da đen (và gần đây, một số vận động viên NFL) về kế hoạch tài chính.
+
+
+ Purnell—who sits on multiple nonprofit boards, owns a small restaurant chain, and has hosted a Friday morning radio show in Cleveland—estimates that he has about 100,000 followers across various platforms.
+
+ Purnell — người ngồi trong nhiều hội đồng phi lợi nhuận, sở hữu một chuỗi nhà hàng nhỏ và đã tổ chức một chương trình radio sáng thứ Sáu ở Cleveland — ước tính rằng anh ấy có khoảng 100,000 người theo dõi trên nhiều nền tảng khác nhau.
+
+
+ Staff from Urban Legend “directed me into campaigns that fit my image,” Purnell says.
+
+ Nhân viên từ Urban Legend "đã hướng tôi vào các chiến dịch phù hợp với hình ảnh của tôi," Purnell nói.
+
+
+ He shot a few videos talking about the benefits of credit unions while walking his dog.
+
+ Anh ấy đã quay một vài video nói về lợi ích của các công đoàn tín dụng khi dắt chó đi dạo.
+
+
+ “If I told people in this community, ‘These are the best shoestrings to put in your shoes,’ they would believe me,” says Purnell, who sensed the cleverness in Urban Legend’s business model.
+
+ "Nếu tôi nói với mọi người trong cộng đồng này, 'Đây là những chiếc giày tốt nhất để đặt vào vị trí của bạn', họ sẽ tin tôi," Purnell, người cảm nhận được sự thông minh trong mô hình kinh doanh của Urban Legend, nói.
+
+
+ “Because I build trust.
+
+ "Bởi vì tôi xây dựng lòng tin.
+
+
+”Clients who purchased these ads are generally pleased.
+
+" Khách hàng đã mua những quảng cáo này thường hài lòng.
+
+
+ Rinat introduced me to two.
+
+ Rinat giới thiệu tôi với hai người.
+
+
+ Chris Lorence, a veteran marketing executive who placed the credit union ad, said the users who came from Purnell and other influencers were 11 times more likely to take action than their typical traffic.
+
+ Chris Lorence, một giám đốc tiếp thị kỳ cựu, người đã đặt quảng cáo của công đoàn tín dụng, cho biết những người dùng đến từ Purnell và những người có ảnh hưởng khác có khả năng hành động cao gấp 11 lần so với lưu lượng truy cập thông thường của họ.
+
+
+ Another client, Sean Clifford, runs a technology company called Canopy that blocks pornography from family devices.
+
+ Một khách hàng khác, Sean Clifford, điều hành một công ty công nghệ có tên Canopy chặn nội dung khiêu dâm từ các thiết bị gia đình.
+
+
+ To Clifford’s surprise, Canopy’s campaign attracted a wide array of spokespeople, and the Exchange “brought new influencers to the table that I never would have dreamed of approaching.
+
+ Trước sự ngạc nhiên của Clifford, chiến dịch của Canopy đã thu hút một loạt người phát ngôn và Sàn giao dịch "đã đưa những người có ảnh hưởng mới đến bàn mà tôi không bao giờ có thể mơ ước được tiếp cận.
+
+
+” One was a firebrand political commentator in his twenties—“very political, very controversial,” is all Clifford would say—while others were news media personalities who attract large followings on Instagram and TikTok.
+
+" Một người là một nhà bình luận chính trị đầy lửa ở độ tuổi hai mươi — "rất chính trị, rất gây tranh cãi", là tất cả những gì Clifford sẽ nói — trong khi những người khác là những nhân vật truyền thông tin tức thu hút lượng lớn người theo dõi trên Instagram và TikTok.
+
+
+Clifford, who attended the great books program at St.
+
+Clifford, người đã tham dự chương trình sách tuyệt vời tại Đại học St.
+
+
+ John’s University, says Urban Legend’s model—while undeniably effective—raised deeper questions.
+
+ John,, cho biết mô hình của Urban Legend — mặc dù không thể phủ nhận là hiệu quả — đã đặt ra những câu hỏi sâu sắc hơn.
+
+
+ He cited Plato’s ancient dialog Phaedrus, in which two gods, Thamus and Theuth, argue fiercely about the invention of writing.
+
+ Ông trích dẫn hộp thoại cổ của Plato, Phaedrus, trong đó hai vị thần, Thamus và Theuth, tranh luận gay gắt về việc phát minh ra chữ viết.
+
+
+ Far from enhancing truth, Thamus warned, humanity’s “trust in writings” by outsiders would degrade their critical faculties.
+
+ Khác xa với việc nâng cao sự thật, Thamus cảnh báo, "niềm tin vào các tác phẩm" của nhân loại bởi những người ngoài cuộc sẽ làm suy giảm các khoa quan trọng của họ.
+
+
+Before the afternoon at Urban Legend headquarters ended, Rinat convened an all-hands meeting to discuss the Exchange’s forthcoming mobile app—for when influencers have a “sitting-at-a-red-light moment,” Rinat explains.
+
+ Trước khi buổi chiều tại trụ sở Của Urban Legend kết thúc, Rinat đã triệu tập một cuộc họp tất tay để thảo luận về ứng dụng di động sắp tới của Sàn giao dịch — vì khi những người có ảnh hưởng có "khoảnh khắc ngồi dưới ánh sáng đỏ", Rinat giải thích.
+
+
+ Throughout the day, the most salient refrains were words like “authentic” and “trust”—a reminder, if nothing else, of what Urban Legend is really selling.
+
+ Trong suốt cả ngày, những điệp khúc nổi bật nhất là những từ như "xác thực" và "tin tưởng" - một lời nhắc nhở, nếu không có gì khác, về những gì Urban Legend thực sự đang bán.
+
+
+ Rinat situated the company along a spectrum of persuasion.
+
+ Rinat định vị công ty dọc theo một loạt các thuyết phục.
+
+
+ “What’s the highest possible thing on that spectrum? It’s probably a one-to-one communication—somebody you trust,” he says.
+
+ "Điều cao nhất có thể có trên quang phổ đó là gì? Đó có lẽ là một cuộc giao tiếp xnumx-XNUMX - người mà bạn tin tưởng, "anh nói.
+
+
+ “We’re just below that.
+
+ " "Chúng tôi chỉ ở dưới mức đó.
+
+
+” This is why it was key, Clark explains, that influencers craft the message.
+
+" Đây là lý do tại sao điều quan trọng, Clark giải thích, những người có ảnh hưởng tạo ra thông điệp.
+
+
+ The Exchange, she says, “lets the creators’ voices sing.
+
+ Sàn giao dịch, cô ấy nói, "hãy để giọng nói của những người sáng tạo hát.
+
+
+”Last summer, then White House press secretary Jen Psaki filmed a series of clips with TikTok star Benny Drama to tout the coronavirus vaccine.
+
+" Mùa hè năm ngoái, thư ký báo chí Nhà Trắng khi đó là Jen Psaki đã quay một loạt clip với ngôi sao TikTok Benny Drama để chào hàng vắc-xin coronavirus.
+
+
+ Earlier this year, Biden administration officials gave a special briefing on the war in Ukraine to 30 TikTok influencers.
+
+ Đầu năm nay, các quan chức chính quyền Biden đã đưa ra một cuộc họp ngắn đặc biệt về cuộc chiến ở Ukraine cho 30 người có ảnh hưởng trên TikTok.
+
+
+ And when Congress was advancing an antitrust bill to regulate Amazon, Google, and Apple, The Washington Post reported that activist groups and their Big Tech opponents each hired TikTok personalities to duke it out with a flurry of videos—some supporting the “historic bipartisan legislation to #ReinInBigTech,” others decrying the proposal as “dumb and bad economically.
+
+ Và khi Quốc hội đang thúc đẩy một dự luật chống độc quyền để điều chỉnh Amazon, Google và Apple, The Washington Post đã báo cáo rằng các nhóm hoạt động và các đối thủ Big Tech của họ đều thuê các nhân vật TikTok để loại bỏ nó bằng một loạt video — một số ủng hộ "luật lưỡng đảng lịch sử để #ReinInBigTech", những người khác chỉ trích đề xuất này là "ngu ngốc và tồi tệ về mặt kinh tế".
+
+
+”Washington’s political power brokers are quietly inching toward a full embrace of influencers.
+
+ Các nhà môi giới quyền lực chính trị của Washington đang âm thầm nhích dần về phía những người có ảnh hưởng.
+
+
+ If not handled with care, however, that can be hazardous—particularly when the arrangement is unmasked.
+
+ Tuy nhiên, nếu không được xử lý cẩn thận, điều đó có thể gây nguy hiểm — đặc biệt là khi sự sắp xếp bị vạch mặt.
+
+
+ During the Democratic presidential primary of 2020, BuzzFeed News reported that a super PAC for Senator Cory Booker had tried to entice influencers with cash, giving Booker an aura of desperation.
+
+ Trong cuộc bầu cử sơ bộ tổng thống của đảng Dân chủ năm 2020, BuzzFeed News đưa tin rằng một siêu PAC của Thượng nghị sĩ Cory Booker đã cố gắng lôi kéo những người có ảnh hưởng bằng tiền mặt, mang lại cho Booker một hào quang tuyệt vọng.
+
+
+ Later in the race, Mike Bloomberg found himself in trouble when a surge of meme creators began aggressively pushing his candidacy—but some left it unclear whether the posts, which garnered $150 a pop, had been sponsored.
+
+ Sau đó trong cuộc đua, Mike Bloomberg thấy mình gặp rắc rối khi sự gia tăng của những người sáng tạo meme bắt đầu tích cực thúc đẩy ứng cử viên của anh ấy — nhưng một số người cho rằng không rõ liệu các bài đăng, thu được 150 đô la một bản pop, đã được tài trợ hay chưa.
+
+
+“Relying on financially motivated influencers to be ethical is naive.
+
+ Dựa vào những người có ảnh hưởng có động cơ tài chính để có đạo đức là điều ngây thơ ".
+
+
+”The Federal Trade Commission requires people to disclose if they’ve been paid to endorse something online, using terms like “#Ad” or “Sponsored.
+
+ Ủy ban Thương mại Liên bang yêu cầu mọi người tiết lộ nếu họ đã được trả tiền để xác nhận điều gì đó trực tuyến, sử dụng các thuật ngữ như "#Ad" hoặc "Được tài trợ".
+
+
+” Around the time of the Bloomberg revelation, Rohit Chopra, an FTC commissioner, issued a statement clarifying that “paying an influencer to pretend that their endorsement or review is untainted by a financial relationship” is “illegal payola.
+
+ Vào khoảng thời gian tiết lộ của Bloomberg, Rohit Chopra, một ủy viên FTC, đã đưa ra một tuyên bố làm rõ rằng "trả tiền cho một người có ảnh hưởng để giả vờ rằng sự chứng thực hoặc đánh giá của họ không bị ảnh hưởng bởi một mối quan hệ tài chính" là "payola bất hợp pháp".
+
+
+” (Although one brand has been penalized by the FTC for misleading influencer marketing, no influencer, broker, or platform has yet faced penalties for failure to disclose.
+
+ (Mặc dù một thương hiệu đã bị FTC phạt vì tiếp thị người ảnh hưởng gây hiểu lầm, nhưng vẫn chưa có người ảnh hưởng, nhà môi giới hoặc nền tảng nào phải đối mặt với hình phạt vì không tiết lộ.
+
+
+)Urban Legend’s approach to disclosure is, effectively, the honor system.
+
+) Cách tiếp cận của Urban Legend để tiết lộ, một cách hiệu quả, là hệ thống danh dự.
+
+
+ Formally, influencers are required to make disclosures when they agree to the terms and conditions, and they are reminded during their onboarding.
+
+ Chính thức, những người có ảnh hưởng được yêu cầu tiết lộ khi họ đồng ý với các điều khoản và điều kiện, và họ được nhắc nhở trong quá trình giới thiệu.
+
+
+ But Rinat doesn’t enforce the provision; that’s the FTC’s job, and Rinat says it's on the influencers to follow the agency's guidelines.
+
+ Nhưng Rinat không thực thi điều khoản này; đó là công việc của FTC và Rinat nói rằng những người có ảnh hưởng phải tuân theo các nguyên tắc của cơ quan.
+
+
+Researchers who spoke to WIRED found this posture unconvincing.
+
+ Các nhà nghiên cứu đã nói chuyện với WIRED thấy tư thế này không thuyết phục.
+
+
+ “Relying on financially motivated influencers to be ethical is naive,” says Renée DiResta, who studies narrative manipulation at the Stanford Internet Observatory.
+
+ "Dựa vào những người có ảnh hưởng có động cơ tài chính để có đạo đức là điều ngây thơ," Renée DiResta, người nghiên cứu thao túng tường thuật tại Đài quan sát Internet Stanford cho biết.
+
+
+ She called influencer disclosure “yet another area in which law hasn’t caught up to digital infrastructure.
+
+ Cô ấy gọi việc tiết lộ người có ảnh hưởng là "một lĩnh vực khác mà luật pháp chưa bắt kịp cơ sở hạ tầng kỹ thuật số.
+
+
+” Many suspect that the lack of disclosure enforcement has bulldozed political money toward influencers, whose campaigns are not logged in Facebook’s political advertising archive.
+
+" Nhiều người nghi ngờ rằng việc thiếu thực thi tiết lộ đã san ủi tiền chính trị cho những người có ảnh hưởng, những người có chiến dịch không được đăng nhập vào kho lưu trữ quảng cáo chính trị của Facebook.
+
+
+ The Federal Elections Commission, too, has scant rules governing social media, leaving the entire field open, potentially, to anonymous money.
+
+ Ủy ban Bầu cử Liên bang cũng vậy, có rất ít quy tắc quản lý phương tiện truyền thông xã hội, khiến toàn bộ lĩnh vực này mở, có khả năng, cho tiền ẩn danh.
+
+
+The click-per-payment model, DiResta says, may also change influencers’ behavior—creating the “incentive to produce and amplify content in the most inflammatory way possible in order to drive the audience to take an action.
+
+ DiResta cho biết, mô hình nhấp chuột cho mỗi lần thanh toán cũng có thể thay đổi hành vi của những người có ảnh hưởng — tạo ra "động lực để sản xuất và khuếch đại nội dung theo cách kích động nhất có thể để thúc đẩy khán giả thực hiện hành động.
+
+
+” But at the most fundamental level, researchers voiced a concern about the potential for deception in civic discourse.
+
+ " Nhưng ở cấp độ cơ bản nhất, các nhà nghiên cứu đã bày tỏ lo ngại về khả năng lừa dối trong diễn ngôn dân sự.
+
+
+ DiResta said, “I don’t think the public really understands the extent to which the people making these posts are, in fact, potentially becoming enriched personally by them.
+
+ DiResta nói, "Tôi không nghĩ rằng công chúng thực sự hiểu mức độ mà những người thực hiện những bài đăng này, trên thực tế, có khả năng trở nên phong phú hơn bởi cá nhân họ.
+
+
+”The ramifications of not disclosing these ties can touch anyone, from your credulous grandmother all the way up to 1600 Pennsylvania Avenue.
+
+" Sự phân nhánh của việc không tiết lộ những mối quan hệ này có thể chạm đến bất kỳ ai, từ người bà đáng tin cậy của bạn cho đến tận 1600 Đại lộ Pennsylvania.
+
+
+ A knowledgeable person with insight into an Urban Legend campaign described one client’s effort to apply pressure on the FCC.
+
+ Một người hiểu biết với cái nhìn sâu sắc về chiến dịch Huyền thoại đô thị đã mô tả nỗ lực của một khách hàng trong việc gây áp lực lên FCC.
+
+
+ According to the person, one of the influencers enlisted was Eric Bolling, a disgraced former Fox News host and one of just 51 people President Trump followed on Twitter.
+
+ Theo người này, một trong những người có ảnh hưởng nhập ngũ là Eric Bolling, một cựu người dẫn chương trình fox news bị thất sủng và là một trong 51 người mà Tổng thống Trump theo dõi trên Twitter.
+
+
+ Bolling’s post involved a “telecoms issue,” with a goal “to apply as much pressure” as possible on the FCC.
+
+ Bài đăng của Bolling liên quan đến một "vấn đề viễn thông", với mục tiêu "gây áp lực càng nhiều" càng tốt lên FCC.
+
+
+ There were “thousands of engagements overnight” from Bolling’s tweet, the person said, which “the FCC commissioner, Ajit Pai, and the president followed and saw.
+
+ Người này cho biết đã có "hàng nghìn cuộc đính hôn qua đêm" từ dòng tweet của Bolling, mà "ủy viên FCC, Ajit Pai, và tổng thống đã theo dõi và nhìn thấy.
+
+
+”Today, Bolling’s tweet does not appear to be on his feed.
+
+" Hôm nay, dòng tweet của Bolling dường như không có trên nguồn cấp dữ liệu của anh ấy.
+
+
+ Most social media marketing campaigns get deleted when they’ve run their course, and I found Urban Legend’s campaigns to be no exception.
+
+ Hầu hết các chiến dịch tiếp thị truyền thông xã hội đều bị xóa khi họ đã chạy khóa học của mình và tôi thấy các chiến dịch của Urban Legend cũng không ngoại lệ.
+
+
+ Rinat said influencers always know the identity of a client—and followers will know, too, because the link generally takes them to a campaign page, where the sponsor can be identified.
+
+ Rinat cho biết những người có ảnh hưởng luôn biết danh tính của khách hàng — và những người theo dõi cũng sẽ biết, bởi vì liên kết thường đưa họ đến một trang chiến dịch, nơi có thể xác định được nhà tài trợ.
+
+
+ Later, he said transparency is “a very important thing to influencer marketing, and particularly for our model.
+
+ Sau đó, ông cho biết tính minh bạch là "một điều rất quan trọng đối với tiếp thị người ảnh hưởng và đặc biệt là đối với mô hình của chúng tôi.
+
+
+ Without it, audience trust drops, and the resulting engagement drops.
+
+ Nếu không có nó, niềm tin của khán giả giảm xuống và kết quả là mức độ tương tác giảm xuống.
+
+
+” He also called for clearer rules from enforcement agencies.
+
+ Ông cũng kêu gọi các quy tắc rõ ràng hơn từ các cơ quan thực thi.
+
+
+While lionizing transparency, Urban Legend continues to shield the identities of its influencers and the clients who pay them.
+
+ Trong khi tăng cường tính minh bạch, Urban Legend tiếp tục che chắn danh tính của những người có ảnh hưởng và những khách hàng trả tiền cho họ.
+
+
+While lionizing transparency, Urban Legend continues to shield the identities of its influencers and the clients who pay them.
+
+ Trong khi tăng cường tính minh bạch, Urban Legend tiếp tục che chắn danh tính của những người có ảnh hưởng và những khách hàng trả tiền cho họ.
+
+
+ The company’s tactfully hands-off approach to disclosure, Farid said, makes the Exchange “a system that is—by design—ripe for abuse.
+
+ Farid cho biết, cách tiếp cận khéo léo của công ty đối với việc tiết lộ thông tin, khiến Sàn giao dịch trở thành "một hệ thống — theo thiết kế — đã chín muồi để lạm dụng".
+
+
+”“At best, the appearance is bad,” he continued.
+
+ Tốt nhất, ngoại hình là xấu, "anh tiếp tục.
+
+
+ “At worst, it’s hiding something nefarious.
+
+ "Tệ nhất, nó đang che giấu điều gì đó bất chính.
+
+
+”The satirist and critic H.
+
+" Nhà châm biếm và phê bình H.
+
+
+ L.
+
+ L.
+
+
+ Mencken once wrote that “whenever you hear a man speak of his love for his country, it is a sign that he expects to be paid for it.
+
+ Mencken đã từng viết rằng "bất cứ khi nào bạn nghe một người đàn ông nói về tình yêu của mình dành cho đất nước của mình, đó là một dấu hiệu cho thấy anh ta mong đợi được trả tiền cho nó.
+
+
+” The bone-dry notion that Americans would happily sell anything—even their patriotism—must have seemed like an amusing hypothetical at the time.
+
+" Quan niệm khô khan rằng người Mỹ sẽ vui vẻ bán bất cứ thứ gì - ngay cả lòng yêu nước của họ - chắc hẳn đã có vẻ như là một giả thuyết thú vị vào thời điểm đó.
+
+
+ But perhaps Mencken simply didn’t live long enough to see Americans offered the chance.
+
+ Nhưng có lẽ Mencken chỉ đơn giản là không sống đủ lâu để thấy người Mỹ được trao cơ hội.
+
+
+Last September, HuffPost reporter Jesselyn Cook noted a wave of Instagram posts that seemed to correspond with the timing of a large payment to Urban Legend for “advertising,” according to FEC filings, through a partner firm called Legendary Campaigns.
+
+ Tháng XNUMX năm ngoái, phóng viên Jesselyn Cook của HuffPost đã ghi nhận một làn sóng các bài đăng trên Instagram dường như tương ứng với thời điểm thanh toán lớn cho Urban Legend để "quảng cáo", theo hồ sơ của FEC, thông qua một công ty đối tác có tên Legendary Campaigns.
+
+
+ The purchase was made by the National Republican Senatorial Committee, which fundraises for Senate campaigns.
+
+ Việc mua hàng được thực hiện bởi Ủy ban Thượng nghị sĩ Đảng Cộng hòa Quốc gia, nơi gây quỹ cho các chiến dịch của Thượng viện.
+
+
+ The posts had headlines like “End to Mask Mandates, Endless Lockdowns and Vaccine Passports!” and demanded “a full investigation into Biden-tech collusion.
+
+ Các bài đăng có tiêu đề như "Chấm dứt nhiệm vụ đeo mặt nạ, khóa cửa vô tận và hộ chiếu vắc xin!" và yêu cầu "một cuộc điều tra đầy đủ về sự thông đồng của Biden-tech.
+
+
+” Each post linked to NRSC petitions, which harvested names and emails.
+
+ " Mỗi bài đăng được liên kết với các kiến nghị NRSC, thu thập tên và email.
+
+
+When I asked Rinat about the posts, he initially said he didn’t think the campaigns came from Urban Legend.
+
+ Khi tôi hỏi Rinat về các bài đăng, ban đầu anh ấy nói rằng anh ấy không nghĩ rằng các chiến dịch đến từ Urban Legend.
+
+
+ A few weeks later, however, an Urban Legend client shared with WIRED several backdated screenshots of their influencers’ posts.
+
+ Tuy nhiên, vài tuần sau, một khách hàng của Urban Legend đã chia sẻ với WIRED một số ảnh chụp màn hình được sao lưu các bài đăng của những người có ảnh hưởng của họ.
+
+
+ Each of these posts redirected users to a petition by using a highly unusual URL construction, which began “exc.
+
+ Mỗi bài đăng này đều chuyển hướng người dùng đến một bản kiến nghị bằng cách sử dụng một cấu trúc URL rất bất thường, bắt đầu "exc.
+
+
+to.
+
+to".
+
+
+” According to computer science researchers who examined the string, the top-level domain “.
+
+ Theo các nhà nghiên cứu khoa học máy tính đã kiểm tra chuỗi, tên miền cấp cao nhất ".
+
+
+to” is registered to the country of Tonga and has a registration history that cannot be seen.
+
+to" được đăng ký với đất nước Tonga và có lịch sử đăng ký không thể nhìn thấy.
+
+
+ The domain “exc” was registered with the URL-shortening service Bit.
+
+ Tên miền "exc" đã được đăng ký với dịch vụ rút ngắn URL Bit.
+
+
+ly, which works with private business clients to turn their registered domains into redirect links (such as “es.
+
+ly, dịch vụ này làm việc với các khách hàng doanh nghiệp tư nhân để biến các miền đã đăng ký của họ thành các liên kết chuyển hướng (chẳng hạn như "es.
+
+
+pn” for the sports network).
+
+pn" cho mạng thể thao).
+
+
+ Since Urban Legend’s founding in 2020, “exc.
+
+ Kể từ khi Thành lập Urban Legend vào năm 2020, "exc.
+
+
+to” could not be found elsewhere on the internet, except in one place: the HuffPost story, in which a 16-year-old’s Instagram post for the NRSC bore the telltale URL “END MASK MANDATES: exc.
+
+to" không thể được tìm thấy ở nơi khác trên internet, ngoại trừ ở một nơi: câu chuyện HuffPost, trong đó bài đăng trên Instagram của một thanh niên 16 tuổi cho NRSC mang URL kể chuyện "END MASK MANDATES: exc.
+
+
+to/3zLvUFB.
+
+to/3zLvUFB.
+
+
+”When WIRED used third-party search tools to scan Facebook and Twitter for the URL string, it found 726 posts from between July and November 2021.
+
+ " Khi WIRED sử dụng các công cụ tìm kiếm của bên thứ ba để quét chuỗi URL của Facebook và Twitter, nó đã tìm thấy 726 bài đăng từ tháng 2021 đến tháng XNUMX năm XNUMX.
+
+
+ Not long after Cook’s report, the use of “exc.
+
+ Không lâu sau báo cáo của Cook, việc sử dụng "exc.
+
+
+to” abruptly stopped.
+
+to" đột ngột dừng lại.
+
+
+ (Since then, Urban Legend’s links have used a standard Bit.
+
+ (Kể từ đó, các liên kết của Urban Legend đã sử dụng định dạng Bit.
+
+
+ly format identical to billions of others on the internet, making them effectively untraceable.
+
+ly tiêu chuẩn giống hệt với hàng tỷ người khác trên internet, khiến chúng không thể truy cập được một cách hiệu quả.
+
+
+) The posts closely matched what Rinat had shared about his creators and clients.
+
+) Các bài đăng gần giống với những gì Rinat đã chia sẻ về những người sáng tạo và khách hàng của mình.
+
+
+ Each linked to op-eds, petitions, or websites of advocacy organizations, including the NRSC, UsAgainst-Alzheimer’s Action, Canopy, and the Credit Union National Association.
+
+ Mỗi liên kết với op-eds, kiến nghị hoặc trang web của các tổ chức vận động, bao gồm NRSC, UsAgainst-Alzheimer's Action, Canopy và Hiệp hội Quốc gia Liên minh Tín dụng.
+
+
+ But the vast majority of them were about politics, with many sharing identical language in their appeals.
+
+ Nhưng đại đa số trong số họ là về chính trị, với nhiều người chia sẻ ngôn ngữ giống hệt nhau trong lời kêu gọi của họ.
+
+
+And there were other, more striking posts, which Rinat had not described.
+
+ Và có những bài viết khác, nổi bật hơn, mà Rinat đã không mô tả.
+
+
+ Empowered to connect with their value-aligned audiences and elevate causes that made them passionate, the influencers-for-hire let their voices sing.
+
+ Được trao quyền để kết nối với khán giả phù hợp với giá trị của họ và nâng cao những nguyên nhân khiến họ đam mê, những người có ảnh hưởng cho thuê đã để giọng hát của họ hát.
+
+
+“The radicals in the left thinks parents who stand up to WOKENESS in our schools are domestic terrorists!” wrote one influencer to their 8 million followers.
+
+ Những người cấp tiến ở cánh tả nghĩ rằng các bậc cha mẹ đứng lên chống lại WOKENESS trong trường học của chúng tôi là những kẻ khủng bố trong nước!" một người có ảnh hưởng đã viết cho 8 triệu người theo dõi của họ.
+
+
+ Another posted: “Thousands upon thousands of unvetted, illegal immigrants are standing by & waiting to rush our border as soon as Democrats pass their ‘infrastructure’ bill.
+
+ Một người khác đăng: "Hàng nghìn hàng nghìn người nhập cư bất hợp pháp, không được thèm muốn đang đứng bên cạnh và chờ đợi để gấp rút biên giới của chúng tôi ngay sau khi đảng Dân chủ thông qua dự luật 'cơ sở hạ tầng' của họ.
+
+
+” There were posts from podcasters (“Freedom Over Fauci!”), activists (“The Left is coming for religious freedom AGAIN”), and talking heads (“Democrats want to steal $3.
+
+" Có những bài đăng từ podcaster ("Freedom Over Fauci!"), các nhà hoạt động ("Cánh tả đang đến vì tự do tôn giáo MỘT LẦN NỮA"), và những người đứng đầu biết nói ("Đảng Dân chủ muốn ăn cắp 3.
+
+
+5 TRILLION of our taxpayer dollars”).
+
+5 NGHÌN TỶ đô la tiền đóng thuế của chúng tôi").
+
+
+ Creators were also linked to conservative institutions such as Turning Point USA and the America First Policy Institute, and conservative media like Breitbart and Newsmax.
+
+ Những người sáng tạo cũng được liên kết với các tổ chức bảo thủ như Turning Point USA và Viện Chính sách Đầu tiên của Mỹ, và các phương tiện truyền thông bảo thủ như Breitbart và Newsmax.
+
+
+ Others were unaffiliated, such as the former contestant from The Bachelorette who filmed his video appeal without a shirt: “The border’s a wreck! I’m getting Amber alerts every day! This is ridiculous!”In most cases, campaigns led to a page for harvesting emails.
+
+ Những người khác không liên kết, chẳng hạn như cựu thí sinh từ The Bachelorette, người đã quay video kháng cáo của mình mà không mặc áo sơ mi: "Biên giới là một đống đổ nát! Tôi nhận được cảnh báo Amber mỗi ngày! Điều này thật nực cười!" Trong hầu hết các trường hợp, các chiến dịch đã dẫn đến một trang để thu thập email.
+
+
+ But others drove traffic: to conservative publishers like the Patriot Post; to an online course by Hillsdale College; to the Kids Guide to Media Bias; or to pages that appeared to be run by PragerU, the Second Amendment Foundation, and Americans for Prosperity.
+
+ Nhưng những người khác đã thúc đẩy lưu lượng truy cập: đến các nhà xuất bản bảo thủ như Patriot Post; đến một khóa học trực tuyến của Hillsdale College; cho Trẻ em Hướng dẫn về Thiên vị Truyền thông; hoặc đến các trang dường như được điều hành bởi PragerU, Quỹ Tu chính án thứ hai và Người Mỹ vì sự thịnh vượng.
+
+
+ Occasionally, posters levied more banal appeals (“Take the #Prolife pledge!”).
+
+ Thỉnh thoảng, các áp phích đưa ra nhiều lời kêu gọi tầm thường hơn ("Hãy cam kết #Prolife!").
+
+
+ More frequently, rallying cries invoked critical race theory, immigration, and vaccine policies.
+
+ Thường xuyên hơn, những tiếng kêu tập hợp đã viện dẫn lý thuyết chủng tộc quan trọng, chính sách nhập cư và vắc xin.
+
+
+Among the creators were several mega-influencers.
+
+ Trong số những người sáng tạo có một số người có ảnh hưởng lớn.
+
+
+ Donald Trump Jr.
+
+ Donald Trump Jr.
+
+
+ posted at least 10 times on Twitter.
+
+ đã đăng ít nhất 10 lần trên Twitter.
+
+
+ “Mask Mandates, Endless Lockdowns, and Vaccine Passports.
+
+ "Nhiệm vụ đeo mặt nạ, khóa cửa vô tận và hộ chiếu vắc xin.
+
+
+ ENOUGH IS ENOUGH,” he wrote in July 2021, sharing an NRSC petition.
+
+ ĐỦ LÀ ĐỦ, "anh ấy viết vào tháng 2021 năm XNUMX, chia sẻ một bản kiến nghị của NRSC.
+
+
+ Laura Ingraham, the Fox host, posted twice to Facebook (“Woke teachers are injecting toxic critical race theory into America’s schools.
+
+ Laura Ingraham, người dẫn chương trình của Fox, đã đăng hai lần lên Facebook ("Các giáo viên Woke đang đưa lý thuyết chủng tộc quan trọng độc hại vào các trường học của Mỹ.
+
+
+ We must fight back!”) and linked to Heritage Action.
+
+ Chúng ta phải chiến đấu trở lại!) và liên kết với Heritage Action.
+
+
+ So did Dan Scavino, former social media adviser to President Trump; former Trump campaign spokesperson Katrina Pierson; and streaming duo Diamond and Silk.
+
+ Dan Scavino, cựu cố vấn truyền thông xã hội của Tổng thống Trump cũng vậy; cựu phát ngôn viên chiến dịch tranh cử của Trump Katrina Pierson; và bộ đôi phát trực tuyến Diamond và Silk.
+
+
+Almost two-thirds of the posts were conservative.
+
+Gần hai phần ba số bài đăng là bảo thủ.
+
+
+ But liberals pushed campaigns too: The comedian Walter Masterson was the top contributor on Twitter, posting in support of a $20 minimum wage, while popular travel writer BrokeAssStuart boosted legislation addressing unexpected medical bills.
+
+ Nhưng những người theo chủ nghĩa tự do cũng thúc đẩy các chiến dịch: Diễn viên hài Walter Masterson là người đóng góp hàng đầu trên Twitter, đăng bài ủng hộ mức lương tối thiểu 20 đô la, trong khi nhà văn du lịch nổi tiếng BrokeAssStuart tăng cường luật giải quyết các hóa đơn y tế bất ngờ.
+
+
+ Compared to their conservative counterparts, these posts focused more on policy, not culture wars, and appeared to be sponsored by groups like the Service Employees International Union and the Business Council for Sustainable Energy.
+
+ So với các đối tác bảo thủ của họ, các bài đăng này tập trung nhiều hơn vào chính sách, không phải chiến tranh văn hóa và dường như được tài trợ bởi các nhóm như Liên minh Nhân viên Dịch vụ Quốc tế và Hội đồng Kinh doanh vì Năng lượng Bền vững.
+
+
+ There were occasional nonpartisan campaigns, too, such as one by IBM.
+
+ Thỉnh thoảng cũng có những chiến dịch phi đảng phái, chẳng hạn như một chiến dịch của IBM.
+
+
+The 726 posts do not capture campaigns that were deleted, and they did not cover Instagram or TikTok.
+
+ 726 bài đăng không nắm bắt được các chiến dịch đã bị xóa và chúng không bao gồm Instagram hoặc TikTok.
+
+
+ WIRED reached out to several creators and clients implicated on the list.
+
+ WIRED đã liên hệ với một số người sáng tạo và khách hàng có liên quan trong danh sách.
+
+
+ None responded to deny their affiliation, and several—Masterson, BrokeAssStuart, the Business Council, and IBM—confirmed that they’d contracted with Urban Legend.
+
+ Không ai trả lời phủ nhận liên kết của họ, và một số — Masterson, BrokeAssStuart, Hội đồng Kinh doanh và IBM — xác nhận rằng họ đã ký hợp đồng với Urban Legend.
+
+
+ When WIRED provided a list of these and other creators and companies, Rinat indicated by email that some do and have worked with Urban Legend, but that others had not, declining to specify further.
+
+ Khi WIRED cung cấp danh sách những người sáng tạo và công ty này cũng như những người sáng tạo và công ty khác, Rinat đã chỉ ra qua email rằng một số người đã và đang làm việc với Urban Legend, nhưng những người khác thì không, từ chối chỉ định thêm.
+
+
+Virtually no one—just five influencers—disclosed their payments.
+
+ Hầu như không ai — chỉ có năm người có ảnh hưởng — tiết lộ các khoản thanh toán của họ.
+
+
+ Collectively, these posts had some 250,000 engagements.
+
+ Nói chung, những bài đăng này đã có khoảng 250,000 lượt tương tác.
+
+
+ Yet few of the earnest followers who retweeted, say, Trump Jr.
+
+ Tuy nhiên, rất ít trong số những người theo dõi nghiêm túc đã tweet lại, chẳng hạn như Trump Jr.
+
+
+—not the grandmother from Alabama, the retired mother from West Virginia, or the Florida small business owner whose bio vows to “expose the DC swamp”—evinced any recognition that what they’d presumed was the dispensation of civic duty was, in reality, just another method for enriching someone in Washington.
+
+ - không phải bà ngoại đến từ Alabama, người mẹ đã nghỉ hưu từ Tây Virginia, hoặc chủ doanh nghiệp nhỏ ở Florida có lời thề sinh học sẽ "phơi bày đầm lầy DC" - đã đánh bại bất kỳ sự công nhận nào rằng những gì họ cho là sự phân phối nghĩa vụ công dân, trên thực tế, chỉ là một phương pháp khác để làm giàu cho ai đó ở Washington.
+
+
+Researchers think the major platforms, the FTC, and marketing firms themselves all have a role to play in taming what DiResta calls “a Wild West.
+
+Các nhà nghiên cứu nghĩ rằng các nền tảng chính,  FTC và bản thân các công ty tiếp thị đều có vai trò trong việc thuần hóa cái mà DiResta gọi là "miền Tây hoang dã".
+
+
+” Until then, the march of influencers will proceed deeper into politics.
+
+ Cho đến lúc đó, cuộc tuần hành của những người có ảnh hưởng sẽ tiến sâu hơn vào chính trị.
+
+
+ In February and March of this year, the NRSC again paid a large sum—more than $500,000—to Urban Legend through a partner firm.
+
+ Vào tháng 500,000 và tháng XNUMX năm nay, NRSC một lần nữa đã trả một khoản tiền lớn — hơn XNUMX đô la — cho Urban Legend thông qua một công ty đối tác.
+
+
+ “Does this become normal?” DiResta asks.
+
+ "Điều này có trở nên bình thường không?" DiResta hỏi.
+
+
+ “I think it probably does.
+
+ "Tôi nghĩ có lẽ là có.
+
+
+”“Here’s the irony of this whole thing,” says Anat Shenker-Osorio, the progressive consultant.
+
+" Đây là điều trớ trêu của toàn bộ điều này, "Anat Shenker-Osorio, nhà tư vấn tiến bộ nói.
+
+
+ “Urban Legend is relying upon precisely the same thing”—trust—“that it is arguably destroying.
+
+ " "Truyền thuyết đô thị đang dựa vào chính xác điều tương tự" - tin tưởng - "rằng nó được cho là đang phá hủy.
+
+
+” Yet if Rinat’s model became the norm, even she concedes that “progressive groups would use this thing.
+
+" Tuy nhiên, nếu mô hình của Rinat trở thành chuẩn mực, ngay cả cô ấy cũng thừa nhận rằng "các nhóm tiến bộ sẽ sử dụng thứ này".
+
+
+” She paused.
+
+ Cô ấy dừng lại.
+
+
+ “Because you don’t want to unilaterally disarm.
+
+ "Bởi vì ngươi không muốn đơn phương giải giáp.
+
+
+”One view of Urban Legend, then, was as a reclamation project—pumping a dwindling supply of trust through a blanched and beleaguered body politic.
+
+" Sau đó, một quan điểm của Urban Legend là như một dự án cải tạo — bơm một nguồn cung cấp niềm tin đang cạn kiệt thông qua một nền chính trị cơ thể bị che khuất và bị bao vây.
+
+
+ From another vantage, though, the model resembled something else: an excavation, like the mining of a rare mineral.
+
+ Tuy nhiên, từ một vị trí thuận lợi khác, mô hình này giống như một thứ khác: một cuộc khai quật, giống như khai thác một khoáng sản quý hiếm.
+
+
+ What happens in a country where trust is a scarce and fading resource, as prized as diamonds? As Mencken would tell you, it gets put up for sale.
+
+ Điều gì xảy ra ở một đất nước nơi niềm tin là một nguồn tài nguyên khan hiếm và mờ dần, được đánh giá cao như kim cương? Như Mencken sẽ nói với bạn, nó sẽ được rao bán.
+
+
+Additional reporting by Samantha Spengler (@samspeng).
+
+ Báo cáo bổ sung của Samantha Spengler (@samspeng).
+
+
+Updated 7/16/2022 2:00 pm ET: This story has been updated to clarify that Katrina Pierson is a former spokesperson for the Trump campaign.
+
+ Cập nhật ngày 16/7/2022 2:00 chiều ET: Câu chuyện này đã được cập nhật để làm rõ rằng Katrina Pierson là cựu phát ngôn viên của chiến dịch tranh cử của Trump.
+
+
+Let us know what you think about this article.
+
+ Hãy cho chúng tôi biết suy nghĩ của bạn về bài viết này.
+
+
+ Submit a letter to the editor at mail@wired.
+
+ Gửi một lá thư cho biên tập viên tại mail@wired.
+
+
+com.
+
+com.
+
+
+.
+
